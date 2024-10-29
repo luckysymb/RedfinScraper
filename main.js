@@ -50,10 +50,13 @@ async function getAdditionalInfo(permalink){
 
     const address = await page.evaluate(() => {
         const el = document.querySelector('.aao_other_locations');
-        return el ? el.innerText.replace(/\s+/g, '').trim() : 'Address not found';
+        return el ? el.innerText.split('\n') : 'Address not found';
     });
 
-    console.log(address);
+    // .replace(/\s+/g, '').trim()
+
+    console.log(address[0] + "\n" + address[1]);
+
     await page.close();
     await browser.close();
 
