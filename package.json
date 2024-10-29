@@ -1,0 +1,20 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "engines": {
+    "node": "v22.8.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.7.2",
+    "puppeteer": "^23.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-utilz": "^4.0.8"
+  }
+}

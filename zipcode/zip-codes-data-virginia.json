@@ -1,0 +1,6190 @@
+[
+  {
+    "zip": "22193",
+    "population": 83796,
+    "city": "Woodbridge",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23464",
+    "population": 76131,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22191",
+    "population": 72215,
+    "city": "Woodbridge",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23462",
+    "population": 68499,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20147",
+    "population": 66917,
+    "city": "Ashburn",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23322",
+    "population": 66091,
+    "city": "Chesapeake",
+    "county": "Chesapeake city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20148",
+    "population": 62554,
+    "city": "Ashburn",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22407",
+    "population": 62301,
+    "city": "Fredericksburg",
+    "county": "Spotsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22554",
+    "population": 62257,
+    "city": "Stafford",
+    "county": "Stafford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23320",
+    "population": 62000,
+    "city": "Chesapeake",
+    "county": "Chesapeake city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22030",
+    "population": 61665,
+    "city": "Fairfax",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23456",
+    "population": 60182,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22192",
+    "population": 59238,
+    "city": "Woodbridge",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22003",
+    "population": 58872,
+    "city": "Annandale",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23454",
+    "population": 58022,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23452",
+    "population": 57180,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23112",
+    "population": 56428,
+    "city": "Midlothian",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23223",
+    "population": 55072,
+    "city": "Richmond",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23666",
+    "population": 53655,
+    "city": "Hampton",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23185",
+    "population": 53373,
+    "city": "Williamsburg",
+    "county": "James City County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22204",
+    "population": 52359,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23434",
+    "population": 51108,
+    "city": "Suffolk",
+    "county": "Suffolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20171",
+    "population": 51081,
+    "city": "Herndon",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23455",
+    "population": 50665,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20176",
+    "population": 50640,
+    "city": "Leesburg",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22304",
+    "population": 49711,
+    "city": "Alexandria",
+    "county": "Alexandria city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20110",
+    "population": 49620,
+    "city": "Manassas",
+    "county": "Manassas city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24060",
+    "population": 48423,
+    "city": "Blacksburg",
+    "county": "Montgomery County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23234",
+    "population": 45139,
+    "city": "Richmond",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22015",
+    "population": 44959,
+    "city": "Burke",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20109",
+    "population": 44781,
+    "city": "Manassas",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23188",
+    "population": 44465,
+    "city": "Williamsburg",
+    "county": "James City County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23451",
+    "population": 43641,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20170",
+    "population": 43557,
+    "city": "Herndon",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20120",
+    "population": 43315,
+    "city": "Centreville",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23602",
+    "population": 43127,
+    "city": "Newport News",
+    "county": "Newport News city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23608",
+    "population": 42684,
+    "city": "Newport News",
+    "county": "Newport News city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20164",
+    "population": 42310,
+    "city": "Sterling",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23225",
+    "population": 42249,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23803",
+    "population": 41913,
+    "city": "Petersburg",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23323",
+    "population": 41909,
+    "city": "Chesapeake",
+    "county": "Chesapeake city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24502",
+    "population": 41134,
+    "city": "Lynchburg",
+    "county": "Lynchburg city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22903",
+    "population": 41040,
+    "city": "Charlottesville",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23059",
+    "population": 41009,
+    "city": "Glen Allen",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23832",
+    "population": 40992,
+    "city": "Chesterfield",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23669",
+    "population": 39847,
+    "city": "Hampton",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22801",
+    "population": 39154,
+    "city": "Harrisonburg",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24018",
+    "population": 38924,
+    "city": "Roanoke",
+    "county": "Roanoke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22033",
+    "population": 38610,
+    "city": "Fairfax",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23321",
+    "population": 38586,
+    "city": "Chesapeake",
+    "county": "Chesapeake city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23224",
+    "population": 38546,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24153",
+    "population": 38386,
+    "city": "Salem",
+    "county": "Roanoke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22201",
+    "population": 38010,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23111",
+    "population": 37528,
+    "city": "Mechanicsville",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20111",
+    "population": 37461,
+    "city": "Manassas",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24401",
+    "population": 37375,
+    "city": "Staunton",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23231",
+    "population": 37370,
+    "city": "Henrico",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20155",
+    "population": 37106,
+    "city": "Gainesville",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22079",
+    "population": 36857,
+    "city": "Lorton",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23060",
+    "population": 36699,
+    "city": "Glen Allen",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23831",
+    "population": 36606,
+    "city": "Chester",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22309",
+    "population": 36265,
+    "city": "Alexandria",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22031",
+    "population": 35872,
+    "city": "Fairfax",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22405",
+    "population": 35795,
+    "city": "Fredericksburg",
+    "county": "Stafford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22701",
+    "population": 35749,
+    "city": "Culpeper",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22901",
+    "population": 35610,
+    "city": "Charlottesville",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23228",
+    "population": 35592,
+    "city": "Henrico",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22314",
+    "population": 35577,
+    "city": "Alexandria",
+    "county": "Alexandria city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20152",
+    "population": 35538,
+    "city": "Chantilly",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23229",
+    "population": 35457,
+    "city": "Henrico",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23453",
+    "population": 35117,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22630",
+    "population": 34942,
+    "city": "Front Royal",
+    "county": "Warren County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22042",
+    "population": 34860,
+    "city": "Falls Church",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22207",
+    "population": 34647,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20165",
+    "population": 34222,
+    "city": "Sterling",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20105",
+    "population": 33967,
+    "city": "Aldie",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23220",
+    "population": 33667,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23435",
+    "population": 33614,
+    "city": "Suffolk",
+    "county": "Suffolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23116",
+    "population": 33550,
+    "city": "Mechanicsville",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20175",
+    "population": 33189,
+    "city": "Leesburg",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22306",
+    "population": 32842,
+    "city": "Alexandria",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23235",
+    "population": 32673,
+    "city": "Richmond",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22153",
+    "population": 32546,
+    "city": "Springfield",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22980",
+    "population": 32133,
+    "city": "Waynesboro",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22602",
+    "population": 32032,
+    "city": "Winchester",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20136",
+    "population": 31733,
+    "city": "Bristow",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23860",
+    "population": 31556,
+    "city": "Hopewell",
+    "county": "Prince George County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24540",
+    "population": 31405,
+    "city": "Danville",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22556",
+    "population": 31200,
+    "city": "Stafford",
+    "county": "Stafford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23233",
+    "population": 31164,
+    "city": "Henrico",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22408",
+    "population": 31130,
+    "city": "Fredericksburg",
+    "county": "Spotsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23503",
+    "population": 30991,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22101",
+    "population": 30729,
+    "city": "McLean",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24112",
+    "population": 30370,
+    "city": "Martinsville",
+    "county": "Henry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23513",
+    "population": 30168,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22152",
+    "population": 30155,
+    "city": "Springfield",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23606",
+    "population": 29807,
+    "city": "Newport News",
+    "county": "Newport News city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22310",
+    "population": 29788,
+    "city": "Alexandria",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20191",
+    "population": 29758,
+    "city": "Reston",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24073",
+    "population": 29595,
+    "city": "Christiansburg",
+    "county": "Montgomery County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24012",
+    "population": 29545,
+    "city": "Roanoke",
+    "county": "Roanoke city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22032",
+    "population": 29510,
+    "city": "Fairfax",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22315",
+    "population": 29358,
+    "city": "Alexandria",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23518",
+    "population": 29337,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22601",
+    "population": 29306,
+    "city": "Winchester",
+    "county": "Winchester city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22041",
+    "population": 29132,
+    "city": "Falls Church",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22802",
+    "population": 29066,
+    "city": "Harrisonburg",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20112",
+    "population": 28856,
+    "city": "Manassas",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23505",
+    "population": 28619,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24541",
+    "population": 28428,
+    "city": "Danville",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22102",
+    "population": 28356,
+    "city": "McLean",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20169",
+    "population": 28346,
+    "city": "Haymarket",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23222",
+    "population": 28314,
+    "city": "Richmond",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23237",
+    "population": 28249,
+    "city": "Richmond",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22401",
+    "population": 28218,
+    "city": "Fredericksburg",
+    "county": "Fredericksburg city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24019",
+    "population": 28194,
+    "city": "Roanoke",
+    "county": "Roanoke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22202",
+    "population": 28084,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22150",
+    "population": 27734,
+    "city": "Springfield",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23834",
+    "population": 27639,
+    "city": "Colonial Heights",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20121",
+    "population": 27428,
+    "city": "Centreville",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23703",
+    "population": 27121,
+    "city": "Portsmouth",
+    "county": "Portsmouth city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22182",
+    "population": 26892,
+    "city": "Vienna",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24551",
+    "population": 26873,
+    "city": "Forest",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24501",
+    "population": 26778,
+    "city": "Lynchburg",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23139",
+    "population": 26719,
+    "city": "Powhatan",
+    "county": "Powhatan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22406",
+    "population": 26702,
+    "city": "Fredericksburg",
+    "county": "Stafford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22312",
+    "population": 26573,
+    "city": "Alexandria",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23238",
+    "population": 26521,
+    "city": "Henrico",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23601",
+    "population": 26488,
+    "city": "Newport News",
+    "county": "Newport News city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23113",
+    "population": 26392,
+    "city": "Midlothian",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22485",
+    "population": 26262,
+    "city": "King George",
+    "county": "King George County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22180",
+    "population": 26179,
+    "city": "Vienna",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22043",
+    "population": 25843,
+    "city": "Falls Church",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23236",
+    "population": 25768,
+    "city": "Richmond",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23227",
+    "population": 25758,
+    "city": "Richmond",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22203",
+    "population": 25753,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23701",
+    "population": 24850,
+    "city": "Portsmouth",
+    "county": "Portsmouth city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22902",
+    "population": 24256,
+    "city": "Charlottesville",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23504",
+    "population": 24202,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23607",
+    "population": 23892,
+    "city": "Newport News",
+    "county": "Newport News city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24017",
+    "population": 23756,
+    "city": "Roanoke",
+    "county": "Roanoke city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23693",
+    "population": 23563,
+    "city": "Yorktown",
+    "county": "York County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23061",
+    "population": 23150,
+    "city": "Gloucester",
+    "county": "Gloucester County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23324",
+    "population": 22843,
+    "city": "Chesapeake",
+    "county": "Chesapeake city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22655",
+    "population": 22161,
+    "city": "Stephens City",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22551",
+    "population": 22035,
+    "city": "Spotsylvania",
+    "county": "Spotsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20151",
+    "population": 21893,
+    "city": "Chantilly",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24141",
+    "population": 21804,
+    "city": "Radford",
+    "county": "Pulaski County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23114",
+    "population": 21561,
+    "city": "Midlothian",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23805",
+    "population": 21427,
+    "city": "Petersburg",
+    "county": "Prince George County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24523",
+    "population": 21132,
+    "city": "Bedford",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20190",
+    "population": 21121,
+    "city": "Reston",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23508",
+    "population": 20647,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22206",
+    "population": 20553,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24503",
+    "population": 20017,
+    "city": "Lynchburg",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23502",
+    "population": 19994,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22026",
+    "population": 19938,
+    "city": "Dumfries",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23294",
+    "population": 19669,
+    "city": "Henrico",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22311",
+    "population": 19531,
+    "city": "Alexandria",
+    "county": "Alexandria city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22025",
+    "population": 19280,
+    "city": "Dumfries",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23005",
+    "population": 19244,
+    "city": "Ashland",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20132",
+    "population": 19114,
+    "city": "Purcellville",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22911",
+    "population": 19005,
+    "city": "Charlottesville",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23692",
+    "population": 18986,
+    "city": "Yorktown",
+    "county": "York County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20187",
+    "population": 18832,
+    "city": "Warrenton",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24179",
+    "population": 18721,
+    "city": "Vinton",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22205",
+    "population": 18523,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24151",
+    "population": 18506,
+    "city": "Rocky Mount",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22124",
+    "population": 18449,
+    "city": "Oakton",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24333",
+    "population": 18448,
+    "city": "Galax",
+    "county": "Grayson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23430",
+    "population": 18371,
+    "city": "Smithfield",
+    "county": "Isle of Wight County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23325",
+    "population": 18230,
+    "city": "Chesapeake",
+    "county": "Chesapeake city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23704",
+    "population": 18125,
+    "city": "Portsmouth",
+    "county": "Portsmouth city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22302",
+    "population": 18081,
+    "city": "Alexandria",
+    "county": "Alexandria city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22046",
+    "population": 18007,
+    "city": "Falls Church",
+    "county": "Falls Church city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22039",
+    "population": 17624,
+    "city": "Fairfax Station",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22546",
+    "population": 17371,
+    "city": "Ruther Glen",
+    "county": "Caroline County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24210",
+    "population": 17243,
+    "city": "Abingdon",
+    "county": "Washington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24450",
+    "population": 17214,
+    "city": "Lexington",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22305",
+    "population": 17051,
+    "city": "Alexandria",
+    "county": "Alexandria city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23838",
+    "population": 16947,
+    "city": "Chesterfield",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22963",
+    "population": 16935,
+    "city": "Palmyra",
+    "county": "Fluvanna County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22066",
+    "population": 16925,
+    "city": "Great Falls",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22603",
+    "population": 16848,
+    "city": "Winchester",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22151",
+    "population": 16827,
+    "city": "Springfield",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22553",
+    "population": 16746,
+    "city": "Spotsylvania",
+    "county": "Spotsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22303",
+    "population": 16321,
+    "city": "Alexandria",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24015",
+    "population": 16074,
+    "city": "Roanoke",
+    "county": "Roanoke city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23226",
+    "population": 15997,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24201",
+    "population": 15910,
+    "city": "Bristol",
+    "county": "Bristol city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23120",
+    "population": 15851,
+    "city": "Moseley",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22181",
+    "population": 15698,
+    "city": "Vienna",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24014",
+    "population": 15630,
+    "city": "Roanoke",
+    "county": "Roanoke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24572",
+    "population": 15557,
+    "city": "Madison Heights",
+    "county": "Amherst County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23901",
+    "population": 15541,
+    "city": "Farmville",
+    "county": "Cumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20186",
+    "population": 15495,
+    "city": "Warrenton",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22508",
+    "population": 15384,
+    "city": "Locust Grove",
+    "county": "Orange County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20124",
+    "population": 15117,
+    "city": "Clifton",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23221",
+    "population": 14831,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24382",
+    "population": 14657,
+    "city": "Wytheville",
+    "county": "Wythe County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23707",
+    "population": 14254,
+    "city": "Portsmouth",
+    "county": "Portsmouth city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23093",
+    "population": 14143,
+    "city": "Louisa",
+    "county": "Louisa County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22044",
+    "population": 14042,
+    "city": "Falls Church",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23661",
+    "population": 13936,
+    "city": "Hampton",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24354",
+    "population": 13918,
+    "city": "Marion",
+    "county": "Smyth County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23836",
+    "population": 13905,
+    "city": "Chester",
+    "county": "Chesterfield County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24592",
+    "population": 13846,
+    "city": "South Boston",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22301",
+    "population": 13807,
+    "city": "Alexandria",
+    "county": "Alexandria city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24301",
+    "population": 13631,
+    "city": "Pulaski",
+    "county": "Pulaski County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24426",
+    "population": 13598,
+    "city": "Covington",
+    "county": "Alleghany County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23663",
+    "population": 13484,
+    "city": "Hampton",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20166",
+    "population": 13479,
+    "city": "Sterling",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23847",
+    "population": 13466,
+    "city": "Emporia",
+    "county": "Greensville County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23875",
+    "population": 13375,
+    "city": "Prince George",
+    "county": "Prince George County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23605",
+    "population": 13359,
+    "city": "Newport News",
+    "county": "Newport News city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22209",
+    "population": 13173,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23851",
+    "population": 12983,
+    "city": "Franklin",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22308",
+    "population": 12980,
+    "city": "Alexandria",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23509",
+    "population": 12903,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20194",
+    "population": 12576,
+    "city": "Reston",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23662",
+    "population": 12479,
+    "city": "Poquoson",
+    "county": "Poquoson city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23072",
+    "population": 12433,
+    "city": "Hayes",
+    "county": "Gloucester County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24202",
+    "population": 12325,
+    "city": "Bristol",
+    "county": "Washington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23150",
+    "population": 12270,
+    "city": "Sandston",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23702",
+    "population": 12107,
+    "city": "Portsmouth",
+    "county": "Portsmouth city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22172",
+    "population": 11823,
+    "city": "Triangle",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24055",
+    "population": 11647,
+    "city": "Bassett",
+    "county": "Henry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22835",
+    "population": 11596,
+    "city": "Luray",
+    "county": "Page County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24477",
+    "population": 11589,
+    "city": "Stuarts Draft",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22657",
+    "population": 11420,
+    "city": "Strasburg",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24084",
+    "population": 11113,
+    "city": "Dublin",
+    "county": "Pulaski County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23511",
+    "population": 11067,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24121",
+    "population": 11043,
+    "city": "Moneta",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22968",
+    "population": 10919,
+    "city": "Ruckersville",
+    "county": "Greene County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23117",
+    "population": 10895,
+    "city": "Mineral",
+    "county": "Louisa County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22827",
+    "population": 10801,
+    "city": "Elkton",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23664",
+    "population": 10672,
+    "city": "Hampton",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23002",
+    "population": 10664,
+    "city": "Amelia Court House",
+    "county": "Amelia County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22942",
+    "population": 10485,
+    "city": "Gordonsville",
+    "county": "Louisa County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24219",
+    "population": 10460,
+    "city": "Big Stone Gap",
+    "county": "Wise County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22960",
+    "population": 10397,
+    "city": "Orange",
+    "county": "Orange County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22443",
+    "population": 10297,
+    "city": "Colonial Beach",
+    "county": "Westmoreland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20181",
+    "population": 10258,
+    "city": "Nokesville",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22307",
+    "population": 10202,
+    "city": "Alexandria",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22812",
+    "population": 10078,
+    "city": "Bridgewater",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24211",
+    "population": 10016,
+    "city": "Abingdon",
+    "county": "Washington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24521",
+    "population": 9955,
+    "city": "Amherst",
+    "county": "Amherst County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22060",
+    "population": 9846,
+    "city": "Fort Belvoir",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24522",
+    "population": 9833,
+    "city": "Appomattox",
+    "county": "Appomattox County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23024",
+    "population": 9793,
+    "city": "Bumpass",
+    "county": "Louisa County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24293",
+    "population": 9749,
+    "city": "Wise",
+    "county": "Wise County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23314",
+    "population": 9729,
+    "city": "Carrollton",
+    "county": "Isle of Wight County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22664",
+    "population": 9650,
+    "city": "Woodstock",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22712",
+    "population": 9636,
+    "city": "Bealeton",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24016",
+    "population": 9605,
+    "city": "Roanoke",
+    "county": "Roanoke city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24504",
+    "population": 9498,
+    "city": "Lynchburg",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24416",
+    "population": 9397,
+    "city": "Buena Vista",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23510",
+    "population": 9294,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24061",
+    "population": 9269,
+    "city": "Blacksburg",
+    "county": "Montgomery County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24588",
+    "population": 9265,
+    "city": "Rustburg",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22611",
+    "population": 9219,
+    "city": "Berryville",
+    "county": "Clarke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24531",
+    "population": 9182,
+    "city": "Chatham",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22815",
+    "population": 8954,
+    "city": "Broadway",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23168",
+    "population": 8861,
+    "city": "Toano",
+    "county": "James City County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24266",
+    "population": 8805,
+    "city": "Lebanon",
+    "county": "Russell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24148",
+    "population": 8554,
+    "city": "Ridgeway",
+    "county": "Henry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24605",
+    "population": 8533,
+    "city": "Bluefield",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22932",
+    "population": 8495,
+    "city": "Crozet",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23075",
+    "population": 8447,
+    "city": "Henrico",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20141",
+    "population": 8425,
+    "city": "Round Hill",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24171",
+    "population": 8195,
+    "city": "Stuart",
+    "county": "Patrick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24343",
+    "population": 8191,
+    "city": "Hillsville",
+    "county": "Carroll County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24550",
+    "population": 8040,
+    "city": "Evington",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20115",
+    "population": 7943,
+    "city": "Marshall",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24013",
+    "population": 7925,
+    "city": "Roanoke",
+    "county": "Roanoke city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24175",
+    "population": 7881,
+    "city": "Troutville",
+    "county": "Botetourt County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23970",
+    "population": 7869,
+    "city": "South Hill",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24251",
+    "population": 7821,
+    "city": "Gate City",
+    "county": "Scott County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23009",
+    "population": 7814,
+    "city": "Aylett",
+    "county": "King William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23230",
+    "population": 7696,
+    "city": "Richmond",
+    "county": "Henrico County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23141",
+    "population": 7672,
+    "city": "Quinton",
+    "county": "New Kent County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24557",
+    "population": 7667,
+    "city": "Gretna",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23801",
+    "population": 7577,
+    "city": "Fort Gregg Adams",
+    "county": "Prince George County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20180",
+    "population": 7571,
+    "city": "Lovettsville",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22134",
+    "population": 7562,
+    "city": "Quantico",
+    "county": "Stafford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24614",
+    "population": 7501,
+    "city": "Grundy",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24091",
+    "population": 7491,
+    "city": "Floyd",
+    "county": "Floyd County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24590",
+    "population": 7490,
+    "city": "Scottsville",
+    "county": "Buckingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23523",
+    "population": 7352,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24078",
+    "population": 7304,
+    "city": "Collinsville",
+    "county": "Henry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23936",
+    "population": 7254,
+    "city": "Dillwyn",
+    "county": "Buckingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23842",
+    "population": 6956,
+    "city": "Disputanta",
+    "county": "Prince George County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24230",
+    "population": 6935,
+    "city": "Coeburn",
+    "county": "Wise County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23824",
+    "population": 6714,
+    "city": "Blackstone",
+    "county": "Nottoway County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22560",
+    "population": 6677,
+    "city": "Tappahannock",
+    "county": "Essex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24609",
+    "population": 6613,
+    "city": "Cedar Bluff",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23140",
+    "population": 6606,
+    "city": "Providence Forge",
+    "county": "New Kent County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24065",
+    "population": 6596,
+    "city": "Boones Mill",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23192",
+    "population": 6592,
+    "city": "Montpelier",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23507",
+    "population": 6588,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24319",
+    "population": 6582,
+    "city": "Chilhowie",
+    "county": "Smyth County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22939",
+    "population": 6455,
+    "city": "Fishersville",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22572",
+    "population": 6449,
+    "city": "Warsaw",
+    "county": "Richmond County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23868",
+    "population": 6420,
+    "city": "Lawrenceville",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22923",
+    "population": 6410,
+    "city": "Barboursville",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24054",
+    "population": 6391,
+    "city": "Axton",
+    "county": "Henry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24101",
+    "population": 6373,
+    "city": "Hardy",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24441",
+    "population": 6358,
+    "city": "Grottoes",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22824",
+    "population": 6352,
+    "city": "Edinburg",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23103",
+    "population": 6351,
+    "city": "Manakin Sabot",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24277",
+    "population": 6342,
+    "city": "Pennington Gap",
+    "county": "Lee County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22936",
+    "population": 6277,
+    "city": "Earlysville",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22904",
+    "population": 6270,
+    "city": "Charlottesville",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22973",
+    "population": 6196,
+    "city": "Stanardsville",
+    "county": "Greene County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24340",
+    "population": 6173,
+    "city": "Glade Spring",
+    "county": "Washington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23665",
+    "population": 6168,
+    "city": "Hampton",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24630",
+    "population": 6142,
+    "city": "North Tazewell",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24558",
+    "population": 6133,
+    "city": "Halifax",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24228",
+    "population": 6052,
+    "city": "Clintwood",
+    "county": "Dickenson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24273",
+    "population": 6004,
+    "city": "Norton",
+    "county": "Wise County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23487",
+    "population": 5978,
+    "city": "Windsor",
+    "county": "Isle of Wight County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24360",
+    "population": 5951,
+    "city": "Max Meadows",
+    "county": "Wythe County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24651",
+    "population": 5872,
+    "city": "Tazewell",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22851",
+    "population": 5836,
+    "city": "Stanley",
+    "county": "Page County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22727",
+    "population": 5834,
+    "city": "Madison",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24515",
+    "population": 5811,
+    "city": "Lynchburg",
+    "county": "Lynchburg city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24224",
+    "population": 5810,
+    "city": "Castlewood",
+    "county": "Russell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23924",
+    "population": 5799,
+    "city": "Chase City",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24244",
+    "population": 5765,
+    "city": "Duffield",
+    "county": "Scott County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24370",
+    "population": 5730,
+    "city": "Saltville",
+    "county": "Smyth County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22821",
+    "population": 5666,
+    "city": "Dayton",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22842",
+    "population": 5647,
+    "city": "Mount Jackson",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24482",
+    "population": 5603,
+    "city": "Verona",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22807",
+    "population": 5601,
+    "city": "Harrisonburg",
+    "county": "Harrisonburg city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24422",
+    "population": 5550,
+    "city": "Clifton Forge",
+    "county": "Alleghany County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24134",
+    "population": 5544,
+    "city": "Pearisburg",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24263",
+    "population": 5516,
+    "city": "Jonesville",
+    "county": "Lee County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23930",
+    "population": 5505,
+    "city": "Crewe",
+    "county": "Nottoway County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22473",
+    "population": 5490,
+    "city": "Heathsville",
+    "county": "Northumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24641",
+    "population": 5456,
+    "city": "Richlands",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22580",
+    "population": 5382,
+    "city": "Woodford",
+    "county": "Caroline County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23063",
+    "population": 5361,
+    "city": "Goochland",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23089",
+    "population": 5354,
+    "city": "Lanexa",
+    "county": "New Kent County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23181",
+    "population": 5293,
+    "city": "West Point",
+    "county": "King William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24064",
+    "population": 5245,
+    "city": "Blue Ridge",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22849",
+    "population": 5222,
+    "city": "Shenandoah",
+    "county": "Page County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24066",
+    "population": 5127,
+    "city": "Buchanan",
+    "county": "Botetourt County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24368",
+    "population": 5079,
+    "city": "Rural Retreat",
+    "county": "Wythe County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24260",
+    "population": 5073,
+    "city": "Honaker",
+    "county": "Russell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23604",
+    "population": 5029,
+    "city": "Fort Eustis",
+    "county": "Newport News city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22853",
+    "population": 5022,
+    "city": "Timberville",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24563",
+    "population": 4987,
+    "city": "Hurt",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23310",
+    "population": 4984,
+    "city": "Cape Charles",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24088",
+    "population": 4983,
+    "city": "Ferrum",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23867",
+    "population": 4961,
+    "city": "Jarratt",
+    "county": "Sussex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23124",
+    "population": 4948,
+    "city": "New Kent",
+    "county": "New Kent County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24090",
+    "population": 4932,
+    "city": "Fincastle",
+    "county": "Botetourt County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24348",
+    "population": 4923,
+    "city": "Independence",
+    "county": "Grayson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20158",
+    "population": 4886,
+    "city": "Hamilton",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22840",
+    "population": 4882,
+    "city": "McGaheysville",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23974",
+    "population": 4859,
+    "city": "Victoria",
+    "county": "Lunenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22947",
+    "population": 4829,
+    "city": "Keswick",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23890",
+    "population": 4823,
+    "city": "Waverly",
+    "county": "Sussex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24517",
+    "population": 4802,
+    "city": "Altavista",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24124",
+    "population": 4801,
+    "city": "Narrows",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23690",
+    "population": 4770,
+    "city": "Yorktown",
+    "county": "York County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22656",
+    "population": 4754,
+    "city": "Stephenson",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24279",
+    "population": 4747,
+    "city": "Pound",
+    "county": "Wise County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23457",
+    "population": 4746,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24361",
+    "population": 4746,
+    "city": "Meadowview",
+    "county": "Washington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24538",
+    "population": 4744,
+    "city": "Concord",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22974",
+    "population": 4740,
+    "city": "Troy",
+    "county": "Fluvanna County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22844",
+    "population": 4711,
+    "city": "New Market",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22520",
+    "population": 4673,
+    "city": "Montross",
+    "county": "Westmoreland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23437",
+    "population": 4647,
+    "city": "Suffolk",
+    "county": "Suffolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24586",
+    "population": 4519,
+    "city": "Ringgold",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23927",
+    "population": 4489,
+    "city": "Clarksville",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24577",
+    "population": 4489,
+    "city": "Nathalie",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22645",
+    "population": 4430,
+    "city": "Middletown",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22427",
+    "population": 4364,
+    "city": "Bowling Green",
+    "county": "Caroline County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23030",
+    "population": 4342,
+    "city": "Charles City",
+    "county": "Charles City County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24549",
+    "population": 4337,
+    "city": "Dry Fork",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23219",
+    "population": 4294,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23837",
+    "population": 4281,
+    "city": "Courtland",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23922",
+    "population": 4267,
+    "city": "Burkeville",
+    "county": "Nottoway County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24127",
+    "population": 4228,
+    "city": "New Castle",
+    "county": "Craig County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24574",
+    "population": 4228,
+    "city": "Monroe",
+    "county": "Amherst County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24083",
+    "population": 4225,
+    "city": "Daleville",
+    "county": "Botetourt County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22642",
+    "population": 4218,
+    "city": "Linden",
+    "county": "Warren County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23040",
+    "population": 4216,
+    "city": "Cumberland",
+    "county": "Cumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23517",
+    "population": 4212,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23696",
+    "population": 4199,
+    "city": "Seaford",
+    "county": "York County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23015",
+    "population": 4175,
+    "city": "Beaverdam",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22213",
+    "population": 4150,
+    "city": "Arlington",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20106",
+    "population": 4138,
+    "city": "Amissville",
+    "county": "Rappahannock County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24184",
+    "population": 4129,
+    "city": "Wirtz",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24087",
+    "population": 4041,
+    "city": "Elliston",
+    "county": "Montgomery County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23417",
+    "population": 3935,
+    "city": "Onancock",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22503",
+    "population": 3920,
+    "city": "Lancaster",
+    "county": "Lancaster County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24317",
+    "population": 3900,
+    "city": "Cana",
+    "county": "Carroll County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23421",
+    "population": 3811,
+    "city": "Parksley",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20119",
+    "population": 3803,
+    "city": "Catlett",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24639",
+    "population": 3788,
+    "city": "Raven",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23944",
+    "population": 3781,
+    "city": "Kenbridge",
+    "county": "Lunenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22734",
+    "population": 3743,
+    "city": "Remington",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24315",
+    "population": 3710,
+    "city": "Bland",
+    "county": "Bland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24554",
+    "population": 3699,
+    "city": "Gladys",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23086",
+    "population": 3654,
+    "city": "King William",
+    "county": "King William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24149",
+    "population": 3641,
+    "city": "Riner",
+    "county": "Montgomery County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23950",
+    "population": 3633,
+    "city": "La Crosse",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24430",
+    "population": 3629,
+    "city": "Craigsville",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24637",
+    "population": 3616,
+    "city": "Pounding Mill",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24528",
+    "population": 3568,
+    "city": "Brookneal",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23603",
+    "population": 3555,
+    "city": "Newport News",
+    "county": "Newport News city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22920",
+    "population": 3548,
+    "city": "Afton",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24095",
+    "population": 3520,
+    "city": "Goodview",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24092",
+    "population": 3471,
+    "city": "Glade Hill",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22534",
+    "population": 3452,
+    "city": "Partlow",
+    "county": "Spotsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23947",
+    "population": 3391,
+    "city": "Keysville",
+    "county": "Lunenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24486",
+    "population": 3391,
+    "city": "Weyers Cave",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22624",
+    "population": 3371,
+    "city": "Clear Brook",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20135",
+    "population": 3359,
+    "city": "Bluemont",
+    "county": "Clarke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23146",
+    "population": 3347,
+    "city": "Rockville",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24421",
+    "population": 3336,
+    "city": "Churchville",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23336",
+    "population": 3327,
+    "city": "Chincoteague Island",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22737",
+    "population": 3307,
+    "city": "Rixeyville",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22625",
+    "population": 3251,
+    "city": "Cross Junction",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24256",
+    "population": 3239,
+    "city": "Haysi",
+    "county": "Dickenson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23069",
+    "population": 3183,
+    "city": "Hanover",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24381",
+    "population": 3176,
+    "city": "Woodlawn",
+    "county": "Carroll County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22482",
+    "population": 3169,
+    "city": "Kilmarnock",
+    "county": "Northumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24236",
+    "population": 3157,
+    "city": "Damascus",
+    "county": "Washington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23350",
+    "population": 3144,
+    "city": "Exmore",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22841",
+    "population": 3130,
+    "city": "Mount Crawford",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22567",
+    "population": 3122,
+    "city": "Unionville",
+    "county": "Orange County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22728",
+    "population": 3120,
+    "city": "Midland",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23102",
+    "population": 3111,
+    "city": "Maidens",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24136",
+    "population": 3024,
+    "city": "Pembroke",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24440",
+    "population": 3020,
+    "city": "Greenville",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20117",
+    "population": 2997,
+    "city": "Middleburg",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24527",
+    "population": 2948,
+    "city": "Blairs",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23420",
+    "population": 2908,
+    "city": "Painter",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24330",
+    "population": 2905,
+    "city": "Fries",
+    "county": "Grayson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24467",
+    "population": 2862,
+    "city": "Mount Sidney",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23958",
+    "population": 2851,
+    "city": "Pamplin",
+    "county": "Appomattox County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23841",
+    "population": 2817,
+    "city": "Dinwiddie",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23109",
+    "population": 2783,
+    "city": "Mathews",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24137",
+    "population": 2773,
+    "city": "Penhook",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23917",
+    "population": 2762,
+    "city": "Boydton",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23920",
+    "population": 2756,
+    "city": "Brodnax",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24380",
+    "population": 2741,
+    "city": "Willis",
+    "county": "Floyd County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22967",
+    "population": 2696,
+    "city": "Roseland",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24656",
+    "population": 2657,
+    "city": "Vansant",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24104",
+    "population": 2641,
+    "city": "Huddleston",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22435",
+    "population": 2638,
+    "city": "Callao",
+    "county": "Northumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23898",
+    "population": 2638,
+    "city": "Zuni",
+    "county": "Isle of Wight County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22843",
+    "population": 2636,
+    "city": "Mount Solon",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22620",
+    "population": 2607,
+    "city": "Boyce",
+    "county": "Clarke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23872",
+    "population": 2600,
+    "city": "McKenney",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24445",
+    "population": 2582,
+    "city": "Hot Springs",
+    "county": "Bath County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24174",
+    "population": 2581,
+    "city": "Thaxton",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23149",
+    "population": 2573,
+    "city": "Saluda",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23885",
+    "population": 2573,
+    "city": "Sutherland",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24248",
+    "population": 2568,
+    "city": "Ewing",
+    "county": "Lee County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22644",
+    "population": 2555,
+    "city": "Maurertown",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23829",
+    "population": 2555,
+    "city": "Capron",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22578",
+    "population": 2546,
+    "city": "White Stone",
+    "county": "Lancaster County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24620",
+    "population": 2492,
+    "city": "Hurley",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23888",
+    "population": 2485,
+    "city": "Wakefield",
+    "county": "Sussex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24271",
+    "population": 2484,
+    "city": "Nickelsville",
+    "county": "Scott County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22971",
+    "population": 2474,
+    "city": "Shipman",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24281",
+    "population": 2474,
+    "city": "Rose Hill",
+    "county": "Lee County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24216",
+    "population": 2472,
+    "city": "Appalachia",
+    "county": "Wise County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24431",
+    "population": 2470,
+    "city": "Crimora",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23954",
+    "population": 2462,
+    "city": "Meherrin",
+    "county": "Prince Edward County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24593",
+    "population": 2460,
+    "city": "Spout Spring",
+    "county": "Appomattox County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23083",
+    "population": 2450,
+    "city": "Jetersville",
+    "county": "Amelia County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24556",
+    "population": 2441,
+    "city": "Goode",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24089",
+    "population": 2433,
+    "city": "Fieldale",
+    "county": "Henry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22724",
+    "population": 2424,
+    "city": "Jeffersonton",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24589",
+    "population": 2417,
+    "city": "Scottsburg",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24133",
+    "population": 2407,
+    "city": "Patrick Springs",
+    "county": "Patrick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22514",
+    "population": 2402,
+    "city": "Milford",
+    "county": "Caroline County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23410",
+    "population": 2393,
+    "city": "Melfa",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24520",
+    "population": 2384,
+    "city": "Alton",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20197",
+    "population": 2359,
+    "city": "Waterford",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24290",
+    "population": 2357,
+    "city": "Weber City",
+    "county": "Scott County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22922",
+    "population": 2340,
+    "city": "Arrington",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23919",
+    "population": 2337,
+    "city": "Bracey",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23415",
+    "population": 2323,
+    "city": "New Church",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23881",
+    "population": 2315,
+    "city": "Spring Grove",
+    "county": "Surry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24085",
+    "population": 2308,
+    "city": "Eagle Rock",
+    "county": "Botetourt County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24555",
+    "population": 2306,
+    "city": "Glasgow",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24142",
+    "population": 2292,
+    "city": "Radford",
+    "county": "Radford city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23833",
+    "population": 2287,
+    "city": "Church Road",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22637",
+    "population": 2279,
+    "city": "Gore",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24324",
+    "population": 2274,
+    "city": "Draper",
+    "county": "Pulaski County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23921",
+    "population": 2250,
+    "city": "Buckingham",
+    "county": "Buckingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23062",
+    "population": 2239,
+    "city": "Gloucester Point",
+    "county": "Gloucester County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24571",
+    "population": 2224,
+    "city": "Lynch Station",
+    "county": "Campbell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24067",
+    "population": 2212,
+    "city": "Callaway",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23173",
+    "population": 2201,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23923",
+    "population": 2188,
+    "city": "Charlotte Court House",
+    "county": "Charlotte County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20198",
+    "population": 2172,
+    "city": "The Plains",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24162",
+    "population": 2136,
+    "city": "Shawsville",
+    "county": "Montgomery County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22830",
+    "population": 2135,
+    "city": "Fulks Run",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24479",
+    "population": 2119,
+    "city": "Swoope",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22735",
+    "population": 2100,
+    "city": "Reva",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24053",
+    "population": 2092,
+    "city": "Ararat",
+    "county": "Patrick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23301",
+    "population": 2078,
+    "city": "Accomac",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24472",
+    "population": 2068,
+    "city": "Raphine",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22469",
+    "population": 2052,
+    "city": "Hague",
+    "county": "Westmoreland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22958",
+    "population": 2021,
+    "city": "Nellysford",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23937",
+    "population": 2007,
+    "city": "Drakes Branch",
+    "county": "Charlotte County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22715",
+    "population": 1976,
+    "city": "Brightwood",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22027",
+    "population": 1974,
+    "city": "Dunn Loring",
+    "county": "Fairfax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23966",
+    "population": 1955,
+    "city": "Rice",
+    "county": "Prince Edward County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23071",
+    "population": 1945,
+    "city": "Hartfield",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24594",
+    "population": 1945,
+    "city": "Sutherlin",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22454",
+    "population": 1938,
+    "city": "Dunnsville",
+    "county": "Essex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22969",
+    "population": 1938,
+    "city": "Schuyler",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23821",
+    "population": 1931,
+    "city": "Alberta",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22542",
+    "population": 1928,
+    "city": "Rhoadesville",
+    "county": "Orange County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20137",
+    "population": 1925,
+    "city": "Broad Run",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23284",
+    "population": 1924,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24631",
+    "population": 1917,
+    "city": "Oakwood",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24079",
+    "population": 1911,
+    "city": "Copper Hill",
+    "county": "Floyd County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24283",
+    "population": 1909,
+    "city": "Saint Paul",
+    "county": "Wise County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22713",
+    "population": 1902,
+    "city": "Boston",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23883",
+    "population": 1902,
+    "city": "Surry",
+    "county": "Surry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23830",
+    "population": 1874,
+    "city": "Carson",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23308",
+    "population": 1866,
+    "city": "Bloxom",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24120",
+    "population": 1866,
+    "city": "Meadows Of Dan",
+    "county": "Patrick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22539",
+    "population": 1857,
+    "city": "Reedville",
+    "county": "Northumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22846",
+    "population": 1853,
+    "city": "Penn Laird",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23123",
+    "population": 1846,
+    "city": "New Canton",
+    "county": "Buckingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23866",
+    "population": 1825,
+    "city": "Ivor",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22959",
+    "population": 1822,
+    "city": "North Garden",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22460",
+    "population": 1818,
+    "city": "Farnham",
+    "county": "Richmond County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24225",
+    "population": 1818,
+    "city": "Cleveland",
+    "county": "Russell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23960",
+    "population": 1788,
+    "city": "Prospect",
+    "county": "Prince Edward County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23315",
+    "population": 1750,
+    "city": "Carrsville",
+    "county": "Isle of Wight County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23047",
+    "population": 1732,
+    "city": "Doswell",
+    "county": "Hanover County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24649",
+    "population": 1706,
+    "city": "Swords Creek",
+    "county": "Russell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23065",
+    "population": 1698,
+    "city": "Gum Spring",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23915",
+    "population": 1695,
+    "city": "Baskerville",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24226",
+    "population": 1687,
+    "city": "Clinchco",
+    "county": "Dickenson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22660",
+    "population": 1685,
+    "city": "Toms Brook",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23438",
+    "population": 1685,
+    "city": "Suffolk",
+    "county": "Suffolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24375",
+    "population": 1666,
+    "city": "Sugar Grove",
+    "county": "Smyth County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24553",
+    "population": 1663,
+    "city": "Gladstone",
+    "county": "Buckingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24328",
+    "population": 1659,
+    "city": "Fancy Gap",
+    "county": "Carroll County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24312",
+    "population": 1655,
+    "city": "Austinville",
+    "county": "Carroll County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23175",
+    "population": 1637,
+    "city": "Urbanna",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22610",
+    "population": 1625,
+    "city": "Bentonville",
+    "county": "Warren County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23043",
+    "population": 1620,
+    "city": "Deltaville",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24435",
+    "population": 1615,
+    "city": "Fairfield",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23551",
+    "population": 1599,
+    "city": "Norfolk",
+    "county": "Norfolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23882",
+    "population": 1593,
+    "city": "Stony Creek",
+    "county": "Sussex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22952",
+    "population": 1590,
+    "city": "Lyndhurst",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24437",
+    "population": 1585,
+    "city": "Fort Defiance",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23878",
+    "population": 1569,
+    "city": "Sedley",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23027",
+    "population": 1567,
+    "city": "Cartersville",
+    "county": "Cumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24534",
+    "population": 1565,
+    "city": "Clover",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23035",
+    "population": 1560,
+    "city": "Cobbs Creek",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22576",
+    "population": 1554,
+    "city": "Weems",
+    "county": "Lancaster County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22652",
+    "population": 1553,
+    "city": "Fort Valley",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24070",
+    "population": 1545,
+    "city": "Catawba",
+    "county": "Roanoke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23967",
+    "population": 1539,
+    "city": "Saxe",
+    "county": "Charlotte County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24128",
+    "population": 1539,
+    "city": "Newport",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22937",
+    "population": 1537,
+    "city": "Esmont",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23038",
+    "population": 1524,
+    "city": "Columbia",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23160",
+    "population": 1517,
+    "city": "State Farm",
+    "county": "Powhatan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24138",
+    "population": 1514,
+    "city": "Pilot",
+    "county": "Montgomery County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24069",
+    "population": 1511,
+    "city": "Cascade",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23153",
+    "population": 1508,
+    "city": "Sandy Hook",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22733",
+    "population": 1506,
+    "city": "Rapidan",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24526",
+    "population": 1498,
+    "city": "Big Island",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24102",
+    "population": 1491,
+    "city": "Henry",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24471",
+    "population": 1490,
+    "city": "Port Republic",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24352",
+    "population": 1482,
+    "city": "Laurel Fork",
+    "county": "Carroll County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23959",
+    "population": 1478,
+    "city": "Phenix",
+    "county": "Charlotte County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24566",
+    "population": 1475,
+    "city": "Keeling",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23460",
+    "population": 1474,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23011",
+    "population": 1473,
+    "city": "Barhamsville",
+    "county": "New Kent County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24311",
+    "population": 1467,
+    "city": "Atkins",
+    "county": "Smyth County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24122",
+    "population": 1450,
+    "city": "Montvale",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22742",
+    "population": 1443,
+    "city": "Sumerduck",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24243",
+    "population": 1440,
+    "city": "Dryden",
+    "county": "Lee County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24350",
+    "population": 1428,
+    "city": "Ivanhoe",
+    "county": "Wythe County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23840",
+    "population": 1421,
+    "city": "Dewitt",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23459",
+    "population": 1403,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23156",
+    "population": 1384,
+    "city": "Shacklefords",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24165",
+    "population": 1380,
+    "city": "Spencer",
+    "county": "Henry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23039",
+    "population": 1351,
+    "city": "Crozier",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24258",
+    "population": 1351,
+    "city": "Hiltons",
+    "county": "Scott County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24147",
+    "population": 1350,
+    "city": "Rich Creek",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22834",
+    "population": 1349,
+    "city": "Linville",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24077",
+    "population": 1346,
+    "city": "Cloverdale",
+    "county": "Botetourt County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24314",
+    "population": 1346,
+    "city": "Bastian",
+    "county": "Bland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20144",
+    "population": 1337,
+    "city": "Delaplane",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24529",
+    "population": 1334,
+    "city": "Buffalo Junction",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23891",
+    "population": 1311,
+    "city": "Waverly",
+    "county": "Sussex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24076",
+    "population": 1310,
+    "city": "Claudville",
+    "county": "Patrick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22850",
+    "population": 1299,
+    "city": "Singers Glen",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23148",
+    "population": 1285,
+    "city": "Saint Stephens Church",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22654",
+    "population": 1283,
+    "city": "Star Tannery",
+    "county": "Frederick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22720",
+    "population": 1276,
+    "city": "Goldvein",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23433",
+    "population": 1274,
+    "city": "Suffolk",
+    "county": "Suffolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24465",
+    "population": 1274,
+    "city": "Monterey",
+    "county": "Highland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23084",
+    "population": 1251,
+    "city": "Kents Store",
+    "county": "Fluvanna County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24347",
+    "population": 1249,
+    "city": "Hiwassee",
+    "county": "Pulaski County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23909",
+    "population": 1239,
+    "city": "Farmville",
+    "county": "Prince Edward County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22747",
+    "population": 1236,
+    "city": "Washington",
+    "county": "Rappahannock County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23356",
+    "population": 1232,
+    "city": "Greenbackville",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24598",
+    "population": 1232,
+    "city": "Virgilina",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23405",
+    "population": 1226,
+    "city": "Machipongo",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23432",
+    "population": 1225,
+    "city": "Suffolk",
+    "county": "Suffolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22709",
+    "population": 1221,
+    "city": "Aroda",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23022",
+    "population": 1217,
+    "city": "Bremo Bluff",
+    "county": "Fluvanna County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22211",
+    "population": 1205,
+    "city": "Fort Myer",
+    "county": "Arlington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24460",
+    "population": 1195,
+    "city": "Millboro",
+    "county": "Bath County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22729",
+    "population": 1184,
+    "city": "Mitchells",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23827",
+    "population": 1166,
+    "city": "Boykins",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24072",
+    "population": 1161,
+    "city": "Check",
+    "county": "Floyd County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22949",
+    "population": 1141,
+    "city": "Lovingston",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23850",
+    "population": 1139,
+    "city": "Ford",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23359",
+    "population": 1138,
+    "city": "Hallwood",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23942",
+    "population": 1137,
+    "city": "Green Bay",
+    "county": "Prince Edward County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24176",
+    "population": 1135,
+    "city": "Union Hall",
+    "county": "Franklin County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24325",
+    "population": 1116,
+    "city": "Dugspur",
+    "county": "Carroll County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24579",
+    "population": 1111,
+    "city": "Natural Bridge Station",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22738",
+    "population": 1106,
+    "city": "Rochelle",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22716",
+    "population": 1102,
+    "city": "Castleton",
+    "county": "Rappahannock County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22832",
+    "population": 1097,
+    "city": "Keezletown",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23106",
+    "population": 1094,
+    "city": "Manquin",
+    "county": "King William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24323",
+    "population": 1078,
+    "city": "Crockett",
+    "county": "Wythe County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22663",
+    "population": 1076,
+    "city": "White Post",
+    "county": "Clarke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24363",
+    "population": 1068,
+    "city": "Mouth Of Wilson",
+    "county": "Grayson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24265",
+    "population": 1065,
+    "city": "Keokee",
+    "county": "Lee County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22940",
+    "population": 1057,
+    "city": "Free Union",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23943",
+    "population": 1052,
+    "city": "Hampden Sydney",
+    "county": "Prince Edward County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24250",
+    "population": 1049,
+    "city": "Fort Blackmore",
+    "county": "Scott County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23004",
+    "population": 1043,
+    "city": "Arvonia",
+    "county": "Buckingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22714",
+    "population": 1034,
+    "city": "Brandy Station",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23436",
+    "population": 1021,
+    "city": "Suffolk",
+    "county": "Suffolk city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23442",
+    "population": 1015,
+    "city": "Temperanceville",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24565",
+    "population": 1005,
+    "city": "Java",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24237",
+    "population": 1001,
+    "city": "Dante",
+    "county": "Dickenson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23169",
+    "population": 995,
+    "city": "Topping",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24378",
+    "population": 983,
+    "city": "Troutdale",
+    "county": "Grayson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23413",
+    "population": 971,
+    "city": "Nassawadox",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22511",
+    "population": 967,
+    "city": "Lottsburg",
+    "county": "Northumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22472",
+    "population": 958,
+    "city": "Haynesville",
+    "county": "Richmond County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23964",
+    "population": 956,
+    "city": "Red Oak",
+    "county": "Charlotte County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22623",
+    "population": 955,
+    "city": "Chester Gap",
+    "county": "Rappahannock County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24602",
+    "population": 935,
+    "city": "Bandy",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24439",
+    "population": 906,
+    "city": "Goshen",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22480",
+    "population": 901,
+    "city": "Irvington",
+    "county": "Lancaster County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23839",
+    "population": 892,
+    "city": "Dendron",
+    "county": "Surry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23856",
+    "population": 881,
+    "city": "Freeman",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24597",
+    "population": 876,
+    "city": "Vernon Hill",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22125",
+    "population": 874,
+    "city": "Occoquan",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24220",
+    "population": 873,
+    "city": "Birchleaf",
+    "county": "Dickenson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22935",
+    "population": 869,
+    "city": "Dyke",
+    "county": "Greene County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23055",
+    "population": 867,
+    "city": "Fork Union",
+    "county": "Fluvanna County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24483",
+    "population": 865,
+    "city": "Vesuvius",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24569",
+    "population": 862,
+    "city": "Long Island",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22740",
+    "population": 861,
+    "city": "Sperryville",
+    "county": "Rappahannock County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22650",
+    "population": 860,
+    "city": "Rileyville",
+    "county": "Page County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23306",
+    "population": 858,
+    "city": "Belle Haven",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23138",
+    "population": 853,
+    "city": "Port Haywood",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24280",
+    "population": 850,
+    "city": "Rosedale",
+    "county": "Russell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24646",
+    "population": 846,
+    "city": "Rowe",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23461",
+    "population": 840,
+    "city": "Virginia Beach",
+    "county": "Virginia Beach city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24245",
+    "population": 836,
+    "city": "Dungannon",
+    "county": "Scott County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24059",
+    "population": 835,
+    "city": "Bent Mountain",
+    "county": "Roanoke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22436",
+    "population": 832,
+    "city": "Caret",
+    "county": "Essex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22726",
+    "population": 821,
+    "city": "Lignum",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23092",
+    "population": 819,
+    "city": "Locust Hill",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23357",
+    "population": 816,
+    "city": "Greenbush",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24473",
+    "population": 806,
+    "city": "Rockbridge Baths",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23897",
+    "population": 804,
+    "city": "Yale",
+    "county": "Sussex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22736",
+    "population": 800,
+    "city": "Richardsville",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24326",
+    "population": 796,
+    "city": "Elk Creek",
+    "county": "Grayson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23025",
+    "population": 792,
+    "city": "Cardinal",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22718",
+    "population": 788,
+    "city": "Elkwood",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23407",
+    "population": 788,
+    "city": "Mappsville",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23418",
+    "population": 786,
+    "city": "Onley",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22437",
+    "population": 781,
+    "city": "Center Cross",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22627",
+    "population": 775,
+    "city": "Flint Hill",
+    "county": "Rappahannock County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24530",
+    "population": 774,
+    "city": "Callands",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24635",
+    "population": 765,
+    "city": "Pocahontas",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23668",
+    "population": 760,
+    "city": "Hampton",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23337",
+    "population": 758,
+    "city": "Wallops Island",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23177",
+    "population": 749,
+    "city": "Walkerton",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24282",
+    "population": 734,
+    "city": "Saint Charles",
+    "county": "Lee County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22943",
+    "population": 724,
+    "city": "Greenwood",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22448",
+    "population": 723,
+    "city": "Dahlgren",
+    "county": "King George County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24011",
+    "population": 723,
+    "city": "Roanoke",
+    "county": "Roanoke city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23874",
+    "population": 720,
+    "city": "Newsoms",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23110",
+    "population": 699,
+    "city": "Mattaponi",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22639",
+    "population": 681,
+    "city": "Hume",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23968",
+    "population": 681,
+    "city": "Skipwith",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24185",
+    "population": 678,
+    "city": "Woolwine",
+    "county": "Patrick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22938",
+    "population": 675,
+    "city": "Faber",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24578",
+    "population": 673,
+    "city": "Natural Bridge",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22746",
+    "population": 660,
+    "city": "Viewtown",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23828",
+    "population": 658,
+    "city": "Branchville",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23180",
+    "population": 656,
+    "city": "Water View",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24082",
+    "population": 652,
+    "city": "Critz",
+    "county": "Patrick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22831",
+    "population": 650,
+    "city": "Hinton",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24599",
+    "population": 650,
+    "city": "Wingina",
+    "county": "Buckingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24139",
+    "population": 642,
+    "city": "Pittsville",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23347",
+    "population": 640,
+    "city": "Eastville",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24150",
+    "population": 640,
+    "city": "Ripplemead",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23066",
+    "population": 639,
+    "city": "Gwynn",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23934",
+    "population": 625,
+    "city": "Cullen",
+    "county": "Prince Edward County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22488",
+    "population": 609,
+    "city": "Kinsale",
+    "county": "Westmoreland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23070",
+    "population": 606,
+    "city": "Hardyville",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23962",
+    "population": 600,
+    "city": "Randolph",
+    "county": "Charlotte County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24318",
+    "population": 596,
+    "city": "Ceres",
+    "county": "Bland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23307",
+    "population": 594,
+    "city": "Birdsnest",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24327",
+    "population": 594,
+    "city": "Emory",
+    "county": "Washington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24020",
+    "population": 588,
+    "city": "Roanoke",
+    "county": "Roanoke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24595",
+    "population": 586,
+    "city": "Sweet Briar",
+    "county": "Amherst County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23879",
+    "population": 580,
+    "city": "Skippers",
+    "county": "Greensville County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23889",
+    "population": 574,
+    "city": "Warfield",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22810",
+    "population": 569,
+    "city": "Basye",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23076",
+    "population": 569,
+    "city": "Hudgins",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23709",
+    "population": 568,
+    "city": "Portsmouth",
+    "county": "Portsmouth city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24613",
+    "population": 564,
+    "city": "Falls Mills",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24580",
+    "population": 560,
+    "city": "Nelson",
+    "county": "Mecklenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24374",
+    "population": 556,
+    "city": "Speedwell",
+    "county": "Wythe County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22847",
+    "population": 555,
+    "city": "Quicksburg",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23844",
+    "population": 549,
+    "city": "Drewryville",
+    "county": "Southampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23091",
+    "population": 548,
+    "city": "Little Plymouth",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24221",
+    "population": 545,
+    "city": "Blackwater",
+    "county": "Lee County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20143",
+    "population": 534,
+    "city": "Catharpin",
+    "county": "Prince William County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20129",
+    "population": 533,
+    "city": "Paeonian Springs",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23887",
+    "population": 524,
+    "city": "Valentines",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24313",
+    "population": 524,
+    "city": "Barren Springs",
+    "county": "Wythe County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23846",
+    "population": 522,
+    "city": "Elberon",
+    "county": "Surry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24377",
+    "population": 514,
+    "city": "Tannersville",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24622",
+    "population": 513,
+    "city": "Jewell Ridge",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23023",
+    "population": 508,
+    "city": "Bruington",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24562",
+    "population": 507,
+    "city": "Howardsville",
+    "county": "Buckingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24603",
+    "population": 505,
+    "city": "Big Rock",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23085",
+    "population": 501,
+    "city": "King And Queen Court House",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24484",
+    "population": 500,
+    "city": "Warm Springs",
+    "county": "Bath County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23893",
+    "population": 496,
+    "city": "White Plains",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23126",
+    "population": 494,
+    "city": "Newtown",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23079",
+    "population": 476,
+    "city": "Jamaica",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23303",
+    "population": 463,
+    "city": "Atlantic",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23843",
+    "population": 462,
+    "city": "Dolphin",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24474",
+    "population": 455,
+    "city": "Selma",
+    "county": "Alleghany County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23395",
+    "population": 453,
+    "city": "Horntown",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24432",
+    "population": 450,
+    "city": "Deerfield",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23050",
+    "population": 449,
+    "city": "Dutton",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22640",
+    "population": 446,
+    "city": "Huntly",
+    "county": "Rappahannock County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20184",
+    "population": 442,
+    "city": "Upperville",
+    "county": "Loudoun County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22535",
+    "population": 440,
+    "city": "Port Royal",
+    "county": "Caroline County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22811",
+    "population": 436,
+    "city": "Bergton",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24459",
+    "population": 436,
+    "city": "Middlebrook",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22722",
+    "population": 434,
+    "city": "Haywood",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23899",
+    "population": 421,
+    "city": "Claremont",
+    "county": "Surry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24269",
+    "population": 418,
+    "city": "McClure",
+    "county": "Dickenson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24132",
+    "population": 416,
+    "city": "Parrott",
+    "county": "Pulaski County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23894",
+    "population": 413,
+    "city": "Wilsons",
+    "county": "Dinwiddie County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23691",
+    "population": 405,
+    "city": "Yorktown",
+    "county": "York County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24272",
+    "population": 404,
+    "city": "Nora",
+    "county": "Dickenson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23176",
+    "population": 399,
+    "city": "Wake",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23857",
+    "population": 399,
+    "city": "Gasburg",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24448",
+    "population": 395,
+    "city": "Iron Gate",
+    "county": "Alleghany County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23129",
+    "population": 390,
+    "city": "Oilville",
+    "county": "Goochland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24457",
+    "population": 389,
+    "city": "Low Moor",
+    "county": "Alleghany County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24487",
+    "population": 389,
+    "city": "Williamsville",
+    "county": "Highland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22964",
+    "population": 387,
+    "city": "Piney River",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23354",
+    "population": 379,
+    "city": "Franktown",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23651",
+    "population": 377,
+    "city": "Fort Monroe",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22731",
+    "population": 372,
+    "city": "Pratts",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24270",
+    "population": 369,
+    "city": "Mendota",
+    "county": "Washington County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24161",
+    "population": 365,
+    "city": "Sandy Level",
+    "county": "Pittsylvania County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23480",
+    "population": 362,
+    "city": "Wachapreague",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23708",
+    "population": 359,
+    "city": "Portsmouth",
+    "county": "Portsmouth city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24539",
+    "population": 349,
+    "city": "Crystal Hill",
+    "county": "Halifax County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23440",
+    "population": 345,
+    "city": "Tangier",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22743",
+    "population": 333,
+    "city": "Syria",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23128",
+    "population": 331,
+    "city": "North",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24485",
+    "population": 331,
+    "city": "West Augusta",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24366",
+    "population": 329,
+    "city": "Rocky Gap",
+    "county": "Bland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23845",
+    "population": 327,
+    "city": "Ebony",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23423",
+    "population": 320,
+    "city": "Quinby",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24413",
+    "population": 313,
+    "city": "Blue Grass",
+    "county": "Highland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24058",
+    "population": 300,
+    "city": "Belspring",
+    "county": "Pulaski County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24292",
+    "population": 299,
+    "city": "Whitetop",
+    "county": "Grayson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24657",
+    "population": 297,
+    "city": "Whitewood",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23963",
+    "population": 292,
+    "city": "Red House",
+    "county": "Charlotte County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23401",
+    "population": 286,
+    "city": "Keller",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24105",
+    "population": 285,
+    "city": "Indian Valley",
+    "county": "Floyd County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23952",
+    "population": 284,
+    "city": "Lunenburg",
+    "county": "Lunenburg County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24607",
+    "population": 279,
+    "city": "Breaks",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24458",
+    "population": 278,
+    "city": "McDowell",
+    "county": "Highland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24246",
+    "population": 274,
+    "city": "East Stone Gap",
+    "county": "Wise County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24536",
+    "population": 273,
+    "city": "Coleman Falls",
+    "county": "Bedford County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24634",
+    "population": 273,
+    "city": "Pilgrims Knob",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22741",
+    "population": 271,
+    "city": "Stevensburg",
+    "county": "Culpeper County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23298",
+    "population": 271,
+    "city": "Richmond",
+    "county": "Richmond city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24351",
+    "population": 264,
+    "city": "Lambsburg",
+    "county": "Carroll County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24464",
+    "population": 262,
+    "city": "Montebello",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22438",
+    "population": 261,
+    "city": "Champlain",
+    "county": "Essex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22820",
+    "population": 257,
+    "city": "Criders",
+    "county": "Rockingham County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "20130",
+    "population": 256,
+    "city": "Paris",
+    "county": "Clarke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23427",
+    "population": 256,
+    "city": "Saxis",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22732",
+    "population": 251,
+    "city": "Radiant",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24604",
+    "population": 247,
+    "city": "Bishop",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22433",
+    "population": 241,
+    "city": "Burr Hill",
+    "county": "Orange County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22749",
+    "population": 238,
+    "city": "Woodville",
+    "county": "Rappahannock County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24476",
+    "population": 238,
+    "city": "Steeles Tavern",
+    "county": "Augusta County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22931",
+    "population": 230,
+    "city": "Covesville",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24612",
+    "population": 224,
+    "city": "Doran",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22641",
+    "population": 222,
+    "city": "Strasburg",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23422",
+    "population": 217,
+    "city": "Pungoteague",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22730",
+    "population": 215,
+    "city": "Oakpark",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22529",
+    "population": 206,
+    "city": "Oldhams",
+    "county": "Westmoreland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24217",
+    "population": 206,
+    "city": "Bee",
+    "county": "Dickenson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22972",
+    "population": 199,
+    "city": "Somerset",
+    "county": "Orange County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23068",
+    "population": 199,
+    "city": "Hallieford",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23938",
+    "population": 198,
+    "city": "Dundas",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23876",
+    "population": 195,
+    "city": "Rawlings",
+    "county": "Brunswick County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22476",
+    "population": 188,
+    "city": "Hustle",
+    "county": "Essex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24606",
+    "population": 186,
+    "city": "Boissevain",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23409",
+    "population": 183,
+    "city": "Mears",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24239",
+    "population": 174,
+    "city": "Davenport",
+    "county": "Buchanan County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22946",
+    "population": 167,
+    "city": "Keene",
+    "county": "Albemarle County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23032",
+    "population": 165,
+    "city": "Church View",
+    "county": "Middlesex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24412",
+    "population": 159,
+    "city": "Bacova",
+    "county": "Bath County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22432",
+    "population": 158,
+    "city": "Burgess",
+    "county": "Northumberland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24086",
+    "population": 154,
+    "city": "Eggleston",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23056",
+    "population": 148,
+    "city": "Foster",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23358",
+    "population": 144,
+    "city": "Hacksneck",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23488",
+    "population": 143,
+    "city": "Withams",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22504",
+    "population": 138,
+    "city": "Laneview",
+    "county": "Essex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22719",
+    "population": 137,
+    "city": "Etlan",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23119",
+    "population": 137,
+    "city": "Moon",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24167",
+    "population": 132,
+    "city": "Staffordsville",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22538",
+    "population": 125,
+    "city": "Rappahannock Academy",
+    "county": "Caroline County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24093",
+    "population": 114,
+    "city": "Glen Lyn",
+    "county": "Giles County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22643",
+    "population": 111,
+    "city": "Markham",
+    "county": "Fauquier County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24129",
+    "population": 92,
+    "city": "New River",
+    "county": "Pulaski County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22989",
+    "population": 90,
+    "city": "Woodberry Forest",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23486",
+    "population": 90,
+    "city": "Willis Wharf",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22976",
+    "population": 89,
+    "city": "Tyro",
+    "county": "Nelson County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23414",
+    "population": 82,
+    "city": "Nelsonia",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24442",
+    "population": 81,
+    "city": "Head Waters",
+    "county": "Highland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23161",
+    "population": 80,
+    "city": "Stevensville",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24433",
+    "population": 79,
+    "city": "Doe Hill",
+    "county": "Highland County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22509",
+    "population": 75,
+    "city": "Loretto",
+    "county": "Essex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23316",
+    "population": 75,
+    "city": "Cheriton",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22711",
+    "population": 65,
+    "city": "Banco",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23130",
+    "population": 64,
+    "city": "Onemo",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23667",
+    "population": 62,
+    "city": "Hampton",
+    "county": "Hampton city",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22548",
+    "population": 59,
+    "city": "Sharps",
+    "county": "Richmond County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23045",
+    "population": 59,
+    "city": "Diggs",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24168",
+    "population": 58,
+    "city": "Stanleytown",
+    "county": "Henry County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22845",
+    "population": 57,
+    "city": "Orkney Springs",
+    "county": "Shenandoah County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23108",
+    "population": 56,
+    "city": "Mascot",
+    "county": "King and Queen County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22723",
+    "population": 48,
+    "city": "Hood",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23976",
+    "population": 46,
+    "city": "Wylliesburg",
+    "county": "Charlotte County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23416",
+    "population": 45,
+    "city": "Oak Hall",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24316",
+    "population": 45,
+    "city": "Broadford",
+    "county": "Tazewell County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24131",
+    "population": 44,
+    "city": "Paint Bank",
+    "county": "Craig County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22948",
+    "population": 41,
+    "city": "Locust Dale",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22646",
+    "population": 39,
+    "city": "Millwood",
+    "county": "Clarke County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23426",
+    "population": 36,
+    "city": "Sanford",
+    "county": "Accomack County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24415",
+    "population": 35,
+    "city": "Brownsburg",
+    "county": "Rockbridge County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "22725",
+    "population": 28,
+    "city": "Leon",
+    "county": "Madison County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23163",
+    "population": 28,
+    "city": "Susan",
+    "county": "Mathews County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23398",
+    "population": 21,
+    "city": "Jamesville",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23884",
+    "population": 15,
+    "city": "Sussex",
+    "county": "Sussex County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23955",
+    "population": 12,
+    "city": "Nottoway",
+    "county": "Nottoway County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24322",
+    "population": 10,
+    "city": "Cripple Creek",
+    "county": "Wythe County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "23408",
+    "population": 8,
+    "city": "Marionville",
+    "county": "Northampton County",
+    "state": "Virginia"
+  },
+  {
+    "zip": "24411",
+    "population": 3,
+    "city": "Augusta Springs",
+    "county": "Augusta County",
+    "state": "Virginia"
+  }
+]

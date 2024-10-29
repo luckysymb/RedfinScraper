@@ -1,0 +1,428 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K47RX4L');</script>
+    <!-- End Google Tag Manager -->
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+        <!-- This site is optimized with the Yoast SEO Premium plugin v23.5 (Yoast SEO v23.7) - https://yoast.com/wordpress/plugins/seo/ -->
+        <title>Orthodontist in Woodbridge - Dr. Ramin (Ron) Hessamfar | American Association of Orthodontists</title>
+        <meta name="description" content="Orthodontics are life-changing. Request an appointment with Dr. Ramin (Ron) Hessamfar today. Find your AAO orthodontist in Woodbridge." />
+        <link rel="canonical" href="https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Dr. Ramin (Ron) Hessamfar" />
+        <meta property="og:description" content="Dr. Ramin (Ron) Hessamfar. A custom smile created just for you by an AAO orthodontist." />
+        <meta property="og:url" content="https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/" />
+        <meta property="og:site_name" content="American Association of Orthodontists" />
+        <meta property="article:publisher" content="http://www.facebook.com/pages/MyLifeMySmile/300838933301442?sk=wall" />
+        <meta property="article:modified_time" content="2024-08-16T21:43:46+00:00" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@AAOrtho" />
+        <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/","url":"https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/","name":"Orthodontist in Woodbridge - Dr. Ramin (Ron) Hessamfar | American Association of Orthodontists","isPartOf":{"@id":"https://aaoinfo.org/#website"},"datePublished":"2023-02-16T18:58:25+00:00","dateModified":"2024-08-16T21:43:46+00:00","description":"Orthodontics are life-changing. Request an appointment with Dr. Ramin (Ron) Hessamfar today. Find your AAO orthodontist in Woodbridge.","breadcrumb":{"@id":"https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/"]}]},{"@type":"BreadcrumbList","@id":"https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://aaoinfo.org/"},{"@type":"ListItem","position":2,"name":"Dr. Ramin (Ron) Hessamfar"}]},{"@type":"WebSite","@id":"https://aaoinfo.org/#website","url":"https://aaoinfo.org/","name":"American Association of Orthodontists","description":"American Association of Orthodontists","publisher":{"@id":"https://aaoinfo.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://aaoinfo.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://aaoinfo.org/#organization","name":"American Association of Orthodontists","url":"https://aaoinfo.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://aaoinfo.org/#/schema/logo/image/","url":"https://aaoinfo.org/wp-content/uploads/2018/06/AAO-logo-M-c-e-210w.png","contentUrl":"https://aaoinfo.org/wp-content/uploads/2018/06/AAO-logo-M-c-e-210w.png","width":210,"height":73,"caption":"American Association of Orthodontists"},"image":{"@id":"https://aaoinfo.org/#/schema/logo/image/"},"sameAs":["http://www.facebook.com/pages/MyLifeMySmile/300838933301442?sk=wall","https://x.com/AAOrtho","https://vimeo.com/aaoinfo","https://www.instagram.com/aao.info/"]}]}</script>
+        <!-- / Yoast SEO Premium plugin. -->
+
+
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aaoinfo.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+        img.wp-smiley, img.emoji {
+                display: inline !important;
+                border: none !important;
+                box-shadow: none !important;
+                height: 1em !important;
+                width: 1em !important;
+                margin: 0 0.07em !important;
+                vertical-align: -0.1em !important;
+                background: none !important;
+                padding: 0 !important;
+        }
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://aaoinfo.org/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<link rel='stylesheet' id='editorskit-frontend-css' href='https://aaoinfo.org/wp-content/plugins/block-options/build/style.build.css?ver=new' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #093456;--wp--preset--color--secondary: #005595;--wp--preset--color--yellow: #F4AA30;--wp--preset--color--aqua: #E2F5FB;--wp--preset--color--blue-1: #093456;--wp--preset--color--blue-2: #005595;--wp--preset--color--blue-3: #00A6DB;--wp--preset--color--blue-4: #EDF4F9;--wp--preset--color--grey-1: #3F4244;--wp--preset--color--grey-2: #6C6E74;--wp--preset--color--grey-3: #BABBBE;--wp--preset--color--grey-4: #E4E4E4;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}p{--wp--preset--color--blue-1: #093456;--wp--preset--color--blue-2: #005595;--wp--preset--color--white: #ffffff;--wp--preset--color--grey-1: #3F4244;}.wp-block-heading{--wp--preset--color--blue-1: #093456;--wp--preset--color--blue-2: #005595;--wp--preset--color--grey-1: #3F4244;--wp--preset--color--grey-2: #6C6E74;--wp--preset--color--white: #ffffff;}:root { --wp--style--global--content-size: 1200px;--wp--style--global--wide-size: 1440px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 
+0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-yellow-color{color: var(--wp--preset--color--yellow) !important;}.has-aqua-color{color: var(--wp--preset--color--aqua) !important;}.has-blue-1-color{color: var(--wp--preset--color--blue-1) !important;}.has-blue-2-color{color: var(--wp--preset--color--blue-2) !important;}.has-blue-3-color{color: var(--wp--preset--color--blue-3) !important;}.has-blue-4-color{color: var(--wp--preset--color--blue-4) !important;}.has-grey-1-color{color: var(--wp--preset--color--grey-1) !important;}.has-grey-2-color{color: var(--wp--preset--color--grey-2) !important;}.has-grey-3-color{color: var(--wp--preset--color--grey-3) !important;}.has-grey-4-color{color: var(--wp--preset--color--grey-4) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-yellow-background-color{background-color: var(--wp--preset--color--yellow) !important;}.has-aqua-background-color{background-color: var(--wp--preset--color--aqua) !important;}.has-blue-1-background-color{background-color: var(--wp--preset--color--blue-1) !important;}.has-blue-2-background-color{background-color: var(--wp--preset--color--blue-2) !important;}.has-blue-3-background-color{background-color: var(--wp--preset--color--blue-3) !important;}.has-blue-4-background-color{background-color: var(--wp--preset--color--blue-4) !important;}.has-grey-1-background-color{background-color: var(--wp--preset--color--grey-1) !important;}.has-grey-2-background-color{background-color: var(--wp--preset--color--grey-2) !important;}.has-grey-3-background-color{background-color: var(--wp--preset--color--grey-3) !important;}.has-grey-4-background-color{background-color: var(--wp--preset--color--grey-4) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-yellow-border-color{border-color: var(--wp--preset--color--yellow) !important;}.has-aqua-border-color{border-color: var(--wp--preset--color--aqua) !important;}.has-blue-1-border-color{border-color: var(--wp--preset--color--blue-1) !important;}.has-blue-2-border-color{border-color: var(--wp--preset--color--blue-2) !important;}.has-blue-3-border-color{border-color: var(--wp--preset--color--blue-3) !important;}.has-blue-4-border-color{border-color: var(--wp--preset--color--blue-4) !important;}.has-grey-1-border-color{border-color: var(--wp--preset--color--grey-1) !important;}.has-grey-2-border-color{border-color: var(--wp--preset--color--grey-2) !important;}.has-grey-3-border-color{border-color: var(--wp--preset--color--grey-3) !important;}.has-grey-4-border-color{border-color: var(--wp--preset--color--grey-4) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}p.has-blue-1-color{color: var(--wp--preset--color--blue-1) !important;}p.has-blue-2-color{color: var(--wp--preset--color--blue-2) !important;}p.has-white-color{color: var(--wp--preset--color--white) !important;}p.has-grey-1-color{color: var(--wp--preset--color--grey-1) !important;}p.has-blue-1-background-color{background-color: var(--wp--preset--color--blue-1) !important;}p.has-blue-2-background-color{background-color: var(--wp--preset--color--blue-2) !important;}p.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}p.has-grey-1-background-color{background-color: var(--wp--preset--color--grey-1) !important;}p.has-blue-1-border-color{border-color: var(--wp--preset--color--blue-1) !important;}p.has-blue-2-border-color{border-color: var(--wp--preset--color--blue-2) !important;}p.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}p.has-grey-1-border-color{border-color: var(--wp--preset--color--grey-1) !important;}.wp-block-heading.has-blue-1-color{color: var(--wp--preset--color--blue-1) !important;}.wp-block-heading.has-blue-2-color{color: var(--wp--preset--color--blue-2) !important;}.wp-block-heading.has-grey-1-color{color: var(--wp--preset--color--grey-1) !important;}.wp-block-heading.has-grey-2-color{color: var(--wp--preset--color--grey-2) !important;}.wp-block-heading.has-white-color{color: var(--wp--preset--color--white) !important;}.wp-block-heading.has-blue-1-background-color{background-color: var(--wp--preset--color--blue-1) 
+!important;}.wp-block-heading.has-blue-2-background-color{background-color: var(--wp--preset--color--blue-2) !important;}.wp-block-heading.has-grey-1-background-color{background-color: var(--wp--preset--color--grey-1) !important;}.wp-block-heading.has-grey-2-background-color{background-color: var(--wp--preset--color--grey-2) !important;}.wp-block-heading.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.wp-block-heading.has-blue-1-border-color{border-color: var(--wp--preset--color--blue-1) !important;}.wp-block-heading.has-blue-2-border-color{border-color: var(--wp--preset--color--blue-2) !important;}.wp-block-heading.has-grey-1-border-color{border-color: var(--wp--preset--color--grey-1) !important;}.wp-block-heading.has-grey-2-border-color{border-color: var(--wp--preset--color--grey-2) !important;}.wp-block-heading.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='tmnt-styles-css' href='https://aaoinfo.org/wp-content/plugins/aao_quiz/aao-tmnt.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='pb-accordion-blocks-style-css' href='https://aaoinfo.org/wp-content/plugins/accordion-blocks/build/index.css?ver=1.5.0' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://aaoinfo.org/wp-includes/css/dashicons.min.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='wpsl-styles-css' href='https://aaoinfo.org/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.2.241' media='all' />
+<link rel='stylesheet' id='searchwp-forms-css' href='https://aaoinfo.org/wp-content/plugins/searchwp/assets/css/frontend/search-forms.css?ver=4.3.17' media='all' />
+<link rel='stylesheet' id='app/0-css' href='https://aaoinfo.org/wp-content/themes/reignite/public/css/app.b9dfe9.css' media='all' />
+<script src="https://aaoinfo.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://aaoinfo.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://aaoinfo.org/wp-content/plugins/aao_quiz/aao-tmnt.js?ver=6.6.2" id="tmnt-js-js"></script>
+<link rel="https://api.w.org/" href="https://aaoinfo.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://aaoinfo.org/wp-json/wp/v2/wpsl_stores/17555" /><link 
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aaoinfo.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://aaoinfo.org/?p=17555' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://aaoinfo.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faaoinfo.org%2Flocator%2Fdr-ramin-ron-hessamfar%2F" 
+/>
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://aaoinfo.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faaoinfo.org%2Flocator%2Fdr-ramin-ron-hessamfar%2F&#038;format=xml" />
+<!-- Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","name":"American Association of Orthodontists","telephone":null,"url":"https://aaoinfo.org","priceRange":null,"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":[""],"opens":"","closes":""}],"geo":{"@type":"GeoCoordinates","latitude":"","longitude":""}}</script><!-- / Schema optimized by Schema Pro --><!-- breadcrumb Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/aaoinfo.org\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/aaoinfo.org\/locator\/dr-ramin-ron-hessamfar\/","name":"Dr. Ramin (Ron) Hessamfar"}}]}</script><!-- / breadcrumb Schema optimized by Schema Pro --><style type="text/css">.broken_link, a.broken_link {    
+        text-decoration: line-through;
+}</style>                       <style id="wpsp-style-frontend"></style>
+                        <link rel="icon" href="https://aaoinfo.org/wp-content/uploads/2024/10/cropped-cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://aaoinfo.org/wp-content/uploads/2024/10/cropped-cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://aaoinfo.org/wp-content/uploads/2024/10/cropped-cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://aaoinfo.org/wp-content/uploads/2024/10/cropped-cropped-favicon-270x270.png" />
+                <style id="wp-custom-css">
+                        .page-id-3719 .stats .icon {display:none;}
+
+.page-id-3719 .stat-card-header__heading {font-size:50px;}              </style>
+                  </head>
+
+  <body class="wpsl_stores-template-default single single-wpsl_stores postid-17555 wp-custom-logo wp-embed-responsive wp-schema-pro-2.7.23 dr-ramin-ron-hessamfar">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-K47RX4L
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="app">
+      <a class="sr-only focus:not-sr-only" href="#main">
+  Skip to content
+</a>
+
+
+<header id="header" class="banner relative">
+
+  <section id="top-banner" aria-label="Member site and language selection" class="bg-blue-2 overflow-visible text-white z-10 relative">
+  <div class="flex justify-between align-center mx-auto px-5 md:px-8 lg:px-5 w-full max-w-full md:max-w-[1240px] h-11 xl:h-[60px]">
+    <nav class="member-navigation flex w-full sm:w-auto" aria-label="Navigate to AAO Member Site">
+              <a class="btn-tertiary-chevron ml:h-12 uppercase" href="https://www2.aaoinfo.org/" target="_blank">AAO Member Site</a>
+          </nav>
+          <a class="btn-find-ortho btn-primary" href="https://aaoinfo.org/locator/" target="_self">Find an Orthodontist</a>
+      </div>
+</section>
+
+  <div class="site-header">
+    <div class="container">
+
+
+              <a href="https://aaoinfo.org/" class="custom-logo-link" rel="home"><img width="291" height="100" src="https://aaoinfo.org/wp-content/uploads/2022/10/aao-logo.svg" class="custom-logo" alt="American Association of Orthodontists" decoding="async" /></a>
+
+      <div class="flex order-none md:order-last items-center">
+        <button class="search-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <a class="btn-find-ortho btn-primary-2" href="https://aaoinfo.org/locator/" target="_self">Find an Orthodontist</a>
+        <button class="nav-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+
+      <div class="search-dropdown">
+        <form role="search" method="get" class="search-form" action="https://aaoinfo.org/">
+  <label for="search-form-73ce1418-f32f-4bb8-935d-9a9380bd0170" class="sr-only">
+    Search for:
+  </label>
+  <input
+    id="search-form-73ce1418-f32f-4bb8-935d-9a9380bd0170"
+    type="search"
+    class="search-field"
+    placeholder="Search &hellip;"
+    value=""
+    name="s"
+  >
+  <button type="submit" class="search-submit">
+    <div class="search-icon-submit">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </button>
+</form>
+
+
+
+      </div>
+
+              <nav class="nav nav-primary order-last md:order-none" aria-label="Primary Navigation">
+          <div class="nav-menu"><div id="menu-item-4540" class="nav-item dropdown"><div class="dropdown-flex-wrap"><a href="https://aaoinfo.org/about/">About AAO</a><button class="dropdown-toggle caret right"></button></div>
+<div class="dropdown-menu">
+<div id='menu-item-shim' class='dropdown-item dropdown-item-shim'></div>
+        <div id="menu-item-4747" class="dropdown-item"><a href="https://aaoinfo.org/about/bullying-bites/">Bullying Bites</a></div>
+        <div id="menu-item-4748" class="dropdown-item"><a href="https://aaoinfo.org/about/support-fsa-increase/">Support FSA Increase</a></div>
+</div>
+</div>
+<div id="menu-item-4541" class="nav-item"><a href="https://aaoinfo.org/adult-orthodontics/">Adult Orthodontics</a></div>
+<div id="menu-item-4542" class="nav-item"><a href="https://aaoinfo.org/child-orthodontics/">Child Orthodontics</a></div>
+<div id="menu-item-4544" class="nav-item dropdown"><div class="dropdown-flex-wrap"><a href="https://aaoinfo.org/treatments/">Treatments</a><button class="dropdown-toggle caret right"></button></div>
+<div class="dropdown-menu">
+<div id='menu-item-shim' class='dropdown-item dropdown-item-shim'></div>
+        <div id="menu-item-4750" class="dropdown-item"><a href="https://aaoinfo.org/treatments/braces/">Braces</a></div>
+        <div id="menu-item-4752" class="dropdown-item"><a href="https://aaoinfo.org/treatments/aligners/">Aligners</a></div>
+        <div id="menu-item-4757" class="dropdown-item"><a href="https://aaoinfo.org/treatments/retainers/">Retainers</a></div>
+        <div id="menu-item-4753" class="dropdown-item"><a href="https://aaoinfo.org/treatments/archwires/">Archwires</a></div>
+        <div id="menu-item-4758" class="dropdown-item"><a href="https://aaoinfo.org/treatments/orthodontic-elastics/">Elastics</a></div>
+        <div id="menu-item-4755" class="dropdown-item"><a href="https://aaoinfo.org/treatments/mouth-guards/">Mouthguards</a></div>
+        <div id="menu-item-4756" class="dropdown-item"><a href="https://aaoinfo.org/treatments/orthodontic-surgery/">Orthodontic Surgery</a></div>
+        <div id="menu-item-4751" class="dropdown-item"><a href="https://aaoinfo.org/treatments/gifted-smiles/">AAOF Donated Treatments</a></div>
+</div>
+</div>
+<div id="menu-item-4543" class="nav-item dropdown"><div class="dropdown-flex-wrap"><a href="https://aaoinfo.org/resources/">Resources</a><button class="dropdown-toggle caret right"></button></div>
+<div class="dropdown-menu">
+<div id='menu-item-shim' class='dropdown-item dropdown-item-shim'></div>
+        <div id="menu-item-4759" class="active dropdown-item"><a href="https://aaoinfo.org/resources/news/">Smile Insights Blog</a></div>
+        <div id="menu-item-4761" class="dropdown-item"><a href="https://aaoinfo.org/resources/common-orthodontic-problems/">Common Orthodontic Problems</a></div>
+        <div id="menu-item-4766" class="dropdown-item"><a href="https://aaoinfo.org/resources/why-orthodontics/">Why Orthodontics?</a></div>
+        <div id="menu-item-4764" class="dropdown-item"><a href="https://aaoinfo.org/resources/how-to-choose-an-orthodontist/">How to Choose an Orthodontist</a></div>
+        <div id="menu-item-4765" class="dropdown-item"><a href="https://aaoinfo.org/resources/orthodontist-vs-dentist/">Orthodontist vs. Dentist</a></div>
+        <div id="menu-item-4760" class="dropdown-item"><a href="https://aaoinfo.org/resources/at-home-orthodontics/">At-Home Orthodontics</a></div>
+        <div id="menu-item-48255" class="dropdown-item"><a href="/resources/faqs/">FAQs</a></div>
+        <div id="menu-item-23004" class="dropdown-item"><a href="https://aaoinfo.org/orthodontic-staff-career/">Orthodontic Staff Careers</a></div>
+        <div id="menu-item-4763" class="dropdown-item"><a href="https://aaoinfo.org/resources/glossary-of-orthodontic-terms/">Glossary of Orthodontic Terms</a></div>
+        <div id="menu-item-4949" class="dropdown-item"><a href="https://aaoinfo.org/resources/press-room/">Press Room</a></div>
+</div>
+</div>
+</div>
+        </nav>
+          </div>
+  </div>
+</header>
+
+
+
+
+
+
+
+<main id="main" class="main">
+       <div id="aao-wpsl">
+    <div class="is-layout-flow wp-block-group alignfull is-style-page-header has-aqua-background-color has-background">
+        <h1 class="has-text-align-center p-20 xl:pt-32" id="h-find-an-orthodontist">Find an Orthodontist</h1>
+      </div>
+      <div class="breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+        <!-- Breadcrumb NavXT 7.3.1 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to American Association of Orthodontists." href="https://aaoinfo.org" class="home" ><span property="name">American Association of Orthodontists</span></a><meta property="position" content="1"></span>›<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Find an Orthodontist." href="https://aaoinfo.org/locator/" class="wpsl_stores-root post post-wpsl_stores" ><span property="name">Find an Orthodontist</span></a><meta property="position" content="2"></span>›<span property="itemListElement" typeof="ListItem"><span property="name" class="post post-wpsl_stores current-item">Dr. Ramin (Ron) Hessamfar</span><meta property="url" content="https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/"><meta property="position" content="3"></span>      </div>
+
+
+                <div class="wp-block-media-text alignwide has-media-on-the-left is-stacked-on-mobile is-image-fill is-style-default" style="grid-template-columns:auto 44%">
+          <div id="wpsl-base-gmap_0" class="wpsl-gmap-canvas"></div>
+<style>#wpsl-base-gmap_0 {height:350px;}</style>
+            <div class="mt-6 mx-6 md:ml-9 md:mx-0">
+            <h2 class="font-bold text-2xl">Dr. Ramin (Ron) Hessamfar, DMD, MS </h2>
+            <p class="text-base">
+              Graduate of the <strong>New Jersey College of Medicine &amp; Dentistry</strong> orthodontic program<br />
+              Graduate of the <strong>University of Pennsylvania</strong> dental program<br />
+                        </p>
+            <h3 class="font-bold text-xl">Offices</h3>
+            <p class="text-base">
+              <div class="wpsl-locations-details"><div class="wpsl-location-address"><span>14130 Noblewood Plz Ste 107</span><br/><span>Woodbridge, </span><span>VA </span><span>22193-1465 </span><br /></div><div class="wpsl-contact-details">Phone: <span>(703)897-6453</span><br/></div></div>
+
+                            <div class="wpsl-contact-website">
+                  <a href="https://braces4yourlife.com" title="Dr. Ramin (Ron) Hessamfar Website" target="_blank">https://braces4yourlife.com</a>
+                </div>
+
+            </p>
+
+                          <div class="mt-6 mr-8">
+
+              <details>
+                  <summary class="btn-find-ortho btn-primary cursor-pointer my-5">Request an Appointment</summary>
+                  <div class="bg-white px-5 py-3 border border-gray-300 text-sm font-light">
+                      <p><script type="text/javascript"></script>
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_1' >
+                        <div class='gform_heading'>
+                            <h2 class="gform_title">Contact</h2>
+                            <p class='gform_description'></p>
+                                                        <p class='gform_required_legend'>&quot;<span class="gfield_required gfield_required_asterisk">*</span>&quot; indicates required fields</p> 
+                        </div><form method='post' enctype='multipart/form-data'  id='gform_1'  action='/locator/dr-ramin-ron-hessamfar/' data-formid='1' novalidate>
+                        <div class='gform-body gform_body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_1_1" class="gfield gfield--type-text gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_1" ><label class='gfield_label gform-field-label' for='input_1_1'>First Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_text'><input name='input_1' id='input_1_1' type='text' value='' class='large'     aria-required="true" aria-invalid="false"   /> </div></div><div id="field_1_3" class="gfield gfield--type-text gfield--width-full gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" 
+ data-js-reload="field_1_3" ><label class='gfield_label gform-field-label' for='input_1_3'>Last Name<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_text'><input name='input_3' id='input_1_3' type='text' value='' class='large'     aria-required="true" aria-invalid="false"   /> </div></div><div id="field_1_4" class="gfield gfield--type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_4" ><label class='gfield_label gform-field-label' for='input_1_4'>Email<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_4' id='input_1_4' type='email' value='' class='large'    aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_1_5" class="gfield gfield--type-phone gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_5" ><label class='gfield_label gform-field-label' for='input_1_5'>Phone<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_phone'><input name='input_5' id='input_1_5' type='tel' value='' class='large'   aria-required="true" aria-invalid="false"   /></div></div><div id="field_1_7" class="gfield gfield--type-textarea gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_7" ><label class='gfield_label gform-field-label' for='input_1_7'>Question or comments for the doctor<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class='ginput_container ginput_container_textarea'><textarea name='input_7' id='input_1_7' class='textarea large'     aria-required="true" aria-invalid="false"   rows='10' cols='50'></textarea></div></div><div id="field_1_9" class="gfield gfield--type-email gfield--width-full field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_hidden"  data-js-reload="field_1_9" ><div class='admin-hidden-markup'><i class='gform-icon gform-icon--hidden'></i><span>Hidden</span></div><label class='gfield_label gform-field-label' for='input_1_9'>business_email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_9' id='input_1_9' type='email' value='9af71e6d-f458-4152-bb38-7a25f7e0cfb4' class='large'     aria-invalid="false"  />
+                        </div></div><div id="field_1_10" class="gfield gfield--type-captcha gfield--width-full field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  data-js-reload="field_1_10" ><label class='gfield_label gform-field-label' for='input_1_10'>CAPTCHA</label><div id='input_1_10' class='ginput_container ginput_recaptcha' data-sitekey='6LdauqkkAAAAANhVRIiK-qEHoalMDVDp_QU4DTja'  data-theme='light' data-tabindex='-1' data-size='invisible' data-badge='bottomright'></div></div><div id="field_1_11" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  data-js-reload="field_1_11" ><label class='gfield_label gform-field-label' for='input_1_11'>Phone</label><div class='ginput_container'><input name='input_11' id='input_1_11' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_11'>This field is for validation purposes and should be left unchanged.</div></div></div></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Submit'  onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImZiYWE1YTljYzE0YTNlNzI3NzI5Y2M4YWQ1NDcxOWRmIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+
+        </div>
+                        <p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="64"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>     
+                        </div><script>
+gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://aaoinfo.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_1').on('load',function(){var 
+contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://aaoinfo.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, current_page] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: current_page } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }    
+    }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;
+  clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {
+             debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {      
+          attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} );
+</script>
+</p>
+                  </div>
+              </details>
+
+                          </div>
+       <strong class='text-base mt-6'>Additional Location</strong><div class="aao_other_locations"><div class="mb-5">42882 Truro Parish Dr Ste 210<br />Broadlands, VA 20148-4458<br /><a href="https://aaoinfo.org/locator/dr-ramin-ron-hessamfar-2/">view location</a></div></div>            </div>
+          </div>
+  </div>
+  </main>
+
+    </div>
+  </div>
+
+
+<footer class="primary-footer bg-blue-1 text-white" aria-label="Primary Footer">
+  <div class="container xl:px-0 pt-20 pb-0 ml:pb-16 ml:pb-15 ml:pt-[100px] ml:w-full">
+
+    <aside class="sidebar sidebar-footer" aria-label="sidebar-footer">
+    <section class="widget block-2 widget_block">
+<div class="wp-block-columns has-primary-background-color has-background is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large footer-logo coblocks-animate"><img loading="lazy" decoding="async" width="169" height="58" src="https://aaoinfo.org/wp-content/uploads/2022/11/logo-aao-white.svg" alt="" class="wp-image-4638"/></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="widget widget_nav_menu"><h2 class="widgettitle">About Us</h2><div class="menu-footer-about-us-container"><ul id="menu-footer-about-us" class="menu"><li id="menu-item-4631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4631"><a href="https://aaoinfo.org/about/">About AAO</a></li>
+<li id="menu-item-4629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4629"><a href="https://aaoinfo.org/about/careers/">Careers</a></li>
+<li id="menu-item-4630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4630"><a href="https://aaoinfo.org/about/bullying-bites/">Bullying Bites</a></li>
+<li id="menu-item-4632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4632"><a href="https://aaoinfo.org/about/support-fsa-increase/">Support FSA</a></li>
+<li id="menu-item-4633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4633"><a href="https://aaoinfo.org/privacy-policy/">Privacy Policy</a></li>
+</ul></div></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="widget widget_nav_menu"><h2 class="widgettitle">Resources</h2><div class="menu-footer-resources-container"><ul id="menu-footer-resources" class="menu"><li id="menu-item-4635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4635"><a href="https://aaoinfo.org/resources/glossary-of-orthodontic-terms/">Glossary of Terms</a></li>
+<li id="menu-item-4636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4636"><a href="https://aaoinfo.org/resources/common-orthodontic-problems/">Common Orthodontic Problems</a></li>
+<li id="menu-item-4637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4637"><a href="https://aaoinfo.org/resources/why-orthodontics/">Why Orthodontics</a></li>        
+</ul></div></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ul class="wp-block-social-links has-icon-color is-style-logos-only coblocks-animate is-layout-flex wp-block-social-links-is-layout-flex"><li style="color: #ffffff; " class="wp-social-link wp-social-link-facebook has-white-color wp-block-social-link"><a href="https://www.facebook.com/pages/MyLifeMySmile/300838933301442?sk=wall" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
+
+<li style="color: #ffffff; " class="wp-social-link wp-social-link-x has-white-color wp-block-social-link"><a href="https://twitter.com/AAOrtho" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M13.982 10.622 20.54 3h-1.554l-5.693 6.618L8.745 3H3.5l6.876 10.007L3.5 21h1.554l6.012-6.989L15.868 21h5.245l-7.131-10.378Zm-2.128 2.474-.697-.997-5.543-7.93H8l4.474 6.4.697.996 5.815 8.318h-2.387l-4.745-6.787Z" /></svg><span class="wp-block-social-link-label screen-reader-text">X</span></a></li>
+
+<li style="color: #ffffff; " class="wp-social-link wp-social-link-vimeo has-white-color wp-block-social-link"><a href="https://vimeo.com/aaoinfo" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M22.396,7.164c-0.093,2.026-1.507,4.799-4.245,8.32C15.322,19.161,12.928,21,10.97,21c-1.214,0-2.24-1.119-3.079-3.359 c-0.56-2.053-1.119-4.106-1.68-6.159C5.588,9.243,4.921,8.122,4.206,8.122c-0.156,0-0.701,0.328-1.634,0.98L1.594,7.841 c1.027-0.902,2.04-1.805,3.037-2.708C6.001,3.95,7.03,3.327,7.715,3.264c1.619-0.156,2.616,0.951,2.99,3.321 c0.404,2.557,0.685,4.147,0.841,4.769c0.467,2.121,0.981,3.181,1.542,3.181c0.435,0,1.09-0.688,1.963-2.065 c0.871-1.376,1.338-2.422,1.401-3.142c0.125-1.187-0.343-1.782-1.401-1.782c-0.498,0-1.012,0.115-1.541,0.341 c1.023-3.35,2.977-4.977,5.862-4.884C21.511,3.066,22.52,4.453,22.396,7.164z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Vimeo</span></a></li>
+
+<li style="color: #ffffff; " class="wp-social-link wp-social-link-instagram has-white-color wp-block-social-link"><a href="https://www.instagram.com/aao.info/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Instagram</span></a></li></ul>
+
+
+
+<div class="wp-block-buttons footer-btn-desktop is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-btn-primary-2 coblocks-animate"><a class="wp-block-button__link wp-element-button" href="https://aaoinfo.org/find-an-orthodontist/">Find an Orthodontist</a></div>
+</div>
+</div>
+</div>
+</section>  </aside>
+  </div>
+  <div class="container flex flex-col justify-center py-4 text-white text-base font-opensans leading-6 font-semibold">
+    <div class="copyright mb-1 text-center">
+      &copy; 2024 <a class="text-white no-underline hover:underline" href="https://aaoinfo.org">American Association of Orthodontists</a>. All rights reserved.
+    </div>
+    <div class="credit text-center">
+      Site by <a class="text-white no-underline hover:underline" href="https://matchboxdesigngroup.com">Matchbox Design Group</a>.
+    </div>
+  </div>
+</footer>
+    </div>
+
+        <script id="wpsl-cpt-info-window-template" type="text/template">
+    <div class="wpsl-info-window">
+                <p class="wpsl-no-margin">
+                        <% if ( typeof permalink !== "undefined" ) { %>
+                        <strong><a href="<%= permalink %>"><%= store %></a></strong>
+                        <% } else { %>
+                        <strong><%= store %></strong>
+                        <% } %>
+                        <span><%= address %></span>
+                        <% if ( address2 ) { %>
+                        <span><%= address2 %></span>
+                        <% } %>
+                        <span><%= city %>, <%= state %> <%= zip %></span>
+                        <span class="wpsl-country"><%= country %></span>
+                </p>
+        </div>
+</script>
+    <link rel='stylesheet' id='gform_basic-css' href='https://aaoinfo.org/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.8.18' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://aaoinfo.org/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.8.18' media='all' />
+<link rel='stylesheet' id='gform_theme_ie11-css' href='https://aaoinfo.org/wp-content/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.8.18' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://aaoinfo.org/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.8.18' media='all' />
+<style id='core-block-supports-inline-css'>
+.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}
+</style>
+<script src="https://aaoinfo.org/wp-content/plugins/accordion-blocks/js/accordion-blocks.min.js?ver=1.5.0" id="pb-accordion-blocks-frontend-script-js"></script>
+<script id="app/0-js-before">
+!function(){"use strict";var r,n={},t={};function e(r){var o=t[r];if(void 0!==o)return o.exports;var u=t[r]={exports:{}};return n[r](u,u.exports,e),u.exports}e.m=n,r=[],e.O=function(n,t,o,u){if(!t){var i=1/0;for(c=0;c<r.length;c++){t=r[c][0],o=r[c][1],u=r[c][2];for(var f=!0,s=0;s<t.length;s++)(!1&u||i>=u)&&Object.keys(e.O).every((function(r){return e.O[r](t[s])}))?t.splice(s--,1):(f=!1,u<i&&(i=u));if(f){r.splice(c--,1);var a=o();void 0!==a&&(n=a)}}return n}u=u||0;for(var c=r.length;c>0&&r[c-1][2]>u;c--)r[c]=r[c-1];r[c]=[t,o,u]},e.o=function(r,n){return Object.prototype.hasOwnProperty.call(r,n)},function(){var r={666:0};e.O.j=function(n){return 0===r[n]};var n=function(n,t){var o,u,i=t[0],f=t[1],s=t[2],a=0;if(i.some((function(n){return 0!==r[n]}))){for(o in f)e.o(f,o)&&(e.m[o]=f[o]);if(s)var c=s(e)}for(n&&n(t);a<i.length;a++)u=i[a],e.o(r,u)&&r[u]&&r[u][0](),r[u]=0;return e.O(c)},t=self.webpackChunk_roots_bud_sage=self.webpackChunk_roots_bud_sage||[];t.forEach(n.bind(null,0)),t.push=n.bind(null,t.push.bind(t))}()}();
+</script>
+<script src="https://aaoinfo.org/wp-content/themes/reignite/public/js/app.5df06a.js" id="app/0-js"></script>
+<script src="https://aaoinfo.org/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script src="https://aaoinfo.org/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://aaoinfo.org/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://aaoinfo.org/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
+<script defer='defer' src="https://aaoinfo.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.8.18" id="gform_json-js"></script>
+<script id="gform_gravityforms-js-extra">
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving 
+the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/aaoinfo.org\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/aaoinfo.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/aaoinfo.org\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"c1390b9526f6b4d7b03108e66d60c7c2","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+</script>
+<script defer='defer' src="https://aaoinfo.org/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.8.18" id="gform_gravityforms-js"></script>
+<script defer='defer' src="https://www.google.com/recaptcha/api.js?hl=en&amp;ver=6.6.2#038;render=explicit" id="gform_recaptcha-js"></script>
+<script defer='defer' src="https://aaoinfo.org/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.8.18" id="gform_masked_input-js"></script>
+<script defer='defer' src="https://aaoinfo.org/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=50c7bea9c2320e16728e44ae9fde5f26" id="gform_gravityforms_utils-js"></script>        
+<script defer='defer' src="https://aaoinfo.org/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=54e7080aa7a02c83aa61fae430b9d869" id="gform_gravityforms_theme_vendors-js"></script>
+<script id="gform_gravityforms_theme-js-extra">
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"c1390b9526f6b4d7b03108e66d60c7c2"}}},"hmr_dev":"","public_path":"https:\/\/aaoinfo.org\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+</script>
+<script defer='defer' src="https://aaoinfo.org/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=bab19fd84843dabc070e73326d787910" id="gform_gravityforms_theme-js"></script><script defer src="https://aaoinfo.org/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1725029334" id="akismet-frontend-js"></script>
+<script id="wpsl-js-js-extra">
+var wpslSettings = {"storeMarker":"blue@2x.png","mapType":"roadmap","mapTypeControl":"0","zoomLevel":"3","startLatlng":"37.09024,-95.712891","autoZoomLevel":"15","scrollWheel":"1","controlPosition":"right","url":"https:\/\/aaoinfo.org\/wp-content\/plugins\/wp-store-locator\/","markerIconProps":{"scaledSize":"24,35","origin":"0,0","anchor":"12,35"},"storeUrl":"1","maxDropdownHeight":"300","enableStyledDropdowns":"1","mapTabAnchor":"wpsl-map-tab","mapTabAnchorReturn":"","gestureHandling":"auto","directionsTravelMode":"DRIVING","runFitBounds":"1","mapStyle":""};
+var wpslMap_0 = {"shortCode":{"zoomLevel":13,"mapType":"roadmap","mapTypeControl":0,"mapStyle":"","streetView":0,"scrollWheel":0,"controlPosition":"right"},"locations":[{"store":"Dr. Ramin (Ron) 
+Hessamfar","address":"14130 Noblewood Plz Ste 107","address2":"","city":"Woodbridge","state":"VA","zip":"22193-1465","country":"UNITED STATES","lat":"38.6485176","lng":"-77.31337","id":17555}]}; 
+</script>
+<script src="https://aaoinfo.org/wp-content/plugins/wp-store-locator/js/wpsl-gmap.min.js?ver=2.2.241" id="wpsl-js-js"></script>
+<script src="https://maps.google.com/maps/api/js?language=en&amp;key=AIzaSyBNDAmvIAQwJ-FMvR1tNx-ujP5kn-cqz5Q&amp;libraries=places&amp;v=quarterly&amp;callback=wpslCallback" id="wpsl-gmap-js"></script>
+<script src="https://aaoinfo.org/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script>
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {jQuery('#input_1_5').mask('(999) 999-9999').bind('keypress', 
+function(e){if(e.which == 13){jQuery(this).blur();} } );} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script>
+gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "1", currentPage: "1", abort: function() { this.preventDefault(); } }]);                if (event && event.defaultPrevented) {                return;         }        const gformWrapperDiv = document.getElementById( "gform_wrapper_1" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_1";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }   
+     const visibilityTestDiv = document.getElementById( "gform_visibility_test_1" );        let postRenderFired = false;                function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            jQuery( document ).trigger( 'gform_post_render', [1, 1] );            gform.utils.trigger( { event: 'gform/postRender', native: false, data: { formId: 1, currentPage: 1 } } );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );
+   }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;      
+          clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {   
+                     debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {
+triggerPostRender();        }    } );
+</script>
+                        <script type="text/javascript" id="wpsp-script-frontend"></script>
+                          </body>
+</html>

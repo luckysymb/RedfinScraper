@@ -1,0 +1,226 @@
+[
+  {
+    "state": "Puerto Rico",
+    "count": 132
+  },
+  {
+    "state": "Virgin Islands",
+    "count": 6
+  },
+  {
+    "state": "Massachusetts",
+    "count": 539
+  },
+  {
+    "state": "Rhode Island",
+    "count": 81
+  },
+  {
+    "state": "New Hampshire",
+    "count": 247
+  },
+  {
+    "state": "Maine",
+    "count": 426
+  },
+  {
+    "state": "Vermont",
+    "count": 265
+  },
+  {
+    "state": "Connecticut",
+    "count": 288
+  },
+  {
+    "state": "New York",
+    "count": 1826
+  },
+  {
+    "state": "New Jersey",
+    "count": 598
+  },
+  {
+    "state": "Pennsylvania",
+    "count": 1833
+  },
+  {
+    "state": "Delaware",
+    "count": 68
+  },
+  {
+    "state": "District of Columbia",
+    "count": 57
+  },
+  {
+    "state": "Virginia",
+    "count": 903
+  },
+  {
+    "state": "Maryland",
+    "count": 477
+  },
+  {
+    "state": "West Virginia",
+    "count": 738
+  },
+  {
+    "state": "North Carolina",
+    "count": 853
+  },
+  {
+    "state": "South Carolina",
+    "count": 424
+  },
+  {
+    "state": "Georgia",
+    "count": 751
+  },
+  {
+    "state": "Florida",
+    "count": 1013
+  },
+  {
+    "state": "Alabama",
+    "count": 656
+  },
+  {
+    "state": "Tennessee",
+    "count": 636
+  },
+  {
+    "state": "Mississippi",
+    "count": 427
+  },
+  {
+    "state": "Kentucky",
+    "count": 780
+  },
+  {
+    "state": "Ohio",
+    "count": 1233
+  },
+  {
+    "state": "Indiana",
+    "count": 807
+  },
+  {
+    "state": "Michigan",
+    "count": 992
+  },
+  {
+    "state": "Iowa",
+    "count": 970
+  },
+  {
+    "state": "Wisconsin",
+    "count": 783
+  },
+  {
+    "state": "Minnesota",
+    "count": 881
+  },
+  {
+    "state": "South Dakota",
+    "count": 375
+  },
+  {
+    "state": "North Dakota",
+    "count": 388
+  },
+  {
+    "state": "Montana",
+    "count": 369
+  },
+  {
+    "state": "Illinois",
+    "count": 1396
+  },
+  {
+    "state": "Missouri",
+    "count": 1035
+  },
+  {
+    "state": "Kansas",
+    "count": 704
+  },
+  {
+    "state": "Nebraska",
+    "count": 586
+  },
+  {
+    "state": "Louisiana",
+    "count": 539
+  },
+  {
+    "state": "Arkansas",
+    "count": 615
+  },
+  {
+    "state": "Oklahoma",
+    "count": 664
+  },
+  {
+    "state": "Texas",
+    "count": 1990
+  },
+  {
+    "state": "Colorado",
+    "count": 527
+  },
+  {
+    "state": "Wyoming",
+    "count": 179
+  },
+  {
+    "state": "Idaho",
+    "count": 279
+  },
+  {
+    "state": "Utah",
+    "count": 298
+  },
+  {
+    "state": "Arizona",
+    "count": 417
+  },
+  {
+    "state": "New Mexico",
+    "count": 371
+  },
+  {
+    "state": "Nevada",
+    "count": 181
+  },
+  {
+    "state": "California",
+    "count": 1802
+  },
+  {
+    "state": "Hawaii",
+    "count": 97
+  },
+  {
+    "state": "American Samoa",
+    "count": 1
+  },
+  {
+    "state": "Guam",
+    "count": 7
+  },
+  {
+    "state": "Northern Mariana Islands",
+    "count": 3
+  },
+  {
+    "state": "Oregon",
+    "count": 428
+  },
+  {
+    "state": "Washington",
+    "count": 605
+  },
+  {
+    "state": "Alaska",
+    "count": 245
+  }
+]

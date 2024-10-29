@@ -1,0 +1,176 @@
+_gcl_au=1.1.459040961.1729886255; _ga=GA1.1.890048930.1729886256; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Oct+25+2024+12%3A57%3A38+GMT-0700+(Pacific+Daylight+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Ffindadentist.ada.org%2F&groups=C0002%3A1%2CC0003%3A1%2CC0001%3A1; BE_CLA3=p_id%3DR64RL8422J8LRRL646NNL4R2RAAAAAAAAH%26bf%3D226cc0e18c430c71ee5d884bf33e6048%26bn%3D1%26bv%3D3.46%26s_expire%3D1729972671641%26s_id%3DR64RL8422J8LRJ62JP6NL4R2RAAAAAAAAH; _ga_NVSBFQCBYE=GS1.1.1729886255.1.1.1729886286.29.0.0; _ga_C2503WHWW7=GS1.1.1729886255.1.1.1729886309.6.0.0
+
+_gcl_au=1.1.459040961.1729886255; _ga=GA1.1.890048930.1729886256; BE_CLA3=p_id%3DR64RL8422J8LRRL646NNL4R2RAAAAAAAAH%26bf%3D226cc0e18c430c71ee5d884bf33e6048%26bn%3D1%26bv%3D3.46%26s_expire%3D1729972671641%26s_id%3DR64RL8422J8LRJ62JP6NL4R2RAAAAAAAAH; _ga_NVSBFQCBYE=GS1.1.1729886255.1.1.1729886310.5.0.0; OptanonAlertBoxClosed=2024-10-25T20:15:24.145Z; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Oct+25+2024+13%3A15%3A24+GMT-0700+(Pacific+Daylight+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0001%3A1; _ga_C2503WHWW7=GS1.1.1729886255.1.1.1729887403.0.0.0
+
+_gcl_au=1.1.459040961.1729886255; _ga=GA1.1.890048930.1729886256; BE_CLA3=p_id%3DR64RL8422J8LRRL646NNL4R2RAAAAAAAAH%26bf%3D226cc0e18c430c71ee5d884bf33e6048%26bn%3D1%26bv%3D3.46%26s_expire%3D1729972671641%26s_id%3DR64RL8422J8LRJ62JP6NL4R2RAAAAAAAAH; OptanonAlertBoxClosed=2024-10-25T20:15:24.145Z; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Oct+25+2024+13%3A15%3A24+GMT-0700+(Pacific+Daylight+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0001%3A1; _ga_NVSBFQCBYE=GS1.1.1729886255.1.1.1729887404.0.0.0; _ga_C2503WHWW7=GS1.1.1729886255.1.1.1729887506.0.0.0
+
+_gcl_au=1.1.459040961.1729886255; _ga=GA1.1.890048930.1729886256; BE_CLA3=p_id%3DR64RL8422J8LRRL646NNL4R2RAAAAAAAAH%26bf%3D226cc0e18c430c71ee5d884bf33e6048%26bn%3D1%26bv%3D3.46%26s_expire%3D1729972671641%26s_id%3DR64RL8422J8LRJ62JP6NL4R2RAAAAAAAAH; OptanonAlertBoxClosed=2024-10-25T20:15:24.145Z; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Oct+25+2024+13%3A15%3A24+GMT-0700+(Pacific+Daylight+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0001%3A1; _ga_NVSBFQCBYE=GS1.1.1729886255.1.1.1729887650.0.0.0; _ga_C2503WHWW7=GS1.1.1729886255.1.1.1729887668.0.0.0
+
+_gcl_au=1.1.459040961.1729886255; _ga=GA1.1.890048930.1729886256; BE_CLA3=p_id%3DR64RL8422J8LRRL646NNL4R2RAAAAAAAAH%26bf%3D226cc0e18c430c71ee5d884bf33e6048%26bn%3D1%26bv%3D3.46%26s_expire%3D1729972671641%26s_id%3DR64RL8422J8LRJ62JP6NL4R2RAAAAAAAAH; OptanonAlertBoxClosed=2024-10-25T20:15:24.145Z; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Oct+25+2024+13%3A15%3A24+GMT-0700+(Pacific+Daylight+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0001%3A1; _ga_NVSBFQCBYE=GS1.1.1729886255.1.1.1729887669.0.0.0; _ga_C2503WHWW7=GS1.1.1729886255.1.1.1729887711.0.0.0
+
+                                                                          p_id%3DR424ALALAAPLR8J4PRLNL4R2RAAAAAAAAH%26bf%3D0f79baac507e3a8cd506134487f2c006%26bn%3D1%26bv%3D3.46%26s_expire%3D1730157106861%26s_id%3DR424ALALAAPLR2R4PR8NL4R2RAAAAAAAAH
+
+[
+  {
+    name: 'OptanonConsent',
+    value: 'isGpcEnabled=0&datestamp=Sun+Oct+27+2024+16%3A58%3A15+GMT-0700+(Pacific+Daylight+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Ffindadentist.ada.org%2Fsearch-results%3Faddress%3D22902%26searchResultsReferrer%3Dtrue&groups=C0002%3A1%2CC0003%3A1%2CC0001%3A1',
+    domain: '.findadentist.ada.org',
+    path: '/',
+    expires: 1761609495,
+    size: 315,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    sameSite: 'Lax',
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  },
+  {
+    name: '_ga_NVSBFQCBYE',
+    value: 'GS1.1.1730073489.1.0.1730073489.60.0.0',
+    domain: '.ada.org',
+    path: '/',
+    expires: 1764633490.263657,
+    size: 52,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  },
+  {
+    name: '_ga_C2503WHWW7',
+    value: 'GS1.1.1730073489.1.0.1730073489.60.0.0',
+    domain: '.ada.org',
+    path: '/',
+    expires: 1764633490.258212,
+    size: 52,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  },
+  {
+    name: '_ga',
+    value: 'GA1.1.1905823724.1730073490',
+    domain: '.ada.org',
+    path: '/',
+    expires: 1764633490.264046,
+    size: 30,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  },
+  {
+    name: '_gcl_au',
+    value: '1.1.1264120931.1730073489',
+    domain: '.ada.org',
+    path: '/',
+    expires: 1737849489,
+    size: 32,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  }
+]
+
+
+
+
+
+
+-----------------
+
+[
+  {
+    name: '_ga_NVSBFQCBYE',
+    value: 'GS1.1.1730073735.1.1.1730073751.44.0.0',
+    domain: '.ada.org',
+    path: '/',
+    expires: 1764633751.917215,
+    size: 52,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  },
+  {
+    name: 'OptanonConsent',
+    value: 'isGpcEnabled=0&datestamp=Sun+Oct+27+2024+17%3A02%3A22+GMT-0700+(Pacific+Daylight+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Ffindadentist.ada.org%2Fsearch-results%3Faddress%3D22807%26searchResultsReferrer%3Dtrue&groups=C0002%3A1%2CC0003%3A1%2CC0001%3A1',
+    domain: '.findadentist.ada.org',
+    path: '/',
+    expires: 1761609742,
+    size: 315,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    sameSite: 'Lax',
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  },
+  {
+    name: '_ga_C2503WHWW7',
+    value: 'GS1.1.1730073735.1.1.1730073751.44.0.0',
+    domain: '.ada.org',
+    path: '/',
+    expires: 1764633751.914164,
+    size: 52,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  },
+  {
+    name: '_ga',
+    value: 'GA1.1.785679636.1730073736',
+    domain: '.ada.org',
+    path: '/',
+    expires: 1764633736.311889,
+    size: 29,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  },
+  {
+    name: '_gcl_au',
+    value: '1.1.2130077812.1730073735',
+    domain: '.ada.org',
+    path: '/',
+    expires: 1737849734,
+    size: 32,
+    httpOnly: false,
+    secure: false,
+    session: false,
+    priority: 'Medium',
+    sameParty: false,
+    sourceScheme: 'Secure',
+    partitionKey: undefined
+  }
+]

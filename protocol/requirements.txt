@@ -1,0 +1,38 @@
+----------- ADA (https://findadentist.ada.org/dentists-catalog) 
+
+•	Name of Dentist / Orthodontist //
+•	Email
+•	Phone //
+•	Clinic Website //
+•	Address //
+•	Payment Options, Insurance //
+•	Gender //
+•	Language //
+•	Education //
+•	Practice Description //
+•	Website URL (for findadentist) //
+•	Any other information available //
+
+----------- AAO (https://aaoinfo.org/locator/)
+
+•	Name of Dentist / Orthodontist //
+•	Education //
+•	Address //
+•	Phone //
+•	Clinic Website //
+•	Additional Location Address //
+•	Website URL (for AAO website) //
+•	Any other information available //
+
+---------- Google Map
+
+•	Name of Clinic/Entity
+•	Address
+•	Geolocation (latitude/longitude)
+•	User Ratings
+•	Number of Reviews
+•	Hours (Opening, Closing, Days Open)
+•	Phone Number
+•	Type (any categories provided by Google Maps)
+
+

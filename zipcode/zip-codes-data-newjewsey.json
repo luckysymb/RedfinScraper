@@ -1,0 +1,4132 @@
+[
+  {
+    "zip": "8701",
+    "population": 134008,
+    "city": "Lakewood",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7305",
+    "population": 70738,
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7002",
+    "population": 70497,
+    "city": "Bayonne",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7055",
+    "population": 70048,
+    "city": "Passaic",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7087",
+    "population": 67258,
+    "city": "Union City",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8753",
+    "population": 64313,
+    "city": "Toms River",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7093",
+    "population": 64203,
+    "city": "West New York",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7047",
+    "population": 62066,
+    "city": "North Bergen",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7111",
+    "population": 60268,
+    "city": "Irvington",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8854",
+    "population": 60233,
+    "city": "Piscataway",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7030",
+    "population": 58754,
+    "city": "Hoboken",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8861",
+    "population": 58136,
+    "city": "Perth Amboy",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8527",
+    "population": 57943,
+    "city": "Jackson",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7083",
+    "population": 56900,
+    "city": "Union",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7728",
+    "population": 56896,
+    "city": "Freehold",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8901",
+    "population": 56870,
+    "city": "New Brunswick",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7105",
+    "population": 56696,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7104",
+    "population": 55412,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8873",
+    "population": 55342,
+    "city": "Somerset",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7306",
+    "population": 54779,
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7470",
+    "population": 54557,
+    "city": "Wayne",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8831",
+    "population": 54229,
+    "city": "Monroe Township",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7302",
+    "population": 53237,
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7003",
+    "population": 52594,
+    "city": "Bloomfield",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7304",
+    "population": 50805,
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8081",
+    "population": 50604,
+    "city": "Sicklerville",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8816",
+    "population": 49027,
+    "city": "East Brunswick",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8540",
+    "population": 48513,
+    "city": "Princeton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7052",
+    "population": 48399,
+    "city": "West Orange",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8817",
+    "population": 48140,
+    "city": "Edison",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8021",
+    "population": 47946,
+    "city": "Clementon",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7060",
+    "population": 47883,
+    "city": "Plainfield",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8302",
+    "population": 47487,
+    "city": "Bridgeton",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8053",
+    "population": 47200,
+    "city": "Marlton",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7960",
+    "population": 46560,
+    "city": "Morristown",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8234",
+    "population": 46462,
+    "city": "Egg Harbor Township",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7601",
+    "population": 45758,
+    "city": "Hackensack",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7036",
+    "population": 44996,
+    "city": "Linden",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8054",
+    "population": 44929,
+    "city": "Mount Laurel",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7726",
+    "population": 44707,
+    "city": "Englishtown",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7202",
+    "population": 44673,
+    "city": "Elizabeth",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8360",
+    "population": 43784,
+    "city": "Vineland",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8844",
+    "population": 43077,
+    "city": "Hillsborough",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8902",
+    "population": 43037,
+    "city": "North Brunswick",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7307",
+    "population": 42184,
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7107",
+    "population": 41907,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7666",
+    "population": 41427,
+    "city": "Teaneck",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7032",
+    "population": 41157,
+    "city": "Kearny",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8094",
+    "population": 41089,
+    "city": "Williamstown",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8724",
+    "population": 40560,
+    "city": "Brick",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8857",
+    "population": 40430,
+    "city": "Old Bridge",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8012",
+    "population": 40320,
+    "city": "Blackwood",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7011",
+    "population": 40042,
+    "city": "Clifton",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7024",
+    "population": 39781,
+    "city": "Fort Lee",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7731",
+    "population": 39684,
+    "city": "Howell",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8820",
+    "population": 39565,
+    "city": "Edison",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7017",
+    "population": 39557,
+    "city": "East Orange",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7712",
+    "population": 39271,
+    "city": "Asbury Park",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8618",
+    "population": 39047,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8401",
+    "population": 38726,
+    "city": "Atlantic City",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8807",
+    "population": 38585,
+    "city": "Bridgewater",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8080",
+    "population": 38215,
+    "city": "Sewell",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7109",
+    "population": 37893,
+    "city": "Belleville",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7753",
+    "population": 37243,
+    "city": "Neptune",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7106",
+    "population": 36538,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8096",
+    "population": 35573,
+    "city": "Woodbury",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7501",
+    "population": 35492,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8757",
+    "population": 35419,
+    "city": "Toms River",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7103",
+    "population": 35318,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8332",
+    "population": 35292,
+    "city": "Millville",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7410",
+    "population": 34948,
+    "city": "Fair Lawn",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8016",
+    "population": 34710,
+    "city": "Burlington",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8759",
+    "population": 33979,
+    "city": "Manchester Township",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7050",
+    "population": 33523,
+    "city": "Orange",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7840",
+    "population": 32952,
+    "city": "Hackettstown",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7747",
+    "population": 32749,
+    "city": "Matawan",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7208",
+    "population": 32632,
+    "city": "Elizabeth",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7026",
+    "population": 32472,
+    "city": "Garfield",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8723",
+    "population": 32430,
+    "city": "Brick",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8610",
+    "population": 32324,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7740",
+    "population": 32091,
+    "city": "Long Branch",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8046",
+    "population": 31812,
+    "city": "Willingboro",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8611",
+    "population": 31660,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8648",
+    "population": 31626,
+    "city": "Lawrence Township",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8003",
+    "population": 31434,
+    "city": "Cherry Hill",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8822",
+    "population": 31330,
+    "city": "Flemington",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7039",
+    "population": 31091,
+    "city": "Livingston",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8043",
+    "population": 30876,
+    "city": "Voorhees",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7090",
+    "population": 30852,
+    "city": "Westfield",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8865",
+    "population": 30561,
+    "city": "Phillipsburg",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7054",
+    "population": 30392,
+    "city": "Parsippany",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7206",
+    "population": 30364,
+    "city": "Elizabethport",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8075",
+    "population": 30359,
+    "city": "Riverside",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8330",
+    "population": 29895,
+    "city": "Mays Landing",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7013",
+    "population": 29725,
+    "city": "Clifton",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7110",
+    "population": 29695,
+    "city": "Nutley",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7065",
+    "population": 29664,
+    "city": "Rahway",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8520",
+    "population": 29296,
+    "city": "Hightstown",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7018",
+    "population": 29216,
+    "city": "East Orange",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7631",
+    "population": 29109,
+    "city": "Englewood",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8055",
+    "population": 28651,
+    "city": "Medford",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8755",
+    "population": 28586,
+    "city": "Toms River",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8205",
+    "population": 28491,
+    "city": "Absecon",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7920",
+    "population": 28460,
+    "city": "Basking Ridge",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7621",
+    "population": 28223,
+    "city": "Bergenfield",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7748",
+    "population": 28112,
+    "city": "Middletown",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7201",
+    "population": 27996,
+    "city": "Elizabeth",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7108",
+    "population": 27830,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7424",
+    "population": 27474,
+    "city": "Little Falls",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7112",
+    "population": 27122,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8050",
+    "population": 27097,
+    "city": "Manahawkin",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7675",
+    "population": 26989,
+    "city": "Westwood",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7042",
+    "population": 26945,
+    "city": "Montclair",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8105",
+    "population": 26615,
+    "city": "Camden",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7652",
+    "population": 26582,
+    "city": "Paramus",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7801",
+    "population": 26548,
+    "city": "Dover",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7860",
+    "population": 26507,
+    "city": "Newton",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7006",
+    "population": 26449,
+    "city": "Caldwell",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7869",
+    "population": 26058,
+    "city": "Randolph",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7450",
+    "population": 26054,
+    "city": "Ridgewood",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7644",
+    "population": 25969,
+    "city": "Lodi",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8005",
+    "population": 25578,
+    "city": "Barnegat",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7010",
+    "population": 25546,
+    "city": "Cliffside Park",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8060",
+    "population": 25516,
+    "city": "Mount Holly",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7430",
+    "population": 25471,
+    "city": "Mahwah",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7040",
+    "population": 25384,
+    "city": "Maplewood",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7701",
+    "population": 25253,
+    "city": "Red Bank",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8742",
+    "population": 25193,
+    "city": "Point Pleasant Beach",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7008",
+    "population": 25170,
+    "city": "Carteret",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8087",
+    "population": 25057,
+    "city": "Tuckerton",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7076",
+    "population": 24727,
+    "city": "Scotch Plains",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8859",
+    "population": 24487,
+    "city": "Parlin",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8028",
+    "population": 24360,
+    "city": "Glassboro",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7901",
+    "population": 24281,
+    "city": "Summit",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7080",
+    "population": 24256,
+    "city": "South Plainfield",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8088",
+    "population": 23988,
+    "city": "Vincentown",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7016",
+    "population": 23838,
+    "city": "Cranford",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8638",
+    "population": 23804,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8109",
+    "population": 23747,
+    "city": "Merchantville",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7724",
+    "population": 23739,
+    "city": "Eatontown",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7508",
+    "population": 23631,
+    "city": "Haledon",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8002",
+    "population": 23630,
+    "city": "Cherry Hill",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8619",
+    "population": 23446,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8037",
+    "population": 23392,
+    "city": "Hammonton",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8876",
+    "population": 22531,
+    "city": "Somerville",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8879",
+    "population": 22514,
+    "city": "South Amboy",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7203",
+    "population": 22500,
+    "city": "Roselle",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7866",
+    "population": 22383,
+    "city": "Rockaway",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7522",
+    "population": 22377,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7071",
+    "population": 22332,
+    "city": "Lyndhurst",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7205",
+    "population": 22262,
+    "city": "Hillside",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8721",
+    "population": 22217,
+    "city": "Bayville",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7719",
+    "population": 21994,
+    "city": "Belmar",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7029",
+    "population": 21935,
+    "city": "Harrison",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7950",
+    "population": 21738,
+    "city": "Morris Plains",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8104",
+    "population": 21656,
+    "city": "Camden",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7094",
+    "population": 21470,
+    "city": "Secaucus",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8085",
+    "population": 21364,
+    "city": "Swedesboro",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7751",
+    "population": 21311,
+    "city": "Morganville",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7407",
+    "population": 21261,
+    "city": "Elmwood Park",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8731",
+    "population": 21164,
+    "city": "Forked River",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7871",
+    "population": 21020,
+    "city": "Sparta",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8550",
+    "population": 20954,
+    "city": "Princeton Junction",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8057",
+    "population": 20942,
+    "city": "Moorestown",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7095",
+    "population": 20927,
+    "city": "Woodbridge",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8536",
+    "population": 20693,
+    "city": "Plainsboro",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8077",
+    "population": 20456,
+    "city": "Riverton",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8232",
+    "population": 20241,
+    "city": "Pleasantville",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7650",
+    "population": 20231,
+    "city": "Palisades Park",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8690",
+    "population": 19959,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8052",
+    "population": 19885,
+    "city": "Maple Shade",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8034",
+    "population": 19870,
+    "city": "Cherry Hill",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7503",
+    "population": 19625,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8872",
+    "population": 19613,
+    "city": "Sayreville",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7928",
+    "population": 19559,
+    "city": "Chatham",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8837",
+    "population": 19544,
+    "city": "Edison",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8110",
+    "population": 19465,
+    "city": "Pennsauken",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7506",
+    "population": 19456,
+    "city": "Hawthorne",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7735",
+    "population": 19369,
+    "city": "Keyport",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8015",
+    "population": 19164,
+    "city": "Browns Mills",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8108",
+    "population": 18970,
+    "city": "Collingswood",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8361",
+    "population": 18886,
+    "city": "Vineland",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7070",
+    "population": 18754,
+    "city": "Rutherford",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7079",
+    "population": 18648,
+    "city": "South Orange",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7067",
+    "population": 18581,
+    "city": "Colonia",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8830",
+    "population": 18511,
+    "city": "Iselin",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7514",
+    "population": 18461,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7461",
+    "population": 18275,
+    "city": "Sussex",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7746",
+    "population": 18230,
+    "city": "Marlboro",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8840",
+    "population": 18075,
+    "city": "Metuchen",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8852",
+    "population": 18068,
+    "city": "Monmouth Junction",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8505",
+    "population": 18067,
+    "city": "Bordentown",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7834",
+    "population": 18048,
+    "city": "Denville",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7628",
+    "population": 18014,
+    "city": "Dumont",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7405",
+    "population": 17993,
+    "city": "Butler",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8062",
+    "population": 17907,
+    "city": "Mullica Hill",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7940",
+    "population": 17798,
+    "city": "Madison",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8204",
+    "population": 17392,
+    "city": "Cape May",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8210",
+    "population": 17377,
+    "city": "Cape May Court House",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7502",
+    "population": 17328,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7001",
+    "population": 17211,
+    "city": "Avenel",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7733",
+    "population": 17130,
+    "city": "Holmdel",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8033",
+    "population": 17110,
+    "city": "Haddonfield",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7081",
+    "population": 17011,
+    "city": "Springfield",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8691",
+    "population": 16935,
+    "city": "Robbinsville",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7646",
+    "population": 16888,
+    "city": "New Milford",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7481",
+    "population": 16802,
+    "city": "Wyckoff",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7086",
+    "population": 16790,
+    "city": "Weehawken",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7730",
+    "population": 16720,
+    "city": "Hazlet",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7031",
+    "population": 16352,
+    "city": "North Arlington",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7059",
+    "population": 16208,
+    "city": "Warren",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8882",
+    "population": 16081,
+    "city": "South River",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7066",
+    "population": 15415,
+    "city": "Clark",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7670",
+    "population": 15299,
+    "city": "Tenafly",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7524",
+    "population": 15139,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7005",
+    "population": 15106,
+    "city": "Boonton",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8904",
+    "population": 14996,
+    "city": "Highland Park",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7022",
+    "population": 14935,
+    "city": "Fairview",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7480",
+    "population": 14884,
+    "city": "West Milford",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7012",
+    "population": 14870,
+    "city": "Clifton",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7063",
+    "population": 14849,
+    "city": "Plainfield",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7446",
+    "population": 14739,
+    "city": "Ramsey",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7882",
+    "population": 14670,
+    "city": "Washington",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8846",
+    "population": 14525,
+    "city": "Middlesex",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8009",
+    "population": 14483,
+    "city": "Berlin",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7044",
+    "population": 14438,
+    "city": "Verona",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7020",
+    "population": 14394,
+    "city": "Edgewater",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7310",
+    "population": 14371,
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7663",
+    "population": 14320,
+    "city": "Saddle Brook",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7078",
+    "population": 14287,
+    "city": "Short Hills",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7062",
+    "population": 14253,
+    "city": "Plainfield",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8805",
+    "population": 14173,
+    "city": "Bound Brook",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7828",
+    "population": 14083,
+    "city": "Budd Lake",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8812",
+    "population": 14054,
+    "city": "Dunellen",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7204",
+    "population": 13964,
+    "city": "Roselle Park",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8215",
+    "population": 13789,
+    "city": "Egg Harbor City",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7504",
+    "population": 13781,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8107",
+    "population": 13568,
+    "city": "Oaklyn",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7734",
+    "population": 13540,
+    "city": "Keansburg",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7102",
+    "population": 13506,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7043",
+    "population": 13425,
+    "city": "Montclair",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8069",
+    "population": 13402,
+    "city": "Penns Grove",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8824",
+    "population": 13297,
+    "city": "Kendall Park",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8030",
+    "population": 13251,
+    "city": "Gloucester City",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8736",
+    "population": 13234,
+    "city": "Manasquan",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7009",
+    "population": 13225,
+    "city": "Cedar Grove",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7660",
+    "population": 13161,
+    "city": "Ridgefield Park",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7114",
+    "population": 13154,
+    "city": "Newark",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8629",
+    "population": 13075,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8534",
+    "population": 12990,
+    "city": "Pennington",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8620",
+    "population": 12913,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7974",
+    "population": 12911,
+    "city": "New Providence",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8609",
+    "population": 12799,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8048",
+    "population": 12786,
+    "city": "Lumberton",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7436",
+    "population": 12731,
+    "city": "Oakland",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8103",
+    "population": 12682,
+    "city": "Camden",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8260",
+    "population": 12680,
+    "city": "Wildwood",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8863",
+    "population": 12663,
+    "city": "Fords",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7853",
+    "population": 12548,
+    "city": "Long Valley",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8512",
+    "population": 12519,
+    "city": "Cranbury",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8070",
+    "population": 12468,
+    "city": "Pennsville",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8051",
+    "population": 12107,
+    "city": "Mantua",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7452",
+    "population": 12086,
+    "city": "Glen Rock",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7604",
+    "population": 12080,
+    "city": "Hasbrouck Heights",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7922",
+    "population": 12078,
+    "city": "Berkeley Heights",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8318",
+    "population": 12069,
+    "city": "Elmer",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7836",
+    "population": 12034,
+    "city": "Flanders",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7661",
+    "population": 12022,
+    "city": "River Edge",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7057",
+    "population": 11838,
+    "city": "Wallington",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7456",
+    "population": 11692,
+    "city": "Ringwood",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8031",
+    "population": 11677,
+    "city": "Bellmawr",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7458",
+    "population": 11676,
+    "city": "Saddle River",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7885",
+    "population": 11673,
+    "city": "Wharton",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8502",
+    "population": 11603,
+    "city": "Belle Mead",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7657",
+    "population": 11465,
+    "city": "Ridgefield",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8010",
+    "population": 11458,
+    "city": "Beverly",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8226",
+    "population": 11260,
+    "city": "Ocean City",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7438",
+    "population": 11209,
+    "city": "Oak Ridge",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7843",
+    "population": 11102,
+    "city": "Hopatcong",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7936",
+    "population": 11102,
+    "city": "East Hanover",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7513",
+    "population": 11069,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7442",
+    "population": 11052,
+    "city": "Pompton Lakes",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7417",
+    "population": 11010,
+    "city": "Franklin Lakes",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7512",
+    "population": 10975,
+    "city": "Totowa",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8004",
+    "population": 10966,
+    "city": "Atco",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7643",
+    "population": 10954,
+    "city": "Little Ferry",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7444",
+    "population": 10941,
+    "city": "Pompton Plains",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7932",
+    "population": 10941,
+    "city": "Florham Park",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8722",
+    "population": 10933,
+    "city": "Beachwood",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7035",
+    "population": 10922,
+    "city": "Lincoln Park",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8835",
+    "population": 10892,
+    "city": "Manville",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8244",
+    "population": 10631,
+    "city": "Somers Point",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8079",
+    "population": 10426,
+    "city": "Salem",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8889",
+    "population": 10383,
+    "city": "Whitehouse Station",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8322",
+    "population": 10355,
+    "city": "Franklinville",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8251",
+    "population": 10308,
+    "city": "Villas",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7045",
+    "population": 10240,
+    "city": "Montville",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7642",
+    "population": 10125,
+    "city": "Hillsdale",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8201",
+    "population": 10078,
+    "city": "Absecon",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7463",
+    "population": 10068,
+    "city": "Waldwick",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7034",
+    "population": 10064,
+    "city": "Lake Hiawatha",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7607",
+    "population": 10040,
+    "city": "Maywood",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7073",
+    "population": 10020,
+    "city": "East Rutherford",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7722",
+    "population": 10014,
+    "city": "Colts Neck",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7075",
+    "population": 9978,
+    "city": "Wood Ridge",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7419",
+    "population": 9927,
+    "city": "Hamburg",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8090",
+    "population": 9843,
+    "city": "Wenonah",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8106",
+    "population": 9726,
+    "city": "Audubon",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7825",
+    "population": 9723,
+    "city": "Blairstown",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7945",
+    "population": 9698,
+    "city": "Mendham",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8093",
+    "population": 9690,
+    "city": "Westville",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7760",
+    "population": 9613,
+    "city": "Rumson",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7821",
+    "population": 9571,
+    "city": "Andover",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7876",
+    "population": 9527,
+    "city": "Succasunna",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8098",
+    "population": 9475,
+    "city": "Woodstown",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8083",
+    "population": 9464,
+    "city": "Somerdale",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8071",
+    "population": 9356,
+    "city": "Pitman",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7605",
+    "population": 9291,
+    "city": "Leonia",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7676",
+    "population": 9268,
+    "city": "Township Of Washington",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8022",
+    "population": 9124,
+    "city": "Columbus",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8628",
+    "population": 9107,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7626",
+    "population": 9105,
+    "city": "Cresskill",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7656",
+    "population": 9098,
+    "city": "Park Ridge",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8833",
+    "population": 9057,
+    "city": "Lebanon",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8406",
+    "population": 9046,
+    "city": "Ventnor City",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8823",
+    "population": 9024,
+    "city": "Franklin Park",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7603",
+    "population": 8940,
+    "city": "Bogota",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7981",
+    "population": 8938,
+    "city": "Whippany",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7849",
+    "population": 8573,
+    "city": "Lake Hopatcong",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7624",
+    "population": 8555,
+    "city": "Closter",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7764",
+    "population": 8547,
+    "city": "West Long Branch",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7874",
+    "population": 8534,
+    "city": "Stanhope",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8312",
+    "population": 8460,
+    "city": "Clayton",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8225",
+    "population": 8432,
+    "city": "Northfield",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8102",
+    "population": 8418,
+    "city": "Camden",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7645",
+    "population": 8413,
+    "city": "Montvale",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8850",
+    "population": 8410,
+    "city": "Milltown",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8810",
+    "population": 8361,
+    "city": "Dayton",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7033",
+    "population": 8345,
+    "city": "Kenilworth",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8869",
+    "population": 8301,
+    "city": "Raritan",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8848",
+    "population": 8295,
+    "city": "Milford",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7716",
+    "population": 8279,
+    "city": "Atlantic Highlands",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8270",
+    "population": 8231,
+    "city": "Woodbine",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7649",
+    "population": 8208,
+    "city": "Oradell",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7762",
+    "population": 8196,
+    "city": "Spring Lake",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8884",
+    "population": 8152,
+    "city": "Spotswood",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7930",
+    "population": 8138,
+    "city": "Chester",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8086",
+    "population": 8121,
+    "city": "Thorofare",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8530",
+    "population": 8114,
+    "city": "Lambertville",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8078",
+    "population": 8005,
+    "city": "Runnemede",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7028",
+    "population": 7970,
+    "city": "Glen Ridge",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8758",
+    "population": 7954,
+    "city": "Waretown",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8066",
+    "population": 7859,
+    "city": "Paulsboro",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8515",
+    "population": 7857,
+    "city": "Chesterfield",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8203",
+    "population": 7784,
+    "city": "Brigantine",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8640",
+    "population": 7781,
+    "city": "Joint Base Mdl",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7830",
+    "population": 7748,
+    "city": "Califon",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7924",
+    "population": 7746,
+    "city": "Bernardsville",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7403",
+    "population": 7726,
+    "city": "Bloomingdale",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7004",
+    "population": 7723,
+    "city": "Fairfield",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7023",
+    "population": 7723,
+    "city": "Fanwood",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8734",
+    "population": 7715,
+    "city": "Lanoka Harbor",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8801",
+    "population": 7665,
+    "city": "Annandale",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7823",
+    "population": 7644,
+    "city": "Belvidere",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7921",
+    "population": 7573,
+    "city": "Bedminster",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8035",
+    "population": 7570,
+    "city": "Haddon Heights",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8558",
+    "population": 7515,
+    "city": "Skillman",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8065",
+    "population": 7437,
+    "city": "Palmyra",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7041",
+    "population": 7412,
+    "city": "Millburn",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7421",
+    "population": 7312,
+    "city": "Hewitt",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7630",
+    "population": 7281,
+    "city": "Emerson",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7850",
+    "population": 7266,
+    "city": "Landing",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8068",
+    "population": 7033,
+    "city": "Pemberton",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7432",
+    "population": 7011,
+    "city": "Midland Park",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8008",
+    "population": 6995,
+    "city": "Beach Haven",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7092",
+    "population": 6991,
+    "city": "Mountainside",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7727",
+    "population": 6982,
+    "city": "Farmingdale",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8886",
+    "population": 6963,
+    "city": "Stewartsville",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8084",
+    "population": 6962,
+    "city": "Stratford",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8221",
+    "population": 6952,
+    "city": "Linwood",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8809",
+    "population": 6838,
+    "city": "Clinton",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7401",
+    "population": 6817,
+    "city": "Allendale",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7738",
+    "population": 6793,
+    "city": "Lincroft",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7462",
+    "population": 6712,
+    "city": "Vernon",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7718",
+    "population": 6667,
+    "city": "Belford",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7069",
+    "population": 6651,
+    "city": "Watchung",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7755",
+    "population": 6495,
+    "city": "Oakhurst",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8501",
+    "population": 6417,
+    "city": "Allentown",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7072",
+    "population": 6341,
+    "city": "Carlstadt",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7068",
+    "population": 6221,
+    "city": "Roseland",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7704",
+    "population": 6221,
+    "city": "Fair Haven",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8533",
+    "population": 6140,
+    "city": "New Egypt",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8230",
+    "population": 6139,
+    "city": "Ocean View",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7757",
+    "population": 6119,
+    "city": "Oceanport",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7739",
+    "population": 6104,
+    "city": "Little Silver",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7677",
+    "population": 6096,
+    "city": "Woodcliff Lake",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7058",
+    "population": 6052,
+    "city": "Pine Brook",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7465",
+    "population": 6032,
+    "city": "Wanaque",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8036",
+    "population": 6024,
+    "city": "Hainesport",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8091",
+    "population": 5881,
+    "city": "West Berlin",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8029",
+    "population": 5850,
+    "city": "Glendora",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8867",
+    "population": 5819,
+    "city": "Pittstown",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7662",
+    "population": 5790,
+    "city": "Rochelle Park",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8551",
+    "population": 5746,
+    "city": "Ringoes",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7416",
+    "population": 5736,
+    "city": "Franklin",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8518",
+    "population": 5660,
+    "city": "Florence",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7648",
+    "population": 5657,
+    "city": "Norwood",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7082",
+    "population": 5612,
+    "city": "Towaco",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8514",
+    "population": 5597,
+    "city": "Cream Ridge",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8007",
+    "population": 5560,
+    "city": "Barrington",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7826",
+    "population": 5529,
+    "city": "Branchville",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8059",
+    "population": 5521,
+    "city": "Mount Ephraim",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8510",
+    "population": 5520,
+    "city": "Millstone Township",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8056",
+    "population": 5427,
+    "city": "Mickleton",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7422",
+    "population": 5401,
+    "city": "Highland Lakes",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8853",
+    "population": 5349,
+    "city": "Neshanic Station",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7632",
+    "population": 5347,
+    "city": "Englewood Cliffs",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7647",
+    "population": 5336,
+    "city": "Northvale",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8402",
+    "population": 5331,
+    "city": "Margate City",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8049",
+    "population": 5216,
+    "city": "Magnolia",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8826",
+    "population": 5186,
+    "city": "Glen Gardner",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7420",
+    "population": 5185,
+    "city": "Haskell",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8730",
+    "population": 4957,
+    "city": "Brielle",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7627",
+    "population": 4930,
+    "city": "Demarest",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8027",
+    "population": 4921,
+    "city": "Gibbstown",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8559",
+    "population": 4902,
+    "city": "Stockton",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8641",
+    "population": 4886,
+    "city": "Joint Base Mdl",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8343",
+    "population": 4882,
+    "city": "Monroeville",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8535",
+    "population": 4851,
+    "city": "Millstone Township",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8880",
+    "population": 4838,
+    "city": "South Bound Brook",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7640",
+    "population": 4826,
+    "city": "Harrington Park",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8344",
+    "population": 4752,
+    "city": "Newfield",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7732",
+    "population": 4740,
+    "city": "Highlands",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7440",
+    "population": 4620,
+    "city": "Pequannock",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7505",
+    "population": 4592,
+    "city": "Paterson",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8825",
+    "population": 4556,
+    "city": "Frenchtown",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8525",
+    "population": 4554,
+    "city": "Hopewell",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7027",
+    "population": 4542,
+    "city": "Garwood",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8544",
+    "population": 4504,
+    "city": "Princeton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7046",
+    "population": 4499,
+    "city": "Mountain Lakes",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7758",
+    "population": 4462,
+    "city": "Port Monmouth",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7856",
+    "population": 4429,
+    "city": "Mount Arlington",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7848",
+    "population": 4425,
+    "city": "Lafayette",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8802",
+    "population": 4380,
+    "city": "Asbury",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7423",
+    "population": 4234,
+    "city": "Ho Ho Kus",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8223",
+    "population": 4230,
+    "city": "Marmora",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8554",
+    "population": 4184,
+    "city": "Roebling",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7737",
+    "population": 4181,
+    "city": "Leonardo",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7927",
+    "population": 4181,
+    "city": "Cedar Knolls",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8089",
+    "population": 4152,
+    "city": "Waterford Works",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7720",
+    "population": 4151,
+    "city": "Bradley Beach",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7702",
+    "population": 4138,
+    "city": "Shrewsbury",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7827",
+    "population": 4117,
+    "city": "Montague",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7014",
+    "population": 4098,
+    "city": "Clifton",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7852",
+    "population": 4095,
+    "city": "Ledgewood",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7457",
+    "population": 4081,
+    "city": "Riverdale",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7064",
+    "population": 4031,
+    "city": "Port Reading",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8836",
+    "population": 4023,
+    "city": "Martinsville",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7803",
+    "population": 3990,
+    "city": "Mine Hill",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8562",
+    "population": 3976,
+    "city": "Wrightstown",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7721",
+    "population": 3958,
+    "city": "Cliffwood",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8327",
+    "population": 3836,
+    "city": "Leesburg",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8735",
+    "population": 3732,
+    "city": "Lavallette",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8242",
+    "population": 3726,
+    "city": "Rio Grande",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8827",
+    "population": 3710,
+    "city": "Hampton",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8560",
+    "population": 3689,
+    "city": "Titusville",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8750",
+    "population": 3612,
+    "city": "Sea Girt",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8751",
+    "population": 3609,
+    "city": "Seaside Heights",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7863",
+    "population": 3582,
+    "city": "Oxford",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7857",
+    "population": 3564,
+    "city": "Netcong",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8829",
+    "population": 3564,
+    "city": "High Bridge",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8061",
+    "population": 3517,
+    "city": "Mount Royal",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7931",
+    "population": 3399,
+    "city": "Far Hills",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7641",
+    "population": 3342,
+    "city": "Haworth",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7756",
+    "population": 3246,
+    "city": "Ocean Grove",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8097",
+    "population": 3244,
+    "city": "Woodbury Heights",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7750",
+    "population": 3199,
+    "city": "Monmouth Beach",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7838",
+    "population": 3190,
+    "city": "Great Meadows",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7832",
+    "population": 3175,
+    "city": "Columbia",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7460",
+    "population": 3131,
+    "city": "Stockholm",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8804",
+    "population": 3116,
+    "city": "Bloomsbury",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8092",
+    "population": 3098,
+    "city": "West Creek",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7074",
+    "population": 3093,
+    "city": "Moonachie",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8063",
+    "population": 3070,
+    "city": "National Park",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8045",
+    "population": 3059,
+    "city": "Lawnside",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7088",
+    "population": 3056,
+    "city": "Vauxhall",
+    "county": "Union County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7946",
+    "population": 2991,
+    "city": "Millington",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7980",
+    "population": 2978,
+    "city": "Stirling",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8733",
+    "population": 2855,
+    "city": "Lakehurst",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8240",
+    "population": 2842,
+    "city": "Pomona",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8020",
+    "population": 2834,
+    "city": "Clarksboro",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7606",
+    "population": 2820,
+    "city": "South Hackensack",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8741",
+    "population": 2798,
+    "city": "Pine Beach",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8832",
+    "population": 2745,
+    "city": "Keasbey",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7077",
+    "population": 2695,
+    "city": "Sewaren",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7933",
+    "population": 2661,
+    "city": "Gillette",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8542",
+    "population": 2595,
+    "city": "Princeton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7865",
+    "population": 2533,
+    "city": "Port Murray",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7418",
+    "population": 2473,
+    "city": "Glenwood",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7435",
+    "population": 2453,
+    "city": "Newfoundland",
+    "county": "Passaic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8349",
+    "population": 2450,
+    "city": "Port Norris",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8752",
+    "population": 2333,
+    "city": "Seaside Park",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8828",
+    "population": 2302,
+    "city": "Helmetta",
+    "county": "Middlesex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7021",
+    "population": 2290,
+    "city": "Essex Fells",
+    "county": "Essex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8341",
+    "population": 2286,
+    "city": "Minotola",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8026",
+    "population": 2278,
+    "city": "Gibbsboro",
+    "county": "Camden County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7439",
+    "population": 2215,
+    "city": "Ogdensburg",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8243",
+    "population": 2047,
+    "city": "Sea Isle City",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7711",
+    "population": 1811,
+    "city": "Allenhurst",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7717",
+    "population": 1792,
+    "city": "Avon By The Sea",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7311",
+    "population": 1785,
+    "city": "Jersey City",
+    "county": "Hudson County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7847",
+    "population": 1685,
+    "city": "Kenvil",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8740",
+    "population": 1682,
+    "city": "Ocean Gate",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8067",
+    "population": 1646,
+    "city": "Pedricktown",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8202",
+    "population": 1625,
+    "city": "Avalon",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8311",
+    "population": 1601,
+    "city": "Cedarville",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7934",
+    "population": 1575,
+    "city": "Gladstone",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8328",
+    "population": 1528,
+    "city": "Malaga",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7620",
+    "population": 1449,
+    "city": "Alpine",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8732",
+    "population": 1449,
+    "city": "Island Heights",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8738",
+    "population": 1411,
+    "city": "Mantoloking",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8887",
+    "population": 1411,
+    "city": "Three Bridges",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8319",
+    "population": 1343,
+    "city": "Estell Manor",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8317",
+    "population": 1184,
+    "city": "Dorothy",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8326",
+    "population": 1063,
+    "city": "Landisville",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8320",
+    "population": 1053,
+    "city": "Fairton",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8555",
+    "population": 1037,
+    "city": "Roosevelt",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8241",
+    "population": 980,
+    "city": "Port Republic",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8310",
+    "population": 979,
+    "city": "Buena",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8247",
+    "population": 977,
+    "city": "Stone Harbor",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7822",
+    "population": 947,
+    "city": "Augusta",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8019",
+    "population": 946,
+    "city": "Chatsworth",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8403",
+    "population": 946,
+    "city": "Longport",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8340",
+    "population": 939,
+    "city": "Milmay",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8511",
+    "population": 880,
+    "city": "Cookstown",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8001",
+    "population": 835,
+    "city": "Alloway",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8041",
+    "population": 832,
+    "city": "Jobstown",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8553",
+    "population": 794,
+    "city": "Rocky Hill",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8608",
+    "population": 786,
+    "city": "Trenton",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7878",
+    "population": 740,
+    "city": "Mount Tabor",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7723",
+    "population": 728,
+    "city": "Deal",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8345",
+    "population": 709,
+    "city": "Newport",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7977",
+    "population": 689,
+    "city": "Peapack",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8323",
+    "population": 683,
+    "city": "Greenwich",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8720",
+    "population": 644,
+    "city": "Allenwood",
+    "county": "Monmouth County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8314",
+    "population": 587,
+    "city": "Delmont",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8350",
+    "population": 518,
+    "city": "Richland",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8821",
+    "population": 514,
+    "city": "Flagtown",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7935",
+    "population": 472,
+    "city": "Green Village",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8006",
+    "population": 435,
+    "city": "Barnegat Light",
+    "county": "Ocean County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8346",
+    "population": 430,
+    "city": "Newtonville",
+    "county": "Atlantic County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8352",
+    "population": 388,
+    "city": "Rosenhayn",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8038",
+    "population": 380,
+    "city": "Hancocks Bridge",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7851",
+    "population": 363,
+    "city": "Layton",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7880",
+    "population": 357,
+    "city": "Vienna",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7976",
+    "population": 355,
+    "city": "New Vernon",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7961",
+    "population": 343,
+    "city": "Convent Station",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7939",
+    "population": 330,
+    "city": "Lyons",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8561",
+    "population": 328,
+    "city": "Windsor",
+    "county": "Mercer County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8324",
+    "population": 327,
+    "city": "Heislerville",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8329",
+    "population": 321,
+    "city": "Mauricetown",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8353",
+    "population": 305,
+    "city": "Shiloh",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8014",
+    "population": 294,
+    "city": "Bridgeport",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8023",
+    "population": 282,
+    "city": "Deepwater",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7970",
+    "population": 257,
+    "city": "Mount Freedom",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8072",
+    "population": 249,
+    "city": "Quinton",
+    "county": "Salem County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7979",
+    "population": 246,
+    "city": "Pottersville",
+    "county": "Hunterdon County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8032",
+    "population": 226,
+    "city": "Grenloch",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8348",
+    "population": 196,
+    "city": "Port Elizabeth",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8224",
+    "population": 189,
+    "city": "New Gretna",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8316",
+    "population": 163,
+    "city": "Dorchester",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8528",
+    "population": 163,
+    "city": "Kingston",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8212",
+    "population": 155,
+    "city": "Cape May Point",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8248",
+    "population": 121,
+    "city": "Strathmere",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7833",
+    "population": 112,
+    "city": "Delaware",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7844",
+    "population": 104,
+    "city": "Hope",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8321",
+    "population": 95,
+    "city": "Fortescue",
+    "county": "Cumberland County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7608",
+    "population": 91,
+    "city": "Teterboro",
+    "county": "Bergen County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8890",
+    "population": 74,
+    "city": "Zarephath",
+    "county": "Somerset County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7926",
+    "population": 69,
+    "city": "Brookside",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8064",
+    "population": 60,
+    "city": "New Lisbon",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8246",
+    "population": 60,
+    "city": "South Seaville",
+    "county": "Cape May County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8011",
+    "population": 53,
+    "city": "Birmingham",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8042",
+    "population": 33,
+    "city": "Juliustown",
+    "county": "Burlington County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7831",
+    "population": 30,
+    "city": "Changewater",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7870",
+    "population": 29,
+    "city": "Schooleys Mountain",
+    "county": "Morris County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7846",
+    "population": 22,
+    "city": "Johnsonburg",
+    "county": "Warren County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "8039",
+    "population": 17,
+    "city": "Harrisonville",
+    "county": "Gloucester County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7881",
+    "population": 8,
+    "city": "Wallpack Center",
+    "county": "Sussex County",
+    "state": "New Jersey"
+  },
+  {
+    "zip": "7820",
+    "population": 1,
+    "city": "Allamuchy",
+    "county": "Warren County",
+    "state": "New Jersey"
+  }
+]
