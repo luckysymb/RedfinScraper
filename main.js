@@ -12,6 +12,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 
 dotenv.config();
 const mongooseURL = process.env.MONGODB_URL;
+const googleMapsAPI = process.env.GOOGLE_MAPS_API;
 
 puppeteer.use(StealthPlugin());
 
@@ -27,6 +28,36 @@ function customToLowerCase(str) {
         result += char.toLowerCase(); // Using built-in method for each character
     }
     return result;
+}
+
+async function getLocationFromZipcode(zipcode){
+    const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${zipcode}&key=${googleMapsAPI}`;
+
+    const response = await axios.get(url);
+    console.log('--getLocationFromZipcode; ', response);
+
+}
+
+async function getAdditionalInfo(permalink){
+    const browser = await puppeteer.launch(options);
+    const page = await browser.newPage();
+    await page.setCacheEnabled(false);
+
+    await page.goto(permalink, {
+        waitUntil: "networkidle0",
+        timeout: 120000,
+    })
+
+    const address = await page.evaluate(() => {
+        const el = document.querySelector('.aao_other_locations');
+        return el ? el.innerText.replace(/\s+/g, '').trim() : 'Address not found';
+    });
+
+    console.log(address);
+    await page.close();
+    await browser.close();
+
+    return address
 }
 
 async function getCookiesForRegion(zipcode){
@@ -149,7 +180,7 @@ async function getRequestForRegion(zipcode, cookie) {
                     }
         });
         
-        const dentists = response.data.Dentists;
+        const dentists = response.data;
 
         const existingDoc = await Regions.findOne({zipcode: zipcode});
 
@@ -196,19 +227,19 @@ async function getRequestForRegion(zipcode, cookie) {
 
 async function getRequestForDentist(profile, cookie){
 
-    const addressId = profile.AddressId;
-    const url = `https://findadentist.ada.org/api/DentistProfile?AddressId=${addressId}`;
-    console.log('------------ address Id: ', addressId);
+    const permalink = profile.permalink;
+    // const url = `https://findadentist.ada.org/api/DentistProfile?AddressId=${addressId}`;
+    // console.log('------------ address Id: ', addressId);
 
     try{
-        const response = await axios.get(url, {
+        const response = await axios.get(permalink, {
             headers: {
                 'accept': 'application/json, text/plain, */*',
                 'accept-encoding': 'gzip, deflate, br, zstd',
                 'accept-language': 'en-US,en;q=0.9',
                 'cookie': cookie,
                 'priority': 'u=1, i',
-                'referer': `https://findadentist.ada.org/va/prince-william/woodbridge/general-practice/dr-michael-e-king-4941190`,
+                // 'referer': `https://findadentist.ada.org/va/prince-william/woodbridge/general-practice/dr-michael-e-king-4941190`,
                 'sec-ch-ua': "\"Google Chrome\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
                 'sec-ch-ua-mobile': '?0',
                 'sec-ch-ua-platform': "Windows",
@@ -220,26 +251,31 @@ async function getRequestForDentist(profile, cookie){
         });
         // console.log('Response', response.data);
 
-        const existingDoc = await Dentists.findOne({ AddressId: response.data.Profile.AddressId});
+        const additionalinfo = '';
+        // get additional info
+
+
+        const existingDoc = await Dentists.findOne({ id: profile.id});
+        profile.additionalinfo = additionalinfo;
 
         if(existingDoc) {
-            console.log('---------- addressId already exist: ', response.data.Profile.AddressId);
+            console.log('---------- addressId already exist: ', profile.id);
         } else {
             const newDentists = new Dentists(
-                response.data.Profile
+                profile
             );
             await newDentists.save();
 
             console.log("---- push dentists");
             // console.log("---- profile: ", response.data.Profile);
-            console.log("---- website: ", response.data.Profile.WebSite);
-            const existed = await Clinics.findOne({ Website: response.data.Profile.WebSite });
+            console.log("---- website: ", profile.website);
+            const existed = await Clinics.findOne({ Website: profile.website });
             if(existed) {
                 await Clinics.findOneAndUpdate(
-                    {Website: response.data.Profile.WebSite },
+                    {Website: profile.website },
                     {
                         $set: {
-                            Dentists: [existed.Dentists, response.data.Profile.PersonId],
+                            Dentists: [existed.Dentists, profile.id],
                         },
                     },
                     { upsert: true },
@@ -250,8 +286,8 @@ async function getRequestForDentist(profile, cookie){
             } else {
                 const newClinics = new Clinics(
                     {
-                        Website: response.data.Profile.WebSite,
-                        Dentists: [response.data.Profile.PersonId],
+                        Website: profile.website,
+                        Dentists: [profile.id],
                     }
                 );
                 await newClinics.save();
@@ -262,21 +298,21 @@ async function getRequestForDentist(profile, cookie){
 
     } catch(error) {
         console.log('------------- getRequestForDentist Error: ', error.message);
-        const newCookie = await getCookiesForDentist(profile);
-        await getRequestForDentist(profile, newCookie);
+        // const newCookie = await getCookiesForDentist(profile);
+        // await getRequestForDentist(profile, newCookie);
     }
 }
 
-await mongoose.connect(mongooseURL);
-console.log('Connected to mongoDB');
+// await mongoose.connect(mongooseURL);
+// console.log('Connected to mongoDB');
 
-const zipcodeData = await readZipcode('./zipcode/zip-codes-data-virginia.json');
-// console.log(zipcodeData);
-// const firstUrl = `https://findadentist.ada.org/api/Dentists?Address=${}&Photo=false&OpenSaturday=false`;
+// const zipcodeData = await readZipcode('./zipcode/zip-codes-data-virginia.json');
 
-for(let i = 21; i < zipcodeData.length; i++) {
-    console.log('-------------------------------zipcode: ', zipcodeData[i], ' ----index: ', i);
-    const cookie = await getCookiesForRegion(zipcodeData[i]);
-    await getRequestForRegion(zipcodeData[i], cookie);
-}
+// for(let i = 0; i < zipcodeData.length; i++) {
+//     console.log('-------------------------------zipcode: ', zipcodeData[i], ' ----index: ', i);
+//     const cookie = await getCookiesForRegion(zipcodeData[i]);
+//     await getRequestForRegion(zipcodeData[i], cookie);
+// }
 
+const address = await getAdditionalInfo('https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/');
+console.log(address);

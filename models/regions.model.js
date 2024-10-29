@@ -15,5 +15,5 @@ const RegionsSchema = new Schema(
     {timestamps: true},
 );
 
-const Regions = mongoose.model('Regions', RegionsSchema);
+const Regions = mongoose.model('RegionsAAO', RegionsSchema);
 export default Regions;
