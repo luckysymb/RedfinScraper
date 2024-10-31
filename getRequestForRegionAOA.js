@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://aaoinfo.org/wp-admin/admin-ajax.php?action=store_search&lat=38.64&lng=-77.3439283&max_results=25&search_radius=50'
+const url = 'https://aaoinfo.org/wp-admin/admin-ajax.php?action=store_search&lat=38.64&lng=-77.3439283&max_results=100&search_radius=15'
 
 axios.get(url, {
     headers: {

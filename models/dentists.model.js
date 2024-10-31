@@ -28,7 +28,7 @@ const DentistsSchema = new Schema(
         hours: String,
         url: String,
         website: String,
-        additionalinfo: String,
+        additionalinfo: [String],
     },
     {timestamps: true},
 );
