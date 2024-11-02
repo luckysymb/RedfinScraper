@@ -11,7 +11,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 // import { profile } from 'console';
 
 dotenv.config();
-const mongooseURL = process.env.MONGODB_URL;
+const mongooseURL = process.env.MONGODB_URL1;
 const googleMapsAPI = process.env.GOOGLE_MAPS_API;
 
 puppeteer.use(StealthPlugin());
@@ -31,11 +31,16 @@ function customToLowerCase(str) {
 }
 
 async function getLocationFromZipcode(zipcode){
+    
     const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${zipcode}&key=${googleMapsAPI}`;
 
     const response = await axios.get(url);
-    // console.log('--getLocationFromZipcode; ', response.data.results[0].geometry.location);
-    return response.data.results[0].geometry.location;
+    // console.log('--getLocationFromZipcode; ', response.data);
+    if(response.data.status == 'ZERO_RESULTS'){
+        return false
+    } else {
+        return response.data.results[0].geometry.location;
+    }
 }
 
 async function getAdditionalInfo(permalink){
@@ -159,56 +164,60 @@ function existAddressId(addressId){
 
 async function getRequestForRegion(zipcode, cookie, code) {
     const location = await getLocationFromZipcode(zipcode);
-    const url = `https://aaoinfo.org/wp-admin/admin-ajax.php?action=store_search&lat=${location.lat}&lng=${location.lng}&max_results=100&search_radius=15`
-    console.log('url: ', url, ', ', code);
+    if(location) {
+        const url = `https://aaoinfo.org/wp-admin/admin-ajax.php?action=store_search&lat=${location.lat}&lng=${location.lng}&max_results=100&search_radius=50`
+        console.log('url: ', url, ', ', code);
 
-    try{
-        const response = await axios.get(url, {
-            headers: {
-                'accept': 'application/json, text/plain, */*',
-                'accept-encoding': 'gzip, deflate, br, zstd',
-                'accept-language': 'en-US,en;q=0.9',
-                'cookie': cookie,
-                'priority': 'u=1, i',
-                // 'referer': `https://findadentist.ada.org/search-results?address=${zipcode}&searchResultsReferrer=true`,
-                'sec-ch-ua': "\"Google Chrome\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
-                'sec-ch-ua-mobile': '?0',
-                'sec-ch-ua-platform': "Windows",
-                'sec-fetch-dest': 'empty',
-                'sec-fetch-mode': 'cors',
-                'sec-fetch-site': 'same-origin',
-                'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
-                    }
-        });
-        
-        const dentists = response.data;
-        // console.log('---- response data: \n', dentists);
-
-        const existingDoc = await Regions.findOne({zipcode: zipcode});
-
-        if(existingDoc) {
-            console.log('---------- already exist zipcode: ', zipcode);
-        } else{
-            const newRegions = new Regions({
-                zipcode: zipcode,
-                dentists: dentists,
+        try{
+            const response = await axios.get(url, {
+                headers: {
+                    'accept': 'application/json, text/plain, */*',
+                    'accept-encoding': 'gzip, deflate, br, zstd',
+                    'accept-language': 'en-US,en;q=0.9',
+                    'cookie': cookie,
+                    'priority': 'u=1, i',
+                    // 'referer': `https://findadentist.ada.org/search-results?address=${zipcode}&searchResultsReferrer=true`,
+                    'sec-ch-ua': "\"Google Chrome\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
+                    'sec-ch-ua-mobile': '?0',
+                    'sec-ch-ua-platform': "Windows",
+                    'sec-fetch-dest': 'empty',
+                    'sec-fetch-mode': 'cors',
+                    'sec-fetch-site': 'same-origin',
+                    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36',
+                        }
             });
-            await newRegions.save();
-            console.log('---------- push region: ', zipcode, ', ', dentists.length);
+            
+            const dentists = response.data;
+            // console.log('---- response data: \n', dentists);
+
+            const existingDoc = await Regions.findOne({zipcode: zipcode});
+
+            if(existingDoc) {
+                console.log('---------- already exist zipcode: ', zipcode);
+            } else{
+                const newRegions = new Regions({
+                    zipcode: zipcode,
+                    dentists: dentists,
+                });
+                await newRegions.save();
+                console.log('---------- push region: ', zipcode, ', ', dentists.length);
+            }
+
+            // await sleep(1000)
+            
+            // for (let i = 0; i < dentists.length; i++){
+            //     console.log("---------Dentist AddressID: ", dentists[i].AddressId);
+            //     await getRequestForDentist(dentists[i], cookie);
+            //     await sleep(1000);
+            // }
+
+        } catch(error) {
+            console.log("------------ getRequestForRegion Error: ", error);
+            const newCookie = getCookiesForRegion();
+            await getRequestForRegion(zipcode, newCookie, code);
         }
-
-        // await sleep(1000)
-        
-        // for (let i = 0; i < dentists.length; i++){
-        //     console.log("---------Dentist AddressID: ", dentists[i].AddressId);
-        //     await getRequestForDentist(dentists[i], cookie);
-        //     await sleep(1000);
-        // }
-
-    } catch(error) {
-        console.log("------------ getRequestForRegion Error: ", error);
-        const newCookie = getCookiesForRegion();
-        await getRequestForRegion(zipcode, newCookie, code);
+    }else {
+        console.log("----zipcode doesn't exist: ", zipcode);
     }
 
 }
@@ -270,7 +279,8 @@ for(let i = 0; i < zipcodeData.length; i++) {
     console.log('-------------------------------zipcode: ', zipcodeData[i], ' ----index: ', i);
     await getRequestForRegion(zipcodeData[i], cookie, i);
 }
-// getLocationFromZipcode(22193)
+
+// getLocationFromZipcode(22807);
 
 // const address = await getAdditionalInfo('https://aaoinfo.org/locator/dr-ramin-ron-hessamfar/');
 // console.log(address);

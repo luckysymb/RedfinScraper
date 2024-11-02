@@ -12,6 +12,7 @@ const DentistsSchema = new Schema(
         id: {
             type: String,
             required: true,
+            unique: true
         },
         distance: Number,
         permalink: String,
