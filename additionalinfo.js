@@ -20,7 +20,7 @@ let options = {
     executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
     args: ['--disable-gpu', '--disable-software-rasterizer']
 }
-options.headless = false;
+options.headless = true;
 
 async function getAdditionalInfo(permalink){
     try{
@@ -53,11 +53,11 @@ async function getAdditionalInfo(permalink){
 async function addintodentists(){
 
     const cursor = Dentists.find().cursor();
-    
+    let flag = false;
     
     for(let doc = await cursor.next(); doc!=null; doc = await cursor.next()){
-        let flag = false;
-        console.log('------------------ dnetist: ', doc.id);
+        
+        console.log('------------------ dnetist: ', doc.id, ', length: ', doc.additionalinfo.length);
         
         if(doc.id == '17555'){
             flag = true;
@@ -65,12 +65,11 @@ async function addintodentists(){
 
         if(flag){
             const link = doc.permalink;
-            const info = await getAdditionalInfo(link);
-            console.log('----- info: ', info);
-
-            if(doc.additionalinfo != []){
+            if(doc.additionalinfo.length != 0){
                 console.log('----- additional info already exist: ', doc.additionalinfo);
-            } else {
+            }else{
+                const info = await getAdditionalInfo(link);
+                // console.log('----- info: ', info);
                 await Dentists.findOneAndUpdate(
                     {id: doc.id},
                     {
@@ -79,7 +78,7 @@ async function addintodentists(){
                         }
                     }
                 );
-                console.log('----- add additional info :', id);
+                console.log('----- add additional info :', doc.id);
             }
         } else {
             console.log('---- bypass dentist: ', doc.id);
