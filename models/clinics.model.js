@@ -6,6 +6,7 @@ const ClinicsSchema = new Schema(
         Website: {
             type: String,
             require: true,
+            unique: true,
         },
         Dentists: Schema.Types.Mixed,
     },
