@@ -9,6 +9,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
     "dotenv": "^16.4.5",
     "fs": "^0.0.1-security",
     "mongoose": "^8.7.2",
