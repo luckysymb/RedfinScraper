@@ -4,55 +4,56 @@ import {load} from "cheerio";
 
 /** [fipsCode, stateName] — state name is turned into a Redfin URL segment (spaces → hyphens). */
 const states = [
-    [19, 'Alabama'],
-    // ['02', 'Alaska'],
-    [43, 'Arizona'],
-    [11, 'Arkansas'],
-    [30, 'Colorado'],
-    [8, 'Connecticut'],
-    [4, 'Delaware'],
-    [96, 'Florida'],
-    [23, 'Georgia'],
-    [4, 'Hawaii'],
-    // ['16', 'Idaho'],
-    [35, 'Illinois'],
-    [29, 'Indiana'],
-    [11, 'Iowa'],
-    // ['20', 'Kansas'],
-    [13, 'Kentucky'],
-    // ['22', 'Louisiana'],
-    [5, 'Maine'],
-    [18, 'Maryland'],
-    [10, 'Massachusetts'],
-    [27, 'Michigan'],
-    [18, 'Minnesota'],
-    // ['28', 'Mississippi'],
-    // ['29', 'Missouri'],
-    // ['30', 'Montana'],
-    [6, 'Nebraska'],
-    [15, 'Nevada'],
-    [3, 'New-Hampshire'],
-    [16, 'New-Jersey'],
-    // ['35', 'New Mexico'],
-    [20, 'New-York'],
-    [51, 'North-Carolina'],
+    // [174, 'Alabama'],
+    // // ['02', 'Alaska'],
+    // [286, 'Arizona'],
+    // [78, 'Arkansas'],
+    // [206, 'Colorado'],
+    // [81, 'Connecticut'],
+    // [44, 'Delaware'],
+    // // ['11', 'District of Columbia'],
+    // [959, 'Florida'],
+    // [393, 'Georgia'],
+    // [21, 'Hawaii'],
+    // // ['16', 'Idaho'],
+    // [330, 'Illinois'],
+    // [188, 'Indiana'],
+    // [123, 'Iowa'],
+    // // ['20', 'Kansas'],
+    // [146, 'Kentucky'],
+    // // ['22', 'Louisiana'],
+    // [46, 'Maine'],
+    // [181, 'Maryland'],
+    // [39, 'Massachusetts'],
+    // [262, 'Michigan'],
+    // [200, 'Minnesota'],
+    // // ['28', 'Mississippi'],
+    // // ['29', 'Missouri'],
+    // // ['30', 'Montana'],
+    // [79, 'Nebraska'],
+    // [97, 'Nevada'],
+    // [33, 'New-Hampshire'],
+    // [251, 'New-Jersey'],
+    // // ['35', 'New Mexico'],
+    [358, 'New-York'],
+    [525, 'North-Carolina'],
     // ['38', 'North Dakota'],
-    [37, 'Ohio'],
-    [16, 'Oklahoma'],
-    [15, 'Oregon'],
-    [32, 'Pennsylvania'],
-    [2, 'Rhode-Island'],
-    [20, 'South-Carolina'],
-    [3, 'South-Dakota'],
-    [30, 'Tennessee'],
+    [302, 'Ohio'],
+    [163, 'Oklahoma'],
+    [129, 'Oregon'],
+    [380, 'Pennsylvania'],
+    [22, 'Rhode-Island'],
+    [307, 'South-Carolina'],
+    [31, 'South-Dakota'],
+    [316, 'Tennessee'],
     // ['48', 'Texas'],
     // ['49', 'Utah'],
-    [2, 'Vermont'],
-    [30, 'Virginia'],
-    [26, 'Washington'],
-    [5, 'West-Virginia'],
-    [17, 'Wisconsin'],
-    [91, 'California']
+    [19, 'Vermont'],
+    [289, 'Virginia'],
+    [199, 'Washington'],
+    [53, 'West-Virginia'],
+    [139, 'Wisconsin'],
+    [599, 'California']
     // ['56', 'Wyoming'],
 ];
 
@@ -70,42 +71,20 @@ function homeIdFromUrl(url) {
     return m ? m[1] : null;
 }
 
-/** Parse a Redfin-style price string (e.g. "$439,000") for numeric fields. */
-function parsePriceDisplay(text) {
-    const cleaned = String(text).replace(/[$,\s]/g, "");
-    if (!cleaned) return null;
-    const m = cleaned.match(/^\d+(?:\.\d+)?/);
-    if (!m) return null;
-    const n = Number(m[0]);
-    return Number.isFinite(n) ? n : null;
-}
-
 /**
- * For-sale cards: [SingleFamilyResidence|..., Product with Offer].
- * Sold / some SERP cards: single SingleFamilyResidence object (no Product; price on the card only).
+ * Each listing is a two-element array: [SingleFamilyResidence|..., Product with Offer].
  */
-function mergeLdJsonListing(data) {
-    let residence;
-    let offer = null;
-    let urlFromProduct = null;
-
-    if (Array.isArray(data)) {
-        if (data.length < 2) return null;
-        residence = data.find((x) => x && RESIDENCE_TYPES.has(x["@type"]));
-        const product = data.find((x) => x && x["@type"] === "Product");
-        if (!residence || !product) return null;
-        offer = product.offers || {};
-        urlFromProduct = product.url;
-    } else if (data && typeof data === "object" && RESIDENCE_TYPES.has(data["@type"])) {
-        residence = data;
-    } else {
-        return null;
-    }
+function mergeLdJsonListing(items) {
+    if (!Array.isArray(items) || items.length < 2) return null;
+    const residence = items.find((x) => x && RESIDENCE_TYPES.has(x["@type"]));
+    const product = items.find((x) => x && x["@type"] === "Product");
+    if (!residence || !product) return null;
 
     const addr = residence.address || {};
+    const offer = product.offers || {};
     const geo = residence.geo || {};
     const floor = residence.floorSize || {};
-    const url = residence.url || urlFromProduct;
+    const url = residence.url || product.url;
 
     return {
         id: homeIdFromUrl(url),
@@ -121,14 +100,34 @@ function mergeLdJsonListing(data) {
         beds: residence.numberOfRooms ?? null,
         sqft: floor.value != null ? Number(floor.value) : null,
         price:
-            offer &&
-            offer.price != null &&
-            offer.price !== ""
+            offer.price != null && offer.price !== ""
                 ? Number(offer.price)
                 : null,
-        priceCurrency: offer?.priceCurrency ?? null,
+        priceCurrency: offer.priceCurrency ?? null,
         schemaPropertyType: residence["@type"],
     };
+}
+
+/**
+ * Total result pages from the search chrome, e.g. "Viewing page 1 of 1594"
+ * (see `span[data-rf-test-name="download-and-save-page-number-text"]` in Redfin HTML).
+ */
+function extractTotalPageCount($, html) {
+    const pageText =
+        $('[data-rf-test-name="download-and-save-page-number-text"]')
+            .text()
+            .trim() ||
+        $(".viewingPage span.pageText").first().text().trim();
+
+    let m = pageText.match(/Viewing\s+page\s+[\d,]+\s+of\s+([\d,]+)/i);
+    if (!m && html) {
+        m = String(html).match(/Viewing\s+page\s+[\d,]+\s+of\s+([\d,]+)/i);
+    }
+    if (m) {
+        const n = parseInt(m[1].replace(/,/g, ""), 10);
+        if (Number.isFinite(n) && n >= 1) return n;
+    }
+    return 1;
 }
 
 function enrichFromHomeCard($card, row) {
@@ -151,16 +150,6 @@ function enrichFromHomeCard($card, row) {
         .trim();
     row.priceDisplay = priceDisplayed || null;
 
-    if (row.price == null && priceDisplayed) {
-        const parsed = parsePriceDisplay(priceDisplayed);
-        if (parsed != null) {
-            row.price = parsed;
-            if (!row.priceCurrency && /\$/.test(priceDisplayed)) {
-                row.priceCurrency = "USD";
-            }
-        }
-    }
-
     return row;
 }
 
@@ -168,38 +157,62 @@ const filterPath =
     'filter/property-type=house+townhouse+multifamily/page-';
 
 console.log('Starting to scrape Redfin...');
+const outPath = new URL("dataset/redfin_homes_forSale.json", import.meta.url);
+
+const requestHeaders = {
+    accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9",
+    cookie: "RF_BID_UPDATED=1; __pdst=d614b385933a44038ccd30d8bcf2cddc; _scor_uid=37894237c47045cab062d322f40014f4; _gid=GA1.2.1811119779.1775874005; g_state={\"i_l\":0,\"i_ll\":1775874002700,\"i_e\":{\"enable_itp_optimization\":0},\"i_et\":1775874002700}; RF_LAST_USER_ACTION=1775874029425%3Aebf47571932e1bbd5cfab4543549c88744e8f3d0; RF_PARTY_ID=106749746; RF_AUTH=0fa4313a678b73cee8c56b9098123f2880b14853; RF_W_AUTH=0fa4313a678b73cee8c56b9098123f2880b14853; RF_SECURE_AUTH=9ba1e9150a3cb68f4420771b171caeca6e17b1d1; RF_ACCESS_LEVEL=2; shared_search_intros=1414098202%3D1775874031123%26dec%3D1775874031123%26ipc%3D1; _gcl_au=1.1.1189148638.1775873992.1732191438.1775874105.1775874104; searchMode=1; SA_FLYOUT_VIEWS=1; RF_LDP_VIEWS_FOR_PROMPT=%7B%22viewsData%22%3A%7B%7D%2C%22expiration%22%3A%222028-04-10T02%3A24%3A17.138Z%22%2C%22totalPromptedLdps%22%3A0%7D; segmentedControlMode=0; save_search_nudge_flyout=1%251775875151397%25false; _clck=cp9kzq%5E2%5Eg54%5E0%5E2292; RF_BROWSER_ID=yK5prHHSRvipfgltBTjsYw; RF_BROWSER_ID_GREAT_FIRST_VISIT_TIMESTAMP=2026-04-10T20%3A29%3A23.312902; RF_BROWSER_CAPABILITIES=%7B%22screen-size%22%3A4%2C%22events-touch%22%3Afalse%2C%22ios-app-store%22%3Afalse%2C%22google-play-store%22%3Afalse%2C%22ios-web-view%22%3Afalse%2C%22android-web-view%22%3Afalse%7D; RF_LAST_ACCESS=1775895510879%3Af0feb68d6ebe813965bee248c07f04bcc8b84023; RF_VISITED=true; RF_BUSINESS_MARKET=71; _gcl_gs=2.1.k1$i1775969387$u256521864; RF_HAS_UTM_CAMPAIGN=; PageCount=1; _gac_UA-294985-1=1.1775969416.EAIaIQobChMIkYzjwcHnkwMV_hCiAx2Wzjx1EAAYASAAEgIWvfD_BwE; _gcl_aw=GCL.1775969438.EAIaIQobChMIkYzjwcHnkwMV_hCiAx2Wzjx1EAAYASAAEgIWvfD_BwE; _gcl_dc=GCL.1775969438.EAIaIQobChMIkYzjwcHnkwMV_hCiAx2Wzjx1EAAYASAAEgIWvfD_BwE; RF_LISTING_VIEWS=209612259.209011617.212943314.212468864.212229808.212888503.213673686.213924037; RF_LAST_DP_SERVICE_REGION=3530; RF_CORVAIR_LAST_VERSION=vLATEST; tatari-session-cookie=fa052518-a523-84d5-394d-6b7e6f162fcb; FEED_COUNT=%5B%221%22%2C%22t%22%5D; audS=t; unifiedLastSearch=name%3DAlabama%26subName%3DUSA%26url%3D%252Fstate%252FAlabama%26id%3D11_1%26type%3D11%26unifiedSearchType%3D11%26isSavedSearch%3D%26countryCode%3DUS; RF_LAST_NAV=0; RF_MARKET=sacramento; OptanonConsent=isGpcEnabled=0&datestamp=Sat+Apr+11+2026+22%3A40%3A13+GMT-0700+(Pacific+Daylight+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d505129-d21a-4945-8aab-51b514fe30e1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CSPD_BG%3A1%2CC0002%3A1%2CC0004%3A1&crTime=1775874028668&AwaitingReconsent=false&geolocation=JP%3B13; OptanonAlertBoxClosed=2026-04-12T05:40:13.724Z; tatari-cookie-test=96185559; userPreferences=parcels%3Dtrue%26schools%3Dfalse%26mapStyle%3Ds%26statistics%3Dtrue%26agcTooltip%3Dfalse%26agentReset%3Dfalse%26ldpRegister%3Dfalse%26afCard%3D2%26schoolType%3D0%26lastSeenLdp%3DwithSharedSearchCookie%26viewedSwipeableHomeCardsDate%3D1775972418634; _uetsid=ed6a3510354c11f183a76fa871065dbc|1ojlqiu|2|g55|0|2292; _uetvid=ed6a63c0354c11f1bd43917a74f116be|12xr8uf|1775972423050|13|1|bat.bing.com/p/conversions/c/e; _ga=GA1.2.369503290.1775873993; _ga_928P0PZ00X=GS2.1.s1775971389$o6$g1$t1775972431$j36$l0$h0; aws-waf-token=1ad0583a-47b2-4e90-9712-500f3c532cb9:EwoAypYnHfdPAAAA:iWKa6MsuowjSiz3WGlSrvfTA3UIv69t7QY8o25J2aODa00ehVpq5qgTqsVsJY8XYcKziTMpJWzCQteo7WpB4a5DILXBo3a86DDIzokdOcYaTekDqHVQGkQHLya2m7ed1NjNWYzZX9KKO15i/Pm/em6bAmnuhKSiuFf9yejmySAI46OyORP3lcVJet3V9I62Y8uFvnwrECXQ9DTnEA1niZTYxmLtBpS0TUwbByMhOaHGWDVVJa78x3R6V/pJqCmhvOXcq/gnO2WSSxQ==; _dd_s=rum=2&id=f8374143-9741-4d73-9da6-d8147e8ad8dc&created=1775971266284&expire=1775973438589",
+    priority: "u=0, i",
+    "sec-ch-ua":
+        '"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"',
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": '"Windows"',
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "user-agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+};
+
 for (const state of states) {
-    for (let pageNum = 1; pageNum <= state[0]; pageNum++) {
-        const url = `https://www.redfin.com/state/${state[1]}/${filterPath}${pageNum}`;
-        console.log(`Scraping ${url}`);
-        await axios.get(url, {
-            headers: {
-                "accept":'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-                "accept-encoding":'gzip, deflate, br, zstd',
-                "accept-language":'en-US,en;q=0.9',
-                "cookie":'audS=t; RF_BROWSER_ID=esxTpg7CRSOxEvpgfL5J9A; RF_BROWSER_ID_GREAT_FIRST_VISIT_TIMESTAMP=2026-04-10T16%3A57%3A34.417391; RF_BID_UPDATED=1; __pdst=c714383e96b44a969a88510f6e49c9b0; _scor_uid=3623643a3b184d79b734c547f5a66efe; OTGPPConsent=DBABBg~BUoAAAKA.QA; OptanonAlertBoxClosed=2026-04-10T23:57:52.790Z; _gid=GA1.2.651256491.1775865477; RF_BROWSER_CAPABILITIES=%7B%22screen-size%22%3A4%2C%22events-touch%22%3Afalse%2C%22ios-app-store%22%3Afalse%2C%22google-play-store%22%3Afalse%2C%22ios-web-view%22%3Afalse%2C%22android-web-view%22%3Afalse%7D; _gcl_au=1.1.1978695341.1775865463.453210827.1775867755.1775867755; RF_LAST_USER_ACTION=1775867755621%3A4763ef3fd846a691cf3e3ed7a2a459f2edf885f0; RF_PARTY_ID=106747000; RF_AUTH=e259aff3ccc0f840658f84ec2db780dd0778cb17; RF_W_AUTH=e259aff3ccc0f840658f84ec2db780dd0778cb17; RF_SECURE_AUTH=a646888b1195a2cf00d924941cea73ec1fad3dc4; RF_ACCESS_LEVEL=2; shared_search_intros=1414098202%3D1775867759857%26dec%3D1775867759857%26ipc%3D1; searchMode=1; RF_LAST_ACCESS=1775874191843%3Af6af496f0c8420d332f53fda3f64800ffe55de38; cw-test-20250625_prebid-v2-test_1_99=test; cw-test-00000000_ppid-hem_10_90=control; cw-test-20250807_uid-2-test_95_2.5_2.5=enabled@sha256_absent; cw-test-20250415_req-v9_10_90=control; cw-test-00000000_stand-alone-floors-facade-hardFloor_25_25_25_25=fallb; cw-test-00000000_stand-alone-floors-facade-multiplier_10_80_10_0=multa; cw-test-20250609_floormachine-test_50_50=test; cw-test-20250529_viewable-refresh_5_95=control; cw-test-20250220_viewability-test_100_0=test; cw-test-00000000_stand-alone-floors-comparison-multiplier_0_100=control; _lr_env_src_ats=false; RF_LDP_VIEWS_FOR_PROMPT=%7B%22viewsData%22%3A%7B%7D%2C%22expiration%22%3A%222028-04-10T09%3A36%3A01.448Z%22%2C%22totalPromptedLdps%22%3A0%7D; RF_VISITED=true; _ga_928P0PZ00X=deleted; FEED_TIMESTAMP=1775922251154; RF_LAST_NAV=0; save_search_nudge_flyout=1%251775922357651%25false; segmentedControlMode=0; tatari-session-cookie=704df324-d8dc-643b-919e-991f25bec234; RF_CORVAIR_LAST_VERSION=vLATEST; RF_BUSINESS_MARKET=61; RF_LISTING_VIEWS=212796743.212842279.213126576.211085954.192728535.212622356.208863199.210732563.212405328.212788916.212216869.213326843.212220717.164554134; RF_LAST_DP_SERVICE_REGION=3403; RF_TRAFFIC_SEGMENT=non-organic; OptanonConsent=isGpcEnabled=0&datestamp=Sun+Apr+12+2026+01%3A30%3A56+GMT%2B0900+(Japan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=27bb264f-328a-4fcc-9343-31a270e4ec04&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&GPPCookiesCount=1&gppSid=8&groups=C0001%3A1%2CC0003%3A1%2CSPD_BG%3A1%2CC0002%3A1%2CC0004%3A1&intType=6&crTime=1775865474552&geolocation=US%3BCA&AwaitingReconsent=false; _ga_928P0PZ00X=GS2.1.s1775921559$o6$g1$t1775925058$j60$l0$h0; _uetsid=122b39f0353911f1b69c856504ef9ad9|1vvtt9g|2|g54|0|2291; tatari-cookie-test=71957076; t-ip=1; AMP_TOKEN=%24ERROR; _ga=GA1.2.1767093377.1775865465; _dc_gtm_UA-294985-1=1; userPreferences=parcels%3Dtrue%26schools%3Dfalse%26mapStyle%3Ds%26statistics%3Dtrue%26agcTooltip%3Dfalse%26agentReset%3Dfalse%26ldpRegister%3Dfalse%26afCard%3D2%26schoolType%3D0%26lastSeenLdp%3DwithSharedSearchCookie%26viewedSwipeableHomeCardsDate%3D1775925070791; RF_MARKET=phoenix; _uetvid=122b44e0353911f1af56f10adb720135|1cdgcd2|1775925071205|59|1|bat.bing.com/p/conversions/c/e; FEED_COUNT=%5B%221%22%2C%22t%22%5D; aws-waf-token=1ad0583a-47b2-4e90-9712-500f3c532cb9:EwoAnZhy0E1SAAAA:tawYcAbNf3yUko6AjZdFbQUD3COFgS3s+eQ8VUEwv43iYGtBNN80FJbM+vtZWSgX6K2BOZX6e6hESMKjZd+hDBXrvmtONgoDNwlSeb4N5m71rozuMabpEtNxx09ov0O14dzyNUt0mHYUW+e4RffuPcXcep62BcS15hs9aTsWB5EKMP2GC7JueinFtOAOXZ9KyMOW1BEAR79Jwtrl3pRWe8ebnQJZo5I993N+HlQ+O7yWXs0o2IX0JTDm4ZebFDyp1w==; _dd_s=rum=2&id=a4bd53f8-15d2-480f-bb08-3e5b552e90e9&created=1775921575325&expire=1775925979000',
-                "priority":'u=0, i',
-                "sec-ch-ua":'"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"',
-                "sec-ch-ua-mobile":'?0',
-                'sec-ch-ua-platform':'"Windows"',
-                'sec-fetch-dest':'document',
-                'sec-fetch-mode':'navigate',
-                'sec-fetch-site':'none',
-                'sec-fetch-user':'?1',
-                'upgrade-insecure-requests':'1',
-                'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
-            }
-        })
-        .then((response) => {
-            // console.log('Response:', response.data);
-            const html = response.data;
+    const pageUrlFor = (n) =>
+        `https://www.redfin.com/state/${state[1]}/${filterPath}${n}`;
+    const firstPageUrl = pageUrlFor(1);
+    let totalPages = 1;
+    let firstPageHtml = null;
+
+    try {
+        const firstRes = await axios.get(firstPageUrl, { headers: requestHeaders });
+        firstPageHtml = firstRes.data;
+        const $0 = load(firstPageHtml);
+        totalPages = extractTotalPageCount($0, firstPageHtml);
+        console.log(`${state[1]}: ${totalPages} page(s) (from search chrome)`);
+    } catch (error) {
+        console.error(`${state[1]} first page:`, error.message);
+        continue;
+    }
+
+    for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
+        const pageUrl = pageUrlFor(pageNum);
+        console.log(`Scraping ${pageUrl}`);
+
+        try {
+            const html =
+                pageNum === 1 && firstPageHtml != null
+                    ? firstPageHtml
+                    : (await axios.get(pageUrl, { headers: requestHeaders })).data;
+            if (pageNum === 1) firstPageHtml = null;
             const $ = load(html);
             const homes = [];
             const seenIds = new Set();
 
             $('script[type="application/ld+json"]').each((_, el) => {
                 const raw = $(el).html();
-                if (!raw?.includes("SingleFamilyResidence")) return;
+                // if (!raw?.includes("SingleFamilyResidence")) return;
 
                 let data;
                 try {
@@ -217,15 +230,17 @@ for (const state of states) {
                 homes.push(enrichFromHomeCard($card, row));
             });
 
-            const outPath = new URL("dataset/redfin_homes_sold.json", import.meta.url);
-            fs.appendFileSync(outPath, JSON.stringify(homes, null, 2) + "\n", "utf8");
+            fs.appendFileSync(
+                outPath,
+                JSON.stringify(homes, null, 2) + "\n",
+                "utf8",
+            );
 
             console.log(
-                `Extracted ${state[1]} - ${pageNum} - ${homes.length} homes → dataset/redfin_homes_sold.json`,
+                `Extracted ${state[1]} page ${pageNum}/${totalPages} — ${homes.length} homes → ${outPath.pathname}`,
             );
-        })
-        .catch((error) => {
-            console.error('Error:', error.message);
-        });
+        } catch (error) {
+            console.error(`${state[1]} page ${pageNum}:`, error.message);
+        }
     }
 }

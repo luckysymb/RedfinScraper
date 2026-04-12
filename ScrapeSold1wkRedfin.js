@@ -165,7 +165,7 @@ function enrichFromHomeCard($card, row) {
 }
 
 const filterPath =
-    'filter/property-type=house+townhouse,include=sold-1wk/page-';
+    'filter/property-type=house+townhouse+multifamily,include=sold-1wk/page-';
 
 console.log('Starting to scrape Redfin...');
 for (const state of states) {
