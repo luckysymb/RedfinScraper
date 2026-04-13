@@ -2,59 +2,6 @@ import axios from 'axios';
 import fs from 'fs';
 import {load} from "cheerio";
 
-/** [fipsCode, stateName] — state name is turned into a Redfin URL segment (spaces → hyphens). */
-const states = [
-    'Alabama',
-    // 'Alaska',
-    'Arizona',
-    'Arkansas',
-    'Colorado',
-    'Connecticut',
-    'Delaware',
-    'Florida',
-    'Georgia',
-    'Hawaii',
-    // 'Idaho',
-    'Illinois',
-    'Indiana',
-    'Iowa',
-    // 'Kansas',
-    'Kentucky',
-    // 'Louisiana',
-    'Maine',
-    'Maryland',
-    'Massachusetts',
-    'Michigan',
-    'Minnesota',
-    // 'Mississippi',
-    // 'Missouri',
-    // 'Montana',
-    'Nebraska',
-    'Nevada',
-    'New-Hampshire',
-    'New-Jersey',
-    // 'New Mexico',
-    'New-York',
-    'North-Carolina',
-    // 'North Dakota',
-    'Ohio',
-    'Oklahoma',
-    'Oregon',
-    'Pennsylvania',
-    'Rhode-Island',
-    'South-Carolina',
-    'South-Dakota',
-    'Tennessee',
-    // 'Texas',
-    // 'Utah',
-    'Vermont',
-    'Virginia',
-    'Washington',
-    'West-Virginia',
-    'Wisconsin',
-    'California'
-    // 'Wyoming',
-];
 
 /** Schema.org types used on Redfin home cards (often SingleFamilyResidence even for townhomes). */
 const RESIDENCE_TYPES = new Set([
@@ -107,28 +54,6 @@ function mergeLdJsonListing(items) {
     };
 }
 
-/**
- * Total result pages from the search chrome, e.g. "Viewing page 1 of 1594"
- * (see `span[data-rf-test-name="download-and-save-page-number-text"]` in Redfin HTML).
- */
-function extractTotalPageCount($, html) {
-    const pageText =
-        $('[data-rf-test-name="download-and-save-page-number-text"]')
-            .text()
-            .trim() ||
-        $(".viewingPage span.pageText").first().text().trim();
-
-    let m = pageText.match(/Viewing\s+page\s+[\d,]+\s+of\s+([\d,]+)/i);
-    if (!m && html) {
-        m = String(html).match(/Viewing\s+page\s+[\d,]+\s+of\s+([\d,]+)/i);
-    }
-    if (m) {
-        const n = parseInt(m[1].replace(/,/g, ""), 10);
-        if (Number.isFinite(n) && n >= 1) return n;
-    }
-    return 1;
-}
-
 function enrichFromHomeCard($card, row) {
     if (!$card.length) return row;
     const bathsText = $card.find(".bp-Homecard__Stats--baths").text().trim();
@@ -152,11 +77,8 @@ function enrichFromHomeCard($card, row) {
     return row;
 }
 
-const filterPath =
-    'filter/property-type=house+townhouse+multifamily,status=contingent+pending/page-';
-
-console.log('Starting to scrape UnderContract&Pending Data from Redfin...');
-const outPath = new URL("dataset/redfin_homes_underContract_pending.jsonl", import.meta.url);
+console.log('Starting to scrape one page from Redfin...');
+const outPath = new URL("dataset/redfin_homes_forSale_Link.jsonl", import.meta.url);
 
 const requestHeaders = {
     accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -177,68 +99,45 @@ const requestHeaders = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
 };
 
-for (const state of states) {
-    const pageUrlFor = (n) =>
-        `https://www.redfin.com/state/${state}/${filterPath}${n}`;
-    const firstPageUrl = pageUrlFor(1);
-    let totalPages = 1;
-    let firstPageHtml = null;
+const pageUrl = 'https://www.redfin.com/state/Arizona/filter/property-type=house+townhouse+multifamily,include=sold-1mo/page-182';
+console.log(`Scraping ${pageUrl}`);
 
-    try {
-        const firstRes = await axios.get(firstPageUrl, { headers: requestHeaders });
-        firstPageHtml = firstRes.data;
-        const $0 = load(firstPageHtml);
-        totalPages = extractTotalPageCount($0, firstPageHtml);
-        console.log(`${state}: ${totalPages} page(s) (from search chrome)`);
-    } catch (error) {
-        console.error(`${state} first page:`, error.message);
-        continue;
-    }
-    for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
-        const pageUrl = pageUrlFor(pageNum);
-        console.log(`Scraping ${pageUrl}`);
+try {
+    const html = (await axios.get(pageUrl, { headers: requestHeaders })).data;
+    const $ = load(html);
+    const homes = [];
+    const seenIds = new Set();
 
+    $('script[type="application/ld+json"]').each((_, el) => {
+        const raw = $(el).html();
+        // if (!raw?.includes("SingleFamilyResidence")) return;
+
+        let data;
         try {
-            const html =
-                pageNum === 1 && firstPageHtml != null
-                    ? firstPageHtml
-                    : (await axios.get(pageUrl, { headers: requestHeaders })).data;
-            if (pageNum === 1) firstPageHtml = null;
-            const $ = load(html);
-            const homes = [];
-            const seenIds = new Set();
-
-            $('script[type="application/ld+json"]').each((_, el) => {
-                const raw = $(el).html();
-                // if (!raw?.includes("SingleFamilyResidence")) return;
-
-                let data;
-                try {
-                    data = JSON.parse(raw.trim());
-                } catch {
-                    return;
-                }
-
-                const row = mergeLdJsonListing(data);
-                if (!row?.id) return;
-                if (seenIds.has(row.id)) return;
-                seenIds.add(row.id);
-
-                const $card = $(el).closest(".bp-Homecard");
-                homes.push(enrichFromHomeCard($card, row));
-            });
-
-            fs.appendFileSync(
-                outPath,
-                homes.map(h => JSON.stringify(h)).join("\n") + "\n",
-                "utf8",
-            );
-
-            console.log(
-                `Extracted ${state} page ${pageNum}/${totalPages} — ${homes.length} homes → ${outPath.pathname}`,
-            );
-        } catch (error) {
-            console.error(`${state} page ${pageNum}:`, error.message);
+            data = JSON.parse(raw.trim());
+        } catch {
+            return;
         }
-    }
+
+        const row = mergeLdJsonListing(data);
+        if (!row?.id) return;
+        if (seenIds.has(row.id)) return;
+        seenIds.add(row.id);
+
+        const $card = $(el).closest(".bp-Homecard");
+        homes.push(enrichFromHomeCard($card, row));
+    });
+
+    fs.appendFileSync(
+        outPath,
+        homes.map(h => JSON.stringify(h)).join("\n") + "\n",
+        "utf8",
+    );
+
+    console.log(
+        `Extracted 1 page — ${homes.length} homes → ${outPath.pathname}`,
+    );
+} catch (error) {
+    console.error(`1 page:`, error.message);
+
 }

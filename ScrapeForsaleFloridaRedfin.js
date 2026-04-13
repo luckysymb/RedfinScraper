@@ -2,58 +2,75 @@ import axios from 'axios';
 import fs from 'fs';
 import {load} from "cheerio";
 
-/** [fipsCode, stateName] — state name is turned into a Redfin URL segment (spaces → hyphens). */
-const states = [
-    'Alabama',
-    // 'Alaska',
-    'Arizona',
-    'Arkansas',
-    'Colorado',
-    'Connecticut',
-    'Delaware',
-    'Florida',
-    'Georgia',
-    'Hawaii',
-    // 'Idaho',
-    'Illinois',
-    'Indiana',
-    'Iowa',
-    // 'Kansas',
-    'Kentucky',
-    // 'Louisiana',
-    'Maine',
-    'Maryland',
-    'Massachusetts',
-    'Michigan',
-    'Minnesota',
-    // 'Mississippi',
-    // 'Missouri',
-    // 'Montana',
-    'Nebraska',
-    'Nevada',
-    'New-Hampshire',
-    'New-Jersey',
-    // 'New Mexico',
-    'New-York',
-    'North-Carolina',
-    // 'North Dakota',
-    'Ohio',
-    'Oklahoma',
-    'Oregon',
-    'Pennsylvania',
-    'Rhode-Island',
-    'South-Carolina',
-    'South-Dakota',
-    'Tennessee',
-    // 'Texas',
-    // 'Utah',
-    'Vermont',
-    'Virginia',
-    'Washington',
-    'West-Virginia',
-    'Wisconsin',
-    'California'
-    // 'Wyoming',
+
+const urllist = [
+    "https://www.redfin.com/county/437/FL/Alachua-County",
+    "https://www.redfin.com/county/438/FL/Baker-County",
+    "https://www.redfin.com/county/439/FL/Bay-County",
+    "https://www.redfin.com/county/440/FL/Bradford-County",
+    "https://www.redfin.com/county/441/FL/Brevard-County",
+    "https://www.redfin.com/county/442/FL/Broward-County",
+    "https://www.redfin.com/county/443/FL/Calhoun-County",
+    "https://www.redfin.com/county/444/FL/Charlotte-County",
+    "https://www.redfin.com/county/445/FL/Citrus-County",
+    "https://www.redfin.com/county/446/FL/Clay-County",
+    "https://www.redfin.com/county/447/FL/Collier-County",
+    "https://www.redfin.com/county/448/FL/Columbia-County",
+    "https://www.redfin.com/county/449/FL/DeSoto-County",
+    "https://www.redfin.com/county/450/FL/Dixie-County",
+    "https://www.redfin.com/county/451/FL/Duval-County",
+    "https://www.redfin.com/county/452/FL/Escambia-County",
+    "https://www.redfin.com/county/453/FL/Flagler-County",
+    "https://www.redfin.com/county/454/FL/Franklin-County",
+    "https://www.redfin.com/county/455/FL/Gadsden-County",
+    "https://www.redfin.com/county/456/FL/Gilchrist-County",
+    "https://www.redfin.com/county/457/FL/Glades-County",
+    "https://www.redfin.com/county/458/FL/Gulf-County",
+    "https://www.redfin.com/county/459/FL/Hamilton-County",
+    "https://www.redfin.com/county/460/FL/Hardee-County",
+    "https://www.redfin.com/county/461/FL/Hendry-County",
+    "https://www.redfin.com/county/462/FL/Hernando-County",
+    "https://www.redfin.com/county/463/FL/Highlands-County",
+    "https://www.redfin.com/county/464/FL/Hillsborough-County",
+    "https://www.redfin.com/county/465/FL/Holmes-County",
+    "https://www.redfin.com/county/466/FL/Indian-River-County",
+    "https://www.redfin.com/county/467/FL/Jackson-County",
+    "https://www.redfin.com/county/468/FL/Jefferson-County",
+    "https://www.redfin.com/county/469/FL/Lafayette-County",
+    "https://www.redfin.com/county/470/FL/Lake-County",
+    "https://www.redfin.com/county/471/FL/Lee-County",
+    "https://www.redfin.com/county/472/FL/Leon-County",
+    "https://www.redfin.com/county/473/FL/Levy-County",
+    "https://www.redfin.com/county/474/FL/Liberty-County",
+    "https://www.redfin.com/county/475/FL/Madison-County",
+    "https://www.redfin.com/county/476/FL/Manatee-County",
+    "https://www.redfin.com/county/477/FL/Marion-County",
+    "https://www.redfin.com/county/478/FL/Martin-County",
+    "https://www.redfin.com/county/479/FL/Miami-Dade-County",
+    "https://www.redfin.com/county/480/FL/Monroe-County",
+    "https://www.redfin.com/county/481/FL/Nassau-County",
+    "https://www.redfin.com/county/482/FL/Okaloosa-County",
+    "https://www.redfin.com/county/483/FL/Okeechobee-County",
+    "https://www.redfin.com/county/484/FL/Orange-County",
+    "https://www.redfin.com/county/485/FL/Osceola-County",
+    "https://www.redfin.com/county/486/FL/Palm-Beach-County",
+    "https://www.redfin.com/county/487/FL/Pasco-County",
+    "https://www.redfin.com/county/488/FL/Pinellas-County",
+    "https://www.redfin.com/county/489/FL/Polk-County",
+    "https://www.redfin.com/county/490/FL/Putnam-County",
+    "https://www.redfin.com/county/491/FL/Santa-Rosa-County",
+    "https://www.redfin.com/county/492/FL/Sarasota-County",
+    "https://www.redfin.com/county/493/FL/Seminole-County",
+    "https://www.redfin.com/county/494/FL/St-Johns-County",
+    "https://www.redfin.com/county/495/FL/St-Lucie-County",
+    "https://www.redfin.com/county/496/FL/Sumter-County",
+    "https://www.redfin.com/county/497/FL/Suwannee-County",
+    "https://www.redfin.com/county/498/FL/Taylor-County",
+    "https://www.redfin.com/county/499/FL/Union-County",
+    "https://www.redfin.com/county/500/FL/Volusia-County",
+    "https://www.redfin.com/county/501/FL/Wakulla-County",
+    "https://www.redfin.com/county/502/FL/Walton-County",
+    "https://www.redfin.com/county/503/FL/Washington-County"
 ];
 
 /** Schema.org types used on Redfin home cards (often SingleFamilyResidence even for townhomes). */
@@ -153,10 +170,10 @@ function enrichFromHomeCard($card, row) {
 }
 
 const filterPath =
-    'filter/property-type=house+townhouse+multifamily,status=contingent+pending/page-';
+    'filter/property-type=house+townhouse+multifamily/page-';
 
-console.log('Starting to scrape UnderContract&Pending Data from Redfin...');
-const outPath = new URL("dataset/redfin_homes_underContract_pending.jsonl", import.meta.url);
+console.log('Starting to scrape Florida Forsale Data from Redfin...');
+const outPath = new URL("dataset/redfin_homes_forSale_Florida.jsonl", import.meta.url);
 
 const requestHeaders = {
     accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -177,9 +194,9 @@ const requestHeaders = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
 };
 
-for (const state of states) {
+for (const county of urllist) {
     const pageUrlFor = (n) =>
-        `https://www.redfin.com/state/${state}/${filterPath}${n}`;
+        `${county}/${filterPath}${n}`;
     const firstPageUrl = pageUrlFor(1);
     let totalPages = 1;
     let firstPageHtml = null;
@@ -189,9 +206,9 @@ for (const state of states) {
         firstPageHtml = firstRes.data;
         const $0 = load(firstPageHtml);
         totalPages = extractTotalPageCount($0, firstPageHtml);
-        console.log(`${state}: ${totalPages} page(s) (from search chrome)`);
+        console.log(`${county}: ${totalPages} page(s) (from search chrome)`);
     } catch (error) {
-        console.error(`${state} first page:`, error.message);
+        console.error(`${county} first page:`, error.message);
         continue;
     }
     for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
@@ -235,10 +252,10 @@ for (const state of states) {
             );
 
             console.log(
-                `Extracted ${state} page ${pageNum}/${totalPages} — ${homes.length} homes → ${outPath.pathname}`,
+                `Extracted ${county} page ${pageNum}/${totalPages} — ${homes.length} homes → ${outPath.pathname}`,
             );
         } catch (error) {
-            console.error(`${state} page ${pageNum}:`, error.message);
+            console.error(`${county} page ${pageNum}:`, error.message);
         }
     }
 }

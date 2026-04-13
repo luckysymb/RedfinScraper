@@ -70,20 +70,42 @@ function homeIdFromUrl(url) {
     return m ? m[1] : null;
 }
 
+/** Parse a Redfin-style price string (e.g. "$439,000") for numeric fields. */
+function parsePriceDisplay(text) {
+    const cleaned = String(text).replace(/[$,\s]/g, "");
+    if (!cleaned) return null;
+    const m = cleaned.match(/^\d+(?:\.\d+)?/);
+    if (!m) return null;
+    const n = Number(m[0]);
+    return Number.isFinite(n) ? n : null;
+}
+
 /**
- * Each listing is a two-element array: [SingleFamilyResidence|..., Product with Offer].
+ * For-sale cards: [SingleFamilyResidence|..., Product with Offer].
+ * Sold / some SERP cards: single SingleFamilyResidence object (no Product; price on the card only).
  */
-function mergeLdJsonListing(items) {
-    if (!Array.isArray(items) || items.length < 2) return null;
-    const residence = items.find((x) => x && RESIDENCE_TYPES.has(x["@type"]));
-    const product = items.find((x) => x && x["@type"] === "Product");
-    if (!residence || !product) return null;
+function mergeLdJsonListing(data) {
+    let residence;
+    let offer = null;
+    let urlFromProduct = null;
+
+    if (Array.isArray(data)) {
+        if (data.length < 2) return null;
+        residence = data.find((x) => x && RESIDENCE_TYPES.has(x["@type"]));
+        const product = data.find((x) => x && x["@type"] === "Product");
+        if (!residence || !product) return null;
+        offer = product.offers || {};
+        urlFromProduct = product.url;
+    } else if (data && typeof data === "object" && RESIDENCE_TYPES.has(data["@type"])) {
+        residence = data;
+    } else {
+        return null;
+    }
 
     const addr = residence.address || {};
-    const offer = product.offers || {};
     const geo = residence.geo || {};
     const floor = residence.floorSize || {};
-    const url = residence.url || product.url;
+    const url = residence.url || urlFromProduct;
 
     return {
         id: homeIdFromUrl(url),
@@ -99,10 +121,12 @@ function mergeLdJsonListing(items) {
         beds: residence.numberOfRooms ?? null,
         sqft: floor.value != null ? Number(floor.value) : null,
         price:
-            offer.price != null && offer.price !== ""
+            offer &&
+            offer.price != null &&
+            offer.price !== ""
                 ? Number(offer.price)
                 : null,
-        priceCurrency: offer.priceCurrency ?? null,
+        priceCurrency: offer?.priceCurrency ?? null,
         schemaPropertyType: residence["@type"],
     };
 }
@@ -128,7 +152,6 @@ function extractTotalPageCount($, html) {
     }
     return 1;
 }
-
 function enrichFromHomeCard($card, row) {
     if (!$card.length) return row;
     const bathsText = $card.find(".bp-Homecard__Stats--baths").text().trim();
@@ -149,14 +172,23 @@ function enrichFromHomeCard($card, row) {
         .trim();
     row.priceDisplay = priceDisplayed || null;
 
+    if (row.price == null && priceDisplayed) {
+        const parsed = parsePriceDisplay(priceDisplayed);
+        if (parsed != null) {
+            row.price = parsed;
+            if (!row.priceCurrency && /\$/.test(priceDisplayed)) {
+                row.priceCurrency = "USD";
+            }
+        }
+    }
+
     return row;
 }
-
 const filterPath =
-    'filter/property-type=house+townhouse+multifamily,status=contingent+pending/page-';
+    'filter/property-type=house+townhouse+multifamily,include=sold-1mo/page-';
 
-console.log('Starting to scrape UnderContract&Pending Data from Redfin...');
-const outPath = new URL("dataset/redfin_homes_underContract_pending.jsonl", import.meta.url);
+console.log('Starting to scrape Sold-1Month Data from Redfin...');
+const outPath = new URL("dataset/redfin_homes_Sold1mo.jsonl", import.meta.url);
 
 const requestHeaders = {
     accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
